@@ -4,6 +4,14 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome to the &lt;i0&gt;GameMaker Studio 2&lt;/i0&gt; user manual!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="deciia" changedate="20181008T050339Z" creationid="deciia" creationdate="20181008T050339Z">
+        <seg>欢迎使用 &lt;i0&gt;GameMaker Studio 2&lt;/i0&gt; user manual!</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
