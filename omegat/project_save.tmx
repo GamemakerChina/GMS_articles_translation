@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>GameMaker Studio 2 Manual</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181009T095451Z" creationid="哗啦" creationdate="20181009T095451Z">
+        <seg>GameMaker Studio 2 手册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welcome to the &lt;i0&gt;GameMaker Studio 2&lt;/i0&gt; user manual!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181008T063600Z" creationid="deciia" creationdate="20181008T050339Z">
         <seg>欢迎使用 &lt;i0&gt;GameMaker Studio 2&lt;/i0&gt;手册！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>online documentation, web online help, web help, chm2web</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181009T095403Z" creationid="哗啦" creationdate="20181009T095403Z">
+        <seg>在线文档，网络在线帮助，网络帮助b</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
