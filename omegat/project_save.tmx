@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This document is divided into three parts with the aim of getting you introduced to the interface and basic workings of &lt;i1&gt;GameMaker Studio 2&lt;/i1&gt; before going on to more advanced usage and the functions available through our propriety scripting language &lt;a2&gt;GML&lt;/a2&gt; or our visual scripting tool &lt;a3&gt;Drag and Drop&lt;/a3&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181009T102442Z" creationid="哗啦" creationdate="20181009T102442Z">
+        <seg>这个文档分成了三个部分，以便更好的给你介绍 &lt;i1&gt;GameMaker Studio 2&lt;/i1&gt;的界面和基础工作。 before going on to more advanced usage and the functions available through our propriety scripting language &lt;a2&gt;GML&lt;/a2&gt; or our visual scripting tool &lt;a3&gt;Drag and Drop&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welcome to the &lt;i0&gt;GameMaker Studio 2&lt;/i0&gt; user manual!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181008T063600Z" creationid="deciia" creationdate="20181008T050339Z">
