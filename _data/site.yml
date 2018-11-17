@@ -4,7 +4,7 @@ head:
    apple_touch_icon: "http://www.52gmk.com/view/img/favicon.ico" # the iOS Home button icon
    keywords: "gamemaker gamemakerchina" #  the site keywords
 header:
-    m_header: false
+    m_header: true
     m_color: mdui-color-pink-400
     m_background_url: "https://i.loli.net/2018/03/24/5ab63232e1e64.jpg"
     headroom: true
