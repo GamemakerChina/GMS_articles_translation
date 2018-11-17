@@ -1,4 +1,12 @@
-- name: EDITOR
+- name: Editor
   url: /editor/
   icon: "&#xe06f;"
   color: "blue"
+
+- name: Links
+  url: /friends/
+  icon: "&#xe8a3;"
+  color: "green"
+
+- name: navSearch
+  switch: true
