@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cozy Games</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="deciia" changedate="20181117T093215Z" creationid="deciia" creationdate="20181117T093215Z">
+        <seg>舒适的游戏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GameMaker Studio 2 Banner</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181009T095614Z" creationid="哗啦" creationdate="20181009T095614Z">
