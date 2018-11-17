@@ -1,0 +1,53 @@
+title:  # Meng title
+  switch: true # Meng title switch
+  visible: "(*´∇｀*) 被发现啦~" # State is visible text
+  hidden:  "(つェ⊂)看不到我~" # State is hidden text
+  with_default_title: true # with default title
+  reset_time: 1000 # If state is visible , reset default title times(ms)
+cursor: # Meng cursor
+  switch: true
+  auto_url: "https://ooo.0o0.ooo/2017/06/12/593ea1901c930.png"
+  pointer_url: "https://ooo.0o0.ooo/2017/06/12/593ea3612fd77.png"
+console: # Meng console info
+  switch: false # Meng console info switch
+  theme_info: true # output theme info
+  text: "Copyright © 2017 Jekyll-Theme-MDUI" # text
+  color: "#fff" # text color
+  background: "#448aff" # background color
+header: 
+  switch: true
+background: # Meng background
+  switch: false
+  background_img: ""
+  transparent_header: true
+  transparent_footer: false
+  text_color: '#000'
+card: # Meng card
+  switch: true
+  background_color: 'rgba(255, 255, 255, 1.0)'
+  card_img_opacity: '1.0'
+live2d: # live2d ,see https://github.com/EYHN/hexo-helper-live2d
+  switch: false
+  model: "/assets/33/33.model.json" # model.json path
+  drag: true # is drag ?
+  width: 170 # canvas width
+  height: 510 # canvas height
+  bottom: -40 # canvas bottom
+  leftOrRight: "right" # left or right
+  offset: 20 # offset
+aplayer:
+  switch: false
+  button_color: "#1abc9c"
+  music:
+    title: 'Faded'
+    author: 'Alan Walker'
+    url: ''
+    pic: 'http://p4.music.126.net/8dzD62VK8jLDbhEqkmpIAg==/18277181788626198.jpg?param=130y130'
+head_card:
+  switch: true
+  author: false
+  left_img: "https://ooo.0o0.ooo/2017/07/28/597b33b5aa60e.jpg"
+  text_wisdom: true
+  left_text: "『人呐就不知道』"
+  right_img: "https://i.loli.net/2017/07/28/597b01daaf4ad.png"
+  offset_level: 2

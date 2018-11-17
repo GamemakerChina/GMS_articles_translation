@@ -1,0 +1,4 @@
+- name: EDITOR
+  url: /editor/
+  icon: "&#xe06f;"
+  color: "blue"
