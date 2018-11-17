@@ -2,7 +2,8 @@
 layout: post
 title: Cozy Games
 date: 2018-11-17 18:26:11 +0800
-categories: undefined
+categories: normal
+author: deciia
 tags:
 img:
 ---
