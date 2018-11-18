@@ -5,10 +5,10 @@ head:
    keywords: "gamemaker gamemakerchina" #  the site keywords
 header:
     m_header: true
-    m_color: mdui-color-pink-400
+    m_color: mdui-color-green-400
     m_background_url: "https://i.loli.net/2018/03/24/5ab63232e1e64.jpg"
-    headroom: true
-    m_icon_color: pink
+    headroom: false
+    m_icon_color: green
 uiux:
    android_chrome_color: "#eeeeee" #  the color of the Chrome address bar
    nprogress_color: "#29d" #  the color of the top loading progress bar
