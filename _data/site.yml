@@ -1,5 +1,5 @@
 head: 
-   favicon: "assets/favicon.ico" #  the favicon
+   favicon: "/assets/favicon.ico" #  the favicon
    high_res_favicon: "assets/favicon.ico" #  the favicon using high quality format
    apple_touch_icon: "assets/favicon.ico" # the iOS Home button icon
    keywords: "gamemaker gamemakerchina" #  the site keywords
