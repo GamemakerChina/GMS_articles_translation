@@ -2,7 +2,7 @@ title: "GamemakerChina 文库"
 description: "收录已经过翻译的 GM 文章"
 url: 
 baseurl: "/"
-author: "LiarOnce"
+author: "GamemakerChina 文库"
 paginate: 5
 paginate_path: "/blog/page:num/"
 

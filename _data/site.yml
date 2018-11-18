@@ -17,7 +17,7 @@ uiux:
 background: 
    purecolor: "#eeeeee" # the background color
 img: 
-   avatar: "http://www.52gmk.com/view/img/logo.png" # your avatar
+   avatar: "" # your avatar
 card: 
    card_shadow: 5 # card shadow (0-24), 0 is not displayed
    card_hoverable: true # When the hover to deepen the shadow

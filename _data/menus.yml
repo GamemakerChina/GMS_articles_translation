@@ -7,6 +7,3 @@
   url: /friends/
   icon: "&#xe8a3;"
   color: "green"
-
-- name: navSearch
-  switch: true
