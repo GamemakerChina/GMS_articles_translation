@@ -1,7 +1,7 @@
 head: 
-   favicon: "http://www.52gmk.com/view/img/favicon.ico" #  the favicon
-   high_res_favicon: "http://www.52gmk.com/view/img/favicon.ico" #  the favicon using high quality format
-   apple_touch_icon: "http://www.52gmk.com/view/img/favicon.ico" # the iOS Home button icon
+   favicon: "assets/favicon.ico" #  the favicon
+   high_res_favicon: "assets/favicon.ico" #  the favicon using high quality format
+   apple_touch_icon: "assets/favicon.ico" # the iOS Home button icon
    keywords: "gamemaker gamemakerchina" #  the site keywords
 header:
     m_header: true
