@@ -14,10 +14,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coziness can help your game appeal to broader audiences.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132524Z" creationid="哗啦" creationdate="20181201T132524Z">
+        <seg>舒适感可以让你的游戏有更广泛的受众。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coziness is a common aesthetic in popular games such as Animal Crossing or Stardew Valley, yet it rarely discussed within design circles.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132337Z" creationid="哗啦" creationdate="20181201T132337Z">
         <seg>舒适感是在游戏中一种常见的审美，就像《动物之森》和《星露谷物语》，但它很少在设计圈被讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coziness is an ingredient that can applied to a wide variety of both casual and core genres.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132623Z" creationid="哗啦" creationdate="20181201T132623Z">
+        <seg>舒适感是可以使用于各种休闲或核心类型的元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -42,6 +58,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181009T095451Z" creationid="哗啦" creationdate="20181009T095451Z">
         <seg>GameMaker Studio 2 手册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How do we make our games more cozy?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132440Z" creationid="哗啦" creationdate="20181201T132440Z">
+        <seg>我们怎样才能让我们游戏更加舒适呢？</seg>
       </tuv>
     </tu>
     <tu>
@@ -90,6 +114,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132421Z" creationid="哗啦" creationdate="20181201T132421Z">
         <seg>“舒适”是什么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What we found during our exploration:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132459Z" creationid="哗啦" creationdate="20181201T132459Z">
+        <seg>我们在探索中发现一些东西：</seg>
       </tuv>
     </tu>
     <tu>
