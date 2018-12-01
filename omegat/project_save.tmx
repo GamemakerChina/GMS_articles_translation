@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coziness is a common aesthetic in popular games such as Animal Crossing or Stardew Valley, yet it rarely discussed within design circles.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132337Z" creationid="哗啦" creationdate="20181201T132337Z">
+        <seg>舒适感是在游戏中一种常见的审美，就像《动物之森》和《星露谷物语》，但它很少在设计圈被讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cozy Games</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181117T093215Z" creationid="deciia" creationdate="20181117T093215Z">
@@ -38,6 +46,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Our group consisted of:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132224Z" creationid="哗啦" creationdate="20181201T132224Z">
+        <seg>我们的组员包括：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Our group of designers did a deep dive to understand:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132404Z" creationid="哗啦" creationdate="20181201T132404Z">
+        <seg>我们这一组设计师深入探讨来理解：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This document is divided into three parts with the aim of getting you introduced to the interface and basic workings of &lt;i1&gt;GameMaker Studio 2&lt;/i1&gt; before going on to more advanced usage and the functions available through our propriety scripting language &lt;a2&gt;GML&lt;/a2&gt; or our visual scripting tool &lt;a3&gt;Drag and Drop&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181009T102442Z" creationid="哗啦" creationdate="20181009T102442Z">
@@ -50,6 +74,30 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181008T063600Z" creationid="deciia" creationdate="20181008T050339Z">
         <seg>欢迎使用 &lt;i0&gt;GameMaker Studio 2&lt;/i0&gt;手册！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What a productive, happy group of people!</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132156Z" creationid="哗啦" creationdate="20181201T132156Z">
+        <seg>多么富有创造力，欢乐的一群人啊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is ‘Cozy’?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132421Z" creationid="哗啦" creationdate="20181201T132421Z">
+        <seg>“舒适”是什么？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can read the other reports here:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132210Z" creationid="哗啦" creationdate="20181201T132210Z">
+        <seg>你可以在这儿看到其它的报道：</seg>
       </tuv>
     </tu>
     <tu>
