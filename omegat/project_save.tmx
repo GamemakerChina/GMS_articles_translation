@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a system brings about a strong lower order need, the player’s attention will immediately shift to deal with the more pressing issue.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145243Z" creationid="哗啦" creationdate="20181202T145243Z">
+        <seg>如果游戏机制需要强烈的低层次需求，那么玩家的注意力会被吸引到处理这些紧迫的事情上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Covey’s time management, tasks can be categorized along two axis: Urgent to Not Urgent and Important to Not Important.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093710Z" creationid="哗啦" creationdate="20181202T093710Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093029Z" creationid="哗啦" creationdate="20181202T093029Z">
         <seg>与舒适有关的马斯洛需求层次&lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Negating Coziness</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145118Z" creationid="哗啦" creationdate="20181202T145118Z">
+        <seg>破坏舒适感的过程</seg>
       </tuv>
     </tu>
     <tu>
@@ -386,6 +402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091946Z" creationid="哗啦" creationdate="20181202T091946Z">
         <seg>就好像你不可能边在公司上班边击退恐怖袭击者。但游戏可以让他们安全轻松地练习这些技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The process of negating coziness&lt;x1/&gt;: Because many common game mechanics are derived from satisfying lower order needs, it is very easy to accidentally disrupt the player’s feeling of coziness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145109Z" creationid="哗啦" creationdate="20181202T145109Z">
+        <seg>破坏舒适感的过程&lt;x1/&gt;: 由于许多常见的游戏机制都是用于于满足较低层次的需求，因此很容易破坏玩家的舒适感。</seg>
       </tuv>
     </tu>
     <tu>
