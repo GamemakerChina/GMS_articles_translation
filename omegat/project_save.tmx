@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Covey’s Time Management Grid, 7 Habits of Highly Effective People.&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093528Z" creationid="哗啦" creationdate="20181202T093528Z">
+        <seg>柯维的时间管理网格，高效能人士的七个习惯&lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coziness can help your game appeal to broader audiences.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132524Z" creationid="哗啦" creationdate="20181201T132524Z">
@@ -202,6 +210,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092707Z" creationid="哗啦" creationdate="20181202T092707Z">
         <seg>饥饿只专注于食物等基本需求，而舒适游戏为诸如掌握，自我反思和人际联系等更高阶的需求创造了空间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In Covey’s time management, tasks can be categorized along two axis: Urgent to Not Urgent and Important to Not Important.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093710Z" creationid="哗啦" creationdate="20181202T093710Z">
+        <seg>在柯维的时间管理中，任务被按照两个轴分类：紧急和不紧急是一个轴，重要和不重要是另一个轴。</seg>
       </tuv>
     </tu>
     <tu>
@@ -390,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We can think of this also from the perspective of time and attention management.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093606Z" creationid="哗啦" creationdate="20181202T093606Z">
+        <seg>我们可以认为这些来自于对时间和注意力掌控的观察。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welcome to the &lt;i0&gt;GameMaker Studio 2&lt;/i0&gt; user manual!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181008T063600Z" creationid="deciia" creationdate="20181008T050339Z">
@@ -426,6 +450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132459Z" creationid="哗啦" creationdate="20181201T132459Z">
         <seg>我们在探索中发现一些东西：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When people manage their time, there’s a natural tendency (in alignment with Maslow’s Hierarchy) to focus on Urgent tasks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093818Z" creationid="哗啦" creationdate="20181202T093818Z">
+        <seg>当人们管理他们的时间时，他们自然会先关注那些紧急的任务（对照马斯洛层次）。</seg>
       </tuv>
     </tu>
     <tu>
