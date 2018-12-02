@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Admittedly, Maslow’s Hierarchy of Needs and Covey’s Time Management Grid are older motivational models, but the same key insight can be recontextualized in terms of the newer Self Determination Theory (SDT).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T094334Z" creationid="哗啦" creationdate="20181202T094334Z">
+        <seg>确实，马斯洛需求层次和柯维时间管理网格并不新颖的动机模型，但他们的关键点都可以被放在新的模型——Self Determination Theory (SDT)中考虑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the bottom are pressing needs like thirst, hunger and safety.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092742Z" creationid="哗啦" creationdate="20181202T092742Z">
@@ -318,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>SDT proposes that people thrive when they are able to pursue intrinsic motivations such as Autonomy, Competence and Relatedness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T094416Z" creationid="哗啦" creationdate="20181202T094416Z">
+        <seg>SDT 提出，当人们能够追求诸如自主、能力和人际关系等内在动机时，他们就会茁壮成长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Safety:&lt;x1/&gt; A cozy game has an absence of danger and risk.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T090808Z" creationid="哗啦" creationdate="20181202T090808Z">
@@ -378,6 +394,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091444Z" creationid="哗啦" creationdate="20181202T091444Z">
         <seg>这些是温和而舒适的刺激，玩家不会想面对强敌那样亢奋，但仍然高度参与和存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They stop thriving when they are presented with extrinsic motivators that suck up their attention.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T094429Z" creationid="哗啦" creationdate="20181202T094429Z">
+        <seg>当他们面对吸引他们注意力的外部激励因素时，他们就会停止发展。</seg>
       </tuv>
     </tu>
     <tu>
