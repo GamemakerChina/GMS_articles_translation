@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Each game genre taps into a highly specific set of motivations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092139Z" creationid="哗啦" creationdate="20181202T092139Z">
+        <seg>每种特定的游戏类型都能触发一系列高度特定的动机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Familiarity, reliability, and one’s ability to be vulnerable and expressive without negative ramification all augment the feeling of safety.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T090956Z" creationid="哗啦" creationdate="20181202T090956Z">
@@ -98,6 +106,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091839Z" creationid="哗啦" creationdate="20181202T091839Z">
         <seg>首先, 我们把游戏看作是一种安全的练习&lt;/x1&gt;形式：人们玩游戏是因为它允许他们尝试特定的活动，这些活动在现实中通常成本高昂，有的甚至根本无法实现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example a survival game such as ‘Don’t Starve’ is very upfront about the fact that it, mechanically and thematically, let’s player explore the planning and tactical issues around getting food.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092236Z" creationid="哗啦" creationdate="20181202T092236Z">
+        <seg>例如，生成游戏《饥荒》，无论是从机制还是从主题上来说，都是让玩家直面生存险境，玩家需要探索有关获取食物的规划和战术问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, when we get hungry, we are motivated to find food and eat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092051Z" creationid="哗啦" creationdate="20181202T092051Z">
+        <seg>例如，当我们饿了，我们就有了寻找食物和吃饭的动力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -174,10 +198,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players seek to fulfill their emotional and psychological needs within games.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092059Z" creationid="哗啦" creationdate="20181202T092059Z">
+        <seg>玩家寻求在游戏中满足他们的情感和心理需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Safety:&lt;x1/&gt; A cozy game has an absence of danger and risk.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T090808Z" creationid="哗啦" creationdate="20181202T090808Z">
         <seg>平安：&lt;x1/&gt; 舒适游戏没有威胁或风险。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Second, we see games as a means of satisfying unmet needs&lt;x1/&gt;: The human animal is motivated to fulfill various needs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092033Z" creationid="哗啦" creationdate="20181202T092033Z">
+        <seg>其次, 我们认为游戏是满足人们需求的一种&lt;/x1&gt;方法：人类作为一种动物有满足各种需求的动力。</seg>
       </tuv>
     </tu>
     <tu>
@@ -226,6 +266,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181009T102442Z" creationid="哗啦" creationdate="20181009T102442Z">
         <seg>这个文档分成了三个部分，以便更好的给你介绍 &lt;i1&gt;GameMaker Studio 2&lt;/i1&gt;的界面和基础工作。 before going on to more advanced usage and the functions available through our propriety scripting language &lt;a2&gt;GML&lt;/a2&gt; or our visual scripting tool &lt;a3&gt;Drag and Drop&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This ties back into play as practice.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092255Z" creationid="哗啦" creationdate="20181202T092255Z">
+        <seg>这把游戏和实践相关联。</seg>
       </tuv>
     </tu>
     <tu>
