@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fulfilling needs</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091622Z" creationid="哗啦" creationdate="20181202T091622Z">
+        <seg>满足需求</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>GameMaker Studio 2 Banner</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181009T095614Z" creationid="哗啦" creationdate="20181009T095614Z">
@@ -166,10 +174,34 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Soft stimuli implies authenticity, sincerity, and humanity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091617Z" creationid="哗啦" creationdate="20181202T091617Z">
+        <seg>软刺激意味着真实，真诚和人性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Softness&lt;x1/&gt;: Cozy games use strong aesthetic signals that tell players they are in a low stress environment full of abundance and safety.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091312Z" creationid="哗啦" creationdate="20181202T091312Z">
         <seg>轻柔：&lt;x1/&gt;舒适游戏使用强烈的审美信号，来告诉玩家他们在一个低压力的，富有且安全的环境中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There’s often an intimacy of space and emotion, with a slower tempo pace and manageable scope (spatially, emotionally, and otherwise).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091556Z" creationid="哗啦" creationdate="20181202T091556Z">
+        <seg>在空间和情感上有亲密感，并且节奏速度较慢，范围可控（空间，情感和其他方面）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These are gentle and comforting stimulus, where players have a lower state of arousal but can still be highly engaged and present.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091444Z" creationid="哗啦" creationdate="20181202T091444Z">
+        <seg>这些是温和而舒适的刺激，玩家不会想面对强敌那样亢奋，但仍然高度参与和存在。</seg>
       </tuv>
     </tu>
     <tu>
