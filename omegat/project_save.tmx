@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distractions also demand attention, generating a need.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T150635Z" creationid="哗啦" creationdate="20181202T150635Z">
+        <seg>令人分心的事同样需要关注，并产生需求。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each game genre taps into a highly specific set of motivations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092139Z" creationid="哗啦" creationdate="20181202T092139Z">
@@ -314,6 +322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T090849Z" creationid="哗啦" creationdate="20181202T090849Z">
         <seg>在舒适游戏里，没有什么是高风险的，也没有即将发生的损失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intense stimulus&lt;x1/&gt;: Anything sudden, disproportionately bright or loud, or invasive/proximal can diminish the feeling of coziness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T150838Z" creationid="哗啦" creationdate="20181202T150838Z">
+        <seg>强烈的刺激：&lt;x1/&gt;任何突然，过亮的光线和过大的声音，或袭击或者对身体的接触都会减小舒适感。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -474,6 +490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145109Z" creationid="哗啦" creationdate="20181202T145109Z">
         <seg>破坏舒适感的过程&lt;x1/&gt;: 由于许多常见的游戏机制都是用于于满足较低层次的需求，因此很容易破坏玩家的舒适感。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their agency around being able to explore and appreciate a game in their own way is lost.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T150608Z" creationid="哗啦" creationdate="20181202T150608Z">
+        <seg>他们将不能以自己喜欢的方式去探索和欣赏这个游戏。</seg>
       </tuv>
     </tu>
     <tu>
