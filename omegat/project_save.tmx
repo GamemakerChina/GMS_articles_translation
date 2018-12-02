@@ -22,10 +22,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the bottom are pressing needs like thirst, hunger and safety.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092742Z" creationid="哗啦" creationdate="20181202T092742Z">
+        <seg>底层是紧迫的需求，如水，食物和安全。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But we are still immensely motivated to practice that associated skills if we are subconsciously worried about survival.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092356Z" creationid="哗啦" creationdate="20181202T092356Z">
         <seg>但是，如果我们潜意识里担心生存，我们仍然有极大的动力去练习相关的技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consider Maslow’s Hierarchy of Needs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092723Z" creationid="哗啦" creationdate="20181202T092723Z">
+        <seg>看看马斯洛需求层次理论。</seg>
       </tuv>
     </tu>
     <tu>
@@ -170,6 +186,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132440Z" creationid="哗啦" creationdate="20181201T132440Z">
         <seg>我们怎样才能让我们游戏更加舒适呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, unlike a game like Don’t Starve which focuses on base needs like starvation, cozy games creates spaces for higher order needs like mastery, self-reflection and connectedness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092707Z" creationid="哗啦" creationdate="20181202T092707Z">
+        <seg>饥饿只专注于食物等基本需求，而舒适游戏为诸如掌握，自我反思和人际联系等更高阶的需求创造了空间。</seg>
       </tuv>
     </tu>
     <tu>
