@@ -158,6 +158,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Extrinsic reward&lt;x1/&gt;: Almost any form of extrinsic reward generates a pressing transactional short-term need.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145624Z" creationid="哗啦" creationdate="20181202T145559Z">
+        <seg>外在回报：&lt;x1/&gt;: 几乎任何形式的外部回报都会产生一种紧迫的短期交易需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Factors that negate coziness include:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145516Z" creationid="哗啦" creationdate="20181202T145516Z">
+        <seg>会破坏舒适感的元素包括：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Familiarity, reliability, and one’s ability to be vulnerable and expressive without negative ramification all augment the feeling of safety.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T090956Z" creationid="哗啦" creationdate="20181202T090956Z">
@@ -218,6 +234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093857Z" creationid="哗啦" creationdate="20181202T093857Z">
         <seg>游戏如此擅长于让玩家完成那些紧急但不是很重要的活动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>High priority, low order needs get dealt with first; that’s just how humans prioritize.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145440Z" creationid="哗啦" creationdate="20181202T145351Z">
+        <seg>首先处理高优先级的低层次的需求。这就是人类对需要处理事件的排序。</seg>
       </tuv>
     </tu>
     <tu>
@@ -538,6 +562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092920Z" creationid="哗啦" creationdate="20181202T092920Z">
         <seg>当有这些需求时，玩家就会立即被这些需求&lt;x1/&gt;吸引&lt;x2/&gt; 注意力，而不再考虑那些高层次需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When this happens, coziness evaporates.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145503Z" creationid="哗啦" creationdate="20181202T145503Z">
+        <seg>这样舒适感也随之蒸发。</seg>
       </tuv>
     </tu>
     <tu>
