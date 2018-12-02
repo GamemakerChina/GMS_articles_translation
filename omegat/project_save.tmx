@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coziness helps retention by giving players control over pacing while still maintaining engagement during periods of rest.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T090437Z" creationid="哗啦" creationdate="20181202T090437Z">
+        <seg>舒适感可以让玩家掌控节奏，就算玩家在休息时也能参与到游戏中来。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coziness is a common aesthetic in popular games such as Animal Crossing or Stardew Valley, yet it rarely discussed within design circles.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132337Z" creationid="哗啦" creationdate="20181201T132337Z">
@@ -50,6 +58,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181117T093215Z" creationid="deciia" creationdate="20181117T093215Z">
         <seg>舒适的游戏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Definition of Coziness</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T090637Z" creationid="哗啦" creationdate="20181202T090637Z">
+        <seg>舒适的定义</seg>
       </tuv>
     </tu>
     <tu>
@@ -114,6 +130,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132156Z" creationid="哗啦" creationdate="20181201T132156Z">
         <seg>多么富有创造力，欢乐的一群人啊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is Cozy?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T090629Z" creationid="哗啦" creationdate="20181202T090629Z">
+        <seg>什么是舒适？</seg>
       </tuv>
     </tu>
     <tu>
