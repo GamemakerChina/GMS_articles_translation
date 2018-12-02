@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An uninvited presence can feel threatening, or just suggest an unsought expectation of interaction, reciprocation, or responsibility.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T151756Z" creationid="哗啦" creationdate="20181202T151756Z">
+        <seg>突然遇到的事可能会让人感到被威胁，但也可能只是暗示了一种期待，期待互动、回报或责任.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the bottom are pressing needs like thirst, hunger and safety.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092742Z" creationid="哗啦" creationdate="20181202T092742Z">
@@ -378,6 +386,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145118Z" creationid="哗啦" creationdate="20181202T145118Z">
         <seg>破坏舒适感的过程</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Non-consensual social presence&lt;x1/&gt;: Anything non-consensual removes a player’s feeling of safety, but this is especially relevant in social situations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T151658Z" creationid="哗啦" creationdate="20181202T151658Z">
+        <seg>未经商议的社会活动：&lt;x1/&gt;任何未经商议的活动都会减弱玩家的安全感。尽管这些活动有些时候很重要。</seg>
       </tuv>
     </tu>
     <tu>
