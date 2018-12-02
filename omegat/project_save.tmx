@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Danger, fear, threat&lt;x1/&gt;: Any sense of impending danger triggers biological responses in the player.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145700Z" creationid="哗啦" creationdate="20181202T145700Z">
+        <seg>危险、恐惧、威胁：&lt;x1/&gt;任何迫在眉睫的危险都会触发玩家的生物反应。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Definition of Coziness</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T090637Z" creationid="哗啦" creationdate="20181202T090637Z">
@@ -342,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Often times, cozy spaces are presented as reprieve or refuge from these dangers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145804Z" creationid="哗啦" creationdate="20181202T145804Z">
+        <seg>通常情况下，舒适的空间是为了缓解或逃避这些危险。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Our group consisted of:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132224Z" creationid="哗啦" creationdate="20181201T132224Z">
@@ -434,6 +450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145109Z" creationid="哗啦" creationdate="20181202T145109Z">
         <seg>破坏舒适感的过程&lt;x1/&gt;: 由于许多常见的游戏机制都是用于于满足较低层次的需求，因此很容易破坏玩家的舒适感。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Their sympathetic nervous system kicks, adrenaline floods the body, and memory suffers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145747Z" creationid="哗啦" creationdate="20181202T145747Z">
+        <seg>他们的交感神经系统兴奋，肾上腺素泛滥全身，记忆力受损。</seg>
       </tuv>
     </tu>
     <tu>
