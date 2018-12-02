@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Examples include any form of mandatory maintenance, needy pets, companions, or entities that require constant, non-optional care.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T150332Z" creationid="哗啦" creationdate="20181202T150332Z">
+        <seg>需要负责任的对象包括任何形式需要维护的物体，需要照顾的宠物，同伴，或需要强制维护的实体（译者注：例如电梯和汽车，这些都要定时维护）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Extrinsic reward&lt;x1/&gt;: Almost any form of extrinsic reward generates a pressing transactional short-term need.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145624Z" creationid="哗啦" creationdate="20181202T145559Z">
@@ -538,6 +546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091720Z" creationid="哗啦" creationdate="20181202T091720Z">
         <seg>有两个模型可以帮助我们更好地了解舒适如何产生有意义的游戏玩法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unpleasant distractions&lt;x1/&gt;: Distractions such as notifications, sudden noises or nagging remove a player’s autonomy over their focus.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T150520Z" creationid="哗啦" creationdate="20181202T150520Z">
+        <seg>令人烦恼的分心&lt;x1/&gt;：令人分心的事包括通知，突然的声音，或令玩家不能专注的唠叨。</seg>
       </tuv>
     </tu>
     <tu>
