@@ -422,6 +422,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Phobia sources&lt;x1/&gt;: Anything commonly associated with a phobia, such as spiders, guns, or knives, can suggest harm or threat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T151240Z" creationid="哗啦" creationdate="20181202T151240Z">
+        <seg>恐惧来源：&lt;x1/&gt;:任何能产生恐惧的东西，如蜘蛛、枪或刀，都可能暗示伤害或威胁。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Players don’t need to worry about the high stress, immediate trials of mere survival and can instead put their attention towards the delicate work of becoming a better person.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093455Z" creationid="哗啦" creationdate="20181202T093455Z">
@@ -546,6 +554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T094429Z" creationid="哗啦" creationdate="20181202T094429Z">
         <seg>当他们面对吸引他们注意力的外部激励因素时，他们就会停止发展。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can be mitigated by context: for instance, the presence of a knife in order to cook or perform other nurturing activities, especially if it cannot be used for violence.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T151424Z" creationid="哗啦" creationdate="20181202T151424Z">
+        <seg>但是这可以通过背景信息来减轻：例如刀的出现并不是用于暴力，而是用来切菜做饭。</seg>
       </tuv>
     </tu>
     <tu>
