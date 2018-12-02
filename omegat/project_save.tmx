@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cozy games give players space to deal with emotional and social maintenance and growth.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093115Z" creationid="哗啦" creationdate="20181202T093115Z">
+        <seg>舒适游戏为玩家练习处理情感和维持社会以及发展提供了空间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cozy games help player practice fulfilling higher order needs&lt;x1/&gt;: Cozy games also fulfill player needs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092546Z" creationid="哗啦" creationdate="20181202T092546Z">
@@ -214,10 +222,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is impossible to have a quiet conversation on a difficult subject while being attacked by a bear.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093012Z" creationid="哗啦" creationdate="20181202T093012Z">
+        <seg>就像你不可能在被棕熊袭击，以致于生命受到威胁时，还能和别人悠闲地交谈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lower level Maslow needs (food, shelter) are met or being met, providing space to work on higher needs (deeper relationships, appreciation of beauty, self actualization, nurturing, belonging).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091156Z" creationid="哗啦" creationdate="20181202T091156Z">
         <seg>较低水平的马斯洛需求（食物，住所）得到满足，为更高的需求（更深层次的关系，对美的欣赏，自我实现，培育，归属）提供了空间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Maslow’s hierarchy of needs as it relates to coziness&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093029Z" creationid="哗啦" creationdate="20181202T093029Z">
+        <seg>与舒适有关的马斯洛需求层次&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -394,6 +418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132459Z" creationid="哗啦" creationdate="20181201T132459Z">
         <seg>我们在探索中发现一些东西：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When these are present, they immediately &lt;x1/&gt;grab&lt;x2/&gt; the limited attention of the player and deprioritize those higher order needs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092920Z" creationid="哗啦" creationdate="20181202T092920Z">
+        <seg>当有这些需求时，玩家就会立即被这些需求&lt;x1/&gt;吸引&lt;x2/&gt; 注意力，而不再考虑那些高层次需求。</seg>
       </tuv>
     </tu>
     <tu>
