@@ -166,6 +166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Distance&lt;x1/&gt;: Vast spaces eliminate a sense of safety by being unknowable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T151029Z" creationid="哗啦" creationdate="20181202T151029Z">
+        <seg>距离：&lt;x1/&gt;过大的空间会使玩家产生未知感，从而产生不安全感。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Distractions also demand attention, generating a need.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T150635Z" creationid="哗啦" creationdate="20181202T150635Z">
@@ -282,6 +290,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132440Z" creationid="哗啦" creationdate="20181201T132440Z">
         <seg>我们怎样才能让我们游戏更加舒适呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, it is still possible to create very subtle or natural thresholds that establish a cozy space within the context of something broad: like a campfire in the middle of a wood.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T151135Z" creationid="哗啦" creationdate="20181202T151135Z">
+        <seg>然而，我们仍然有可能创建非常微妙的或自然的临界值，在广阔的环境中建立一个舒适的空间:就像树林中间的篝火.</seg>
       </tuv>
     </tu>
     <tu>
