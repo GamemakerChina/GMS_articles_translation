@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cozy games are designed to focus the player on Not Urgent yet Important tasks that are unfortunately deprioritized.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T094053Z" creationid="哗啦" creationdate="20181202T094053Z">
+        <seg>舒适游戏就是为了让玩家去关注那些不紧急但重要的事，那些他们之前没法关注的事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cozy games give players space to deal with emotional and social maintenance and growth.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093115Z" creationid="哗啦" creationdate="20181202T093115Z">
@@ -194,6 +202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181009T095451Z" creationid="哗啦" creationdate="20181009T095451Z">
         <seg>GameMaker Studio 2 手册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Games in particular excel at filling the player’s time with Urgent but not very Important activities.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093857Z" creationid="哗啦" creationdate="20181202T093857Z">
+        <seg>游戏如此擅长于让玩家完成那些紧急但不是很重要的活动。</seg>
       </tuv>
     </tu>
     <tu>
