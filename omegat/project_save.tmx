@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coziness itself refers to how strongly a game evokes the fantasy of safety, abundance, and softness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T090728Z" creationid="哗啦" creationdate="20181202T090728Z">
+        <seg>舒适本身就是指游戏如何强烈地唤起对安全，富有和轻柔的想象。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cozy Games</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181117T093215Z" creationid="deciia" creationdate="20181117T093215Z">
@@ -66,6 +74,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T090637Z" creationid="哗啦" creationdate="20181202T090637Z">
         <seg>舒适的定义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Familiarity, reliability, and one’s ability to be vulnerable and expressive without negative ramification all augment the feeling of safety.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T090956Z" creationid="哗啦" creationdate="20181202T090956Z">
+        <seg>亲切感，信任感，没有人需要假装自己很坚强，已经不表达负面的影响，这些都增加了安全感。</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In a cozy game, nothing is high-risk, and there is no impending loss or threat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T090849Z" creationid="哗啦" creationdate="20181202T090849Z">
+        <seg>在舒适游戏里，没有什么是高风险的，也没有即将发生的损失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Our group consisted of:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132224Z" creationid="哗啦" creationdate="20181201T132224Z">
@@ -110,10 +134,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Safety:&lt;x1/&gt; A cozy game has an absence of danger and risk.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T090808Z" creationid="哗啦" creationdate="20181202T090808Z">
+        <seg>平安：&lt;x1/&gt; 舒适游戏没有威胁或风险。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This document is divided into three parts with the aim of getting you introduced to the interface and basic workings of &lt;i1&gt;GameMaker Studio 2&lt;/i1&gt; before going on to more advanced usage and the functions available through our propriety scripting language &lt;a2&gt;GML&lt;/a2&gt; or our visual scripting tool &lt;a3&gt;Drag and Drop&lt;/a3&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181009T102442Z" creationid="哗啦" creationdate="20181009T102442Z">
         <seg>这个文档分成了三个部分，以便更好的给你介绍 &lt;i1&gt;GameMaker Studio 2&lt;/i1&gt;的界面和基础工作。 before going on to more advanced usage and the functions available through our propriety scripting language &lt;a2&gt;GML&lt;/a2&gt; or our visual scripting tool &lt;a3&gt;Drag and Drop&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>To maximize safety, activities should be voluntary and opt-in so that players never feel the threat of coercion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091024Z" creationid="哗啦" creationdate="20181202T091024Z">
+        <seg>为了最大限度地提高安全性，游戏活动应该是玩家自愿选择加入的，这样玩家就不会感受到强迫的威胁。</seg>
       </tuv>
     </tu>
     <tu>
