@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is almost always &lt;x8/&gt;non-consensual&lt;x9/&gt; since you never explicitly agreed to have your life interrupted by that pop-up in this particular moment.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T151140Z" creationid="哗啦" creationdate="20181203T151140Z">
+        <seg>这些消息总是 &lt;x8/&gt;未经同意&lt;x9/&gt;突然出现在你的面前，将你的生活打断。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is impossible to have a quiet conversation on a difficult subject while being attacked by a bear.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093012Z" creationid="哗啦" creationdate="20181202T093012Z">
@@ -742,6 +750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When a notification intrudes on your gaming experience, it uses &lt;x2/&gt;intense stimuli&lt;x3/&gt; (noise, vibration, movement, colors) to &lt;x4/&gt;generate a need&lt;x5/&gt; that must be dealt with.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T150603Z" creationid="哗啦" creationdate="20181203T150603Z">
+        <seg>当你在玩游戏时，突然出现一个弹窗，此弹窗使用 &lt;x2/&gt;强刺激&lt;x3/&gt; （噪音，震动，运动，颜色） 来产生那些必须处理的&lt;x4/&gt;需求&lt;x5/&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When people manage their time, there’s a natural tendency (in alignment with Maslow’s Hierarchy) to focus on Urgent tasks.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093818Z" creationid="哗啦" creationdate="20181202T093818Z">
@@ -770,6 +786,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132210Z" creationid="哗啦" creationdate="20181201T132210Z">
         <seg>你可以在这儿看到其它的报道：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You have a new &lt;x6/&gt;responsibility&lt;x7/&gt; to deal with the message by either investigating it further or manually dismissing it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T151026Z" creationid="哗啦" creationdate="20181203T151026Z">
+        <seg>你需要进一步查看这个消息，或手动撤销这个通知，这就是你需要&lt;x6/&gt;做的事&lt;x7/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
