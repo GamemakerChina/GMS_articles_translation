@@ -286,6 +286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, cold rain against a window emphasizes the warmth of a reading nook without threatening to disrupt it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T152831Z" creationid="哗啦" creationdate="20181203T152730Z">
+        <seg>例如，窗外大雨连绵，屋内书声朗朗，非常惬意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, when we get hungry, we are motivated to find food and eat.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092051Z" creationid="哗啦" creationdate="20181202T092051Z">
@@ -366,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If that same cold rain was blowing through a broken window, the scene would no longer be cozy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T152847Z" creationid="哗啦" creationdate="20181203T152805Z">
+        <seg>但是，如果窗户是破的，在窗户旁读书的感觉并不舒适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If unwanted, a notification becomes a &lt;x10/&gt;distraction&lt;x11/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T151450Z" creationid="哗啦" creationdate="20181203T151450Z">
@@ -398,10 +414,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In order to &lt;x12/&gt;extrinsically motivate&lt;x13/&gt; the user to act as desired, notifications often use the promise of rewards, the &lt;x14/&gt;threat&lt;x15/&gt; of a lost opportunity, and marketing spin to &lt;x16/&gt;deceive&lt;x17/&gt; the user into interacting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T152238Z" creationid="哗啦" creationdate="20181203T152238Z">
+        <seg>为了 &lt;x12/&gt;使用外部因素来激励&lt;x13/&gt; 玩家按照自己的意愿来行事，通知消息通常承诺能得到奖励，或者 &lt;x14/&gt;威胁&lt;x15/&gt; 用户会失去了某些东西，用这种营销手段来 &lt;x16/&gt;欺骗&lt;x17/&gt; 消费者来互动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intense stimulus&lt;x1/&gt;: Anything sudden, disproportionately bright or loud, or invasive/proximal can diminish the feeling of coziness.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T150838Z" creationid="哗啦" creationdate="20181202T150838Z">
         <seg>强烈的刺激：&lt;x1/&gt;任何突然，过亮的光线和过大的声音，或袭击或者对身体的接触都会减小舒适感。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is absolutely possible to design consensual notifications that provide cozy value to the player, but most do not and will slowly poison a cozy atmosphere.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T152428Z" creationid="哗啦" creationdate="20181203T152412Z">
+        <seg>同样，我们也可以用事先商量好的通知来为玩家营造安全感，但很多时候没什么用，而且会慢慢破坏舒适感。</seg>
       </tuv>
     </tu>
     <tu>
@@ -714,6 +746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T150520Z" creationid="哗啦" creationdate="20181202T150520Z">
         <seg>令人烦恼的分心&lt;x1/&gt;：令人分心的事包括通知，突然的声音，或令玩家不能专注的唠叨。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Using contrast to enhance coziness&lt;x1/&gt;: These same negating elements can be used to &lt;x2/&gt;enhance&lt;x3/&gt; coziness if they are safely outside the player’s defined cozy space (spatial, emotional, etc) by providing contrast and juxtaposition.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T152641Z" creationid="哗啦" creationdate="20181203T152641Z">
+        <seg>使用反向来增强舒适感：&lt;x1/&gt;破坏舒适感的元素同样可以用来&lt;x2/&gt;增强&lt;x3/&gt; 舒适感.</seg>
       </tuv>
     </tu>
     <tu>
