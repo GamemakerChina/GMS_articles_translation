@@ -582,6 +582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Party&lt;x1/&gt;: While generating a cozy connective social tissue between players, parties are often high stimulus and high intensity, negating coziness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154156Z" creationid="哗啦" creationdate="20181203T154156Z">
+        <seg>党派&lt;/x1&gt;: 党派虽然让参与者觉得自己参加了令自己满意组织，但党派同样是高刺激度并紧张的，同样不利于舒适。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phobia sources&lt;x1/&gt;: Anything commonly associated with a phobia, such as spiders, guns, or knives, can suggest harm or threat.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T151240Z" creationid="哗啦" creationdate="20181202T151240Z">
@@ -602,6 +610,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092059Z" creationid="哗啦" creationdate="20181202T092059Z">
         <seg>玩家寻求在游戏中满足他们的情感和心理需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Politeness&lt;x1/&gt;: When politeness is thoughtful and kind, it can be cozy, but politeness can also be taken to an extreme, becoming insincere or passive-aggressive, which is anti-cozy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154245Z" creationid="哗啦" creationdate="20181203T154245Z">
+        <seg>礼貌&lt;/x1&gt;: 当礼貌是体贴和善良的时候，它可以是舒适的，但礼貌也可以被带到一个极端，变得不真诚而消极好斗，这样也是不舒适的。</seg>
       </tuv>
     </tu>
     <tu>
