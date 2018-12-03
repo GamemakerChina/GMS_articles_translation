@@ -462,6 +462,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It feels good to help others.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154643Z" creationid="哗啦" creationdate="20181203T154643Z">
+        <seg>帮助别人感觉很好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is absolutely possible to design consensual notifications that provide cozy value to the player, but most do not and will slowly poison a cozy atmosphere.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T152428Z" creationid="哗啦" creationdate="20181203T152412Z">
@@ -734,6 +742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There’s an inherent joy to making games that help players explore their higher order needs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154629Z" creationid="哗啦" creationdate="20181203T154629Z">
+        <seg>舒适游戏能帮助玩家探索他们更高层次的需求，制作这样的游戏通常有一种内在的乐趣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There’s often an intimacy of space and emotion, with a slower tempo pace and manageable scope (spatially, emotionally, and otherwise).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091556Z" creationid="哗啦" creationdate="20181202T091556Z">
@@ -830,6 +846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Wealth&lt;x1/&gt;: While wealth allows for the satisfaction of basic needs, it is not in and of itself cozy, and culturally can also come with societal expectation/responsibility of accumulating additional wealth.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154505Z" creationid="哗啦" creationdate="20181203T154505Z">
+        <seg>财富&lt;/x1&gt;: 虽然财富可以满足基本需求，但它本身并不舒适，从文化角度将，也可能伴随着社会的期望和积累更多财富的责任。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Welcome to the &lt;i0&gt;GameMaker Studio 2&lt;/i0&gt; user manual!</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181008T063600Z" creationid="deciia" creationdate="20181008T050339Z">
@@ -898,6 +922,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145503Z" creationid="哗啦" creationdate="20181202T145503Z">
         <seg>这样舒适感也随之蒸发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Why Make Cozy Games</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154519Z" creationid="哗啦" creationdate="20181203T154519Z">
+        <seg>为什么要做舒适游戏</seg>
       </tuv>
     </tu>
     <tu>
