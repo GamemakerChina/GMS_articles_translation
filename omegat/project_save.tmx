@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By uncovering unmet player motivations we can invent new product categories or broaden the appeal of existing designs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T155231Z" creationid="哗啦" creationdate="20181203T155231Z">
+        <seg>通过发现玩家未被满足的动机，我们可以设计出新的产品类别，或扩大现有设计的吸引力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Childlike&lt;x1/&gt;: In a similar vein, childlike games are often safe, but can have very high levels of stimulus and often lack the ability to focus on higher level needs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T153610Z" creationid="哗啦" creationdate="20181203T153610Z">
@@ -210,6 +218,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092546Z" creationid="哗啦" creationdate="20181202T092546Z">
         <seg>舒适游戏让玩家满足更高层次的需求&lt;/x1&gt;： 舒适的游戏也满足玩家的需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create blue ocean games for untapped psychographics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T155020Z" creationid="哗啦" creationdate="20181203T155020Z">
+        <seg>为未开发的消费心理学创建一片试验田（译者注：原文是blue ocean）</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Games are a product that serves a player need.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T155055Z" creationid="哗啦" creationdate="20181203T155055Z">
+        <seg>游戏是一种满足玩家需求的产品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Games in particular excel at filling the player’s time with Urgent but not very Important activities.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093857Z" creationid="哗啦" creationdate="20181202T093857Z">
@@ -472,8 +496,8 @@
       <tuv lang="EN-US">
         <seg>Increase retention by minimizing churn</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154844Z" creationid="哗啦" creationdate="20181203T154844Z">
-        <seg>通过最大限度减少流失来提高保留率</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T155027Z" creationid="哗啦" creationdate="20181203T154844Z">
+        <seg>通过最大限度减少顾客流失来提高顾客保留率</seg>
       </tuv>
     </tu>
     <tu>
