@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A prison cell is generally not cozy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T145209Z" creationid="哗啦" creationdate="20181203T145209Z">
+        <seg>比如监狱牢房一般不舒适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Abundance&lt;x1/&gt;: A cozy game has a sense of abundance.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091111Z" creationid="哗啦" creationdate="20181202T091111Z">
@@ -58,6 +66,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092356Z" creationid="哗啦" creationdate="20181202T092356Z">
         <seg>但是，如果我们潜意识里担心生存，我们仍然有极大的动力去练习相关的技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But, this sort of coziness requires choice, and in turn inescapable small spaces can instead be seen as claustrophobic and controlling.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T145042Z" creationid="哗啦" creationdate="20181203T145042Z">
+        <seg>但是，这种舒适也是选择性的。因为反过来说，无法逃避的小空间也可以被看作是幽闭恐怖的。</seg>
       </tuv>
     </tu>
     <tu>
