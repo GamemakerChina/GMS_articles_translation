@@ -366,6 +366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Home&lt;x1/&gt;: Homes are familiar, but often stressful or full of responsibility, which negates coziness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154029Z" creationid="哗啦" creationdate="20181203T154029Z">
+        <seg>家&lt;x1/&gt;：家充满亲切感，但也同样是充满压力和需要负起责任，后两者不利于舒适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How do we make our games more cozy?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132440Z" creationid="哗啦" creationdate="20181201T132440Z">
@@ -606,6 +614,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Romance&lt;x1/&gt;: Cozy spaces often facilitate intimacy and a deepening of emotional connection, but romance opens a field to any number of aggressive or risky social encounters.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T153915Z" creationid="哗啦" creationdate="20181203T153915Z">
+        <seg>浪漫&lt;x1/&gt;: 舒适的空间往往有利于亲密的情感进一步深化，但浪漫为大量的极具攻击性或冒险性的社会接触打开了大门。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>SDT proposes that people thrive when they are able to pursue intrinsic motivations such as Autonomy, Competence and Relatedness.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T094416Z" creationid="哗啦" creationdate="20181202T094416Z">
@@ -626,6 +642,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092033Z" creationid="哗啦" creationdate="20181202T092033Z">
         <seg>其次, 我们认为游戏是满足人们需求的一种&lt;/x1&gt;方法：人类作为一种动物有满足各种需求的动力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Small World&lt;x1/&gt;: Many small world games have a very manageable scope and smallness that generates a cozy feel, but small worlds can also be threatening, needy, or intense.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T153807Z" creationid="哗啦" creationdate="20181203T153807Z">
+        <seg>小小世界&lt;x1/&gt;：许多微型世界的范围都很小，易于控制，这能产生舒适感。尽管这也可能产生威胁，需求或紧张。</seg>
       </tuv>
     </tu>
     <tu>
