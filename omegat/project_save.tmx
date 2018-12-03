@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Attract a better community</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154902Z" creationid="哗啦" creationdate="20181203T154902Z">
+        <seg>吸引到一个更好的社区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Being responsible generates high priority need/expectation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T150017Z" creationid="哗啦" creationdate="20181202T150017Z">
@@ -390,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, there are also distinctly practical benefits.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154701Z" creationid="哗啦" creationdate="20181203T154701Z">
+        <seg>然而，这也有明显的实际好处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, unlike a game like Don’t Starve which focuses on base needs like starvation, cozy games creates spaces for higher order needs like mastery, self-reflection and connectedness.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092707Z" creationid="哗啦" creationdate="20181202T092707Z">
@@ -450,6 +466,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T152238Z" creationid="哗啦" creationdate="20181203T152238Z">
         <seg>为了 &lt;x12/&gt;使用外部因素来激励&lt;x13/&gt; 玩家按照自己的意愿来行事，通知消息通常承诺能得到奖励，或者 &lt;x14/&gt;威胁&lt;x15/&gt; 用户会失去了某些东西，用这种营销手段来 &lt;x16/&gt;欺骗&lt;x17/&gt; 消费者来互动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Increase retention by minimizing churn</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154844Z" creationid="哗啦" creationdate="20181203T154844Z">
+        <seg>通过最大限度减少流失来提高保留率</seg>
       </tuv>
     </tu>
     <tu>
