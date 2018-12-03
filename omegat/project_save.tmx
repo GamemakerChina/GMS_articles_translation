@@ -86,6 +86,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Childlike&lt;x1/&gt;: In a similar vein, childlike games are often safe, but can have very high levels of stimulus and often lack the ability to focus on higher level needs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T153610Z" creationid="哗啦" creationdate="20181203T153610Z">
+        <seg>童心&lt;/x1&gt;：同样，充满童心的游戏往往是安全的，但极易会受到高水平的刺激，且往往缺乏专注于更高层次需求的能力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confinement&lt;x1/&gt;: Many small spaces are considered cozy since you can quickly inspect them to see if you are safe.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T144938Z" creationid="哗啦" creationdate="20181203T144938Z">
@@ -194,6 +202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092546Z" creationid="哗啦" creationdate="20181202T092546Z">
         <seg>舒适游戏让玩家满足更高层次的需求&lt;/x1&gt;： 舒适的游戏也满足玩家的需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cute&lt;x1/&gt;: While cuteness resonates with the safety aspect of coziness, as well as the desire to nurture/satisfy needs, many threatening and needy things can be cute without providing coziness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T153434Z" creationid="哗啦" creationdate="20181203T153434Z">
+        <seg>可爱&lt;/x1&gt;: 虽然可爱与舒适能在安全方面产生共鸣，并都能满足一些需求，但许多有威胁和你需要对其负责任的东西可以不舒适但很可爱。</seg>
       </tuv>
     </tu>
     <tu>
