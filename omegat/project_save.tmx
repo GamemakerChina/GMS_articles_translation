@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In many case, the underlying psychological models were derived by either sampling only young college aged men, animal experiments, or by actively throwing out data from groups that didn’t fit a particular hypothesis.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T155550Z" creationid="哗啦" creationdate="20181203T155550Z">
+        <seg>在许多情况下，潜在的心理模型是通过只对年轻的大学男生，甚至只是动物实验进行抽样，或者通过写出不符合特定假设的数据来得出的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In order to &lt;x12/&gt;extrinsically motivate&lt;x13/&gt; the user to act as desired, notifications often use the promise of rewards, the &lt;x14/&gt;threat&lt;x15/&gt; of a lost opportunity, and marketing spin to &lt;x16/&gt;deceive&lt;x17/&gt; the user into interacting.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T152238Z" creationid="哗啦" creationdate="20181203T152238Z">
@@ -594,6 +602,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145804Z" creationid="哗啦" creationdate="20181202T145804Z">
         <seg>通常情况下，舒适的空间是为了缓解或逃避这些危险。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Old motivational models&lt;x1/&gt;: Many older game designs use pop-science motivational paradigms that are biased towards western, individualistic, and masculine perspectives.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T155432Z" creationid="哗啦" creationdate="20181203T155432Z">
+        <seg>老式的激励模型：&lt;x1/&gt;: 老式的游戏计划经常采用流行的科学动机样式，偏向西方，个人主义，男子主义。</seg>
       </tuv>
     </tu>
     <tu>
