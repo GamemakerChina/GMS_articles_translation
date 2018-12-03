@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coziness overlaps with several different aesthetics and themes, but has a unique identity separate from the following:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T153146Z" creationid="哗啦" creationdate="20181203T153146Z">
+        <seg>舒适感会与几个不同的美学和主题重叠，但仍具有以下独特之处：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cozy Games</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181117T093215Z" creationid="deciia" creationdate="20181117T093215Z">
