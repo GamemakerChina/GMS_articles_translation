@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>There’s a long history of match-based competitive games such as Chess or Soccer derived from zero-sum systems.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T145729Z" creationid="哗啦" creationdate="20181204T145729Z">
+        <seg>许多有悠久历史的竞技游戏，比如国际象棋和足球，都是从零和系统中产生的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>There’s an inherent joy to making games that help players explore their higher order needs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154629Z" creationid="哗啦" creationdate="20181203T154629Z">
@@ -882,6 +890,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092255Z" creationid="哗啦" creationdate="20181202T092255Z">
         <seg>这把游戏和实践相关联。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Though this reaction does exist, humans seem to have a far richer set of behavioral responses not captured in this theory.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T145511Z" creationid="哗啦" creationdate="20181204T145511Z">
+        <seg>尽管这种反应确实存在，但人类似乎有一组在这一理论中没有捕捉到的更丰富的行为反应。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1026,6 +1042,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T151026Z" creationid="哗啦" creationdate="20181203T151026Z">
         <seg>你需要进一步查看这个消息，或手动撤销这个通知，这就是你需要&lt;x6/&gt;做的事&lt;x7/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Zero sum economics&lt;x1/&gt;: In this model, resources are highly limited and if I take a resource, you lose that resource.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T145621Z" creationid="哗啦" creationdate="20181204T145621Z">
+        <seg>零和经济学&lt;x1/&gt;：在这个模型中，资源是非常有限的，也就是说如果我获得了某个资源，意味着同时你失去了那个资源。</seg>
       </tuv>
     </tu>
     <tu>
