@@ -656,8 +656,8 @@
       <tuv lang="EN-US">
         <seg>Newer models&lt;x1/&gt;: Newer models such as Tend and Befriend or Self Determination Theory describe a broader, more diverse set of player behaviors and motivations.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T151940Z" creationid="哗啦" creationdate="20181204T151940Z">
-        <seg>新型模型：&lt;x1/&gt;新模型例如”趋势（Tend）“ 和“ 友好（Befriend） 或“自主理论（ Self Determination）” 理论，都描述了更广泛和多样化的玩家行为以及动机。.</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152339Z" creationid="哗啦" creationdate="20181204T151940Z">
+        <seg>新型模型：&lt;x1/&gt;新模型例如”趋势和友好（Tend and Befriend）” 或“自主理论（ Self Determination）” 理论，都描述了更广泛和多样化的玩家行为以及动机。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -854,6 +854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tend and Befriend&lt;x1/&gt;: This theory suggests many humans are motivated to bond with one another for safety and strength.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152632Z" creationid="哗啦" creationdate="20181204T152422Z">
+        <seg>Tend and Befriend&lt;x1/&gt;:这个理论认为，许多人为了更加安全和更有力量，而有相互联系的动机。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The assumption was that people who enjoyed games predominantly enjoyed competition.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T150724Z" creationid="哗啦" creationdate="20181204T150724Z">
@@ -1030,10 +1038,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We care for those that are weak or injured and find this just as important as hedonistically caring for yourself.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152602Z" creationid="哗啦" creationdate="20181204T152602Z">
+        <seg>我们会关心那些软弱或受伤的人，并发现这和关心自己一样重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We know from Nick Yee and company’s work that competition as a motivator peaks in young men around 19-20 and then falls off gradually.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T150911Z" creationid="哗啦" creationdate="20181204T150911Z">
         <seg>我们从Nick Yee和公司的工作中了解到，因为喜欢竞争而玩游戏的人的比例，在19-20岁左右的年轻人中达到顶峰，然后逐渐下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We want to spend time preparing together against the uncertain future.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152504Z" creationid="哗啦" creationdate="20181204T152504Z">
+        <seg>我们需要联手一起准备迎接不确定的未来。</seg>
       </tuv>
     </tu>
     <tu>
