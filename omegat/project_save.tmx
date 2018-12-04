@@ -822,6 +822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Self determination Theory&lt;x1/&gt;: As we covered above, people are intrinsically motivated to pursue Autonomy, Competence and Relatedness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152817Z" creationid="哗啦" creationdate="20181204T152817Z">
+        <seg>Self determination Theory&lt;x1/&gt;: 正如我们上面所介绍的，人们有内在的动力去追求自主、能力提升和与别人的练习。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Small World&lt;x1/&gt;: Many small world games have a very manageable scope and smallness that generates a cozy feel, but small worlds can also be threatening, needy, or intense.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T153807Z" creationid="哗啦" creationdate="20181203T153807Z">
@@ -938,6 +946,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091444Z" creationid="哗啦" creationdate="20181202T091444Z">
         <seg>这些是温和而舒适的刺激，玩家不会想面对强敌那样亢奋，但仍然高度参与和存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These motivations are the exact opposite of dog-eat-dog, fend-for-yourself gameplay.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152717Z" creationid="哗啦" creationdate="20181204T152717Z">
+        <seg>这些动机和狗之间相互残害的动机，以及只顾自己享乐的动机完全不同。</seg>
       </tuv>
     </tu>
     <tu>
