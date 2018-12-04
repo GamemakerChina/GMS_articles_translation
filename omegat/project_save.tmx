@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contemporary psychology is rediscovering the benefits of rich, contemplative environment that lets humans thrive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152223Z" creationid="哗啦" creationdate="20181204T152223Z">
+        <seg>当代心理学正在重新发现富有且发人深省的环境的好处，这些好处让人类茁壮成长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Covey’s Time Management Grid, 7 Habits of Highly Effective People.&lt;x1/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093528Z" creationid="哗啦" creationdate="20181202T093528Z">
@@ -1002,6 +1010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T152641Z" creationid="哗啦" creationdate="20181203T152641Z">
         <seg>使用反向来增强舒适感：&lt;x1/&gt;破坏舒适感的元素同样可以用来&lt;x2/&gt;增强&lt;x3/&gt; 舒适感.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We are also realizing that not all people go through life as if they are rats reacting to electric shocks.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152108Z" creationid="哗啦" creationdate="20181204T152108Z">
+        <seg>我们也意识到，人类不是实验室小白鼠，对电击做出的反应也会和那些小白鼠不同。</seg>
       </tuv>
     </tu>
     <tu>
