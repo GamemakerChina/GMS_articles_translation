@@ -60,13 +60,13 @@ So as a designer, it is incredibly important to understand what motivations your
 
 Consider Maslow’s Hierarchy of Needs. At the bottom are pressing needs like thirst, hunger and safety. When these are present, they immediately *grab* the limited attention of the player and deprioritize those higher order needs. It is impossible to have a quiet conversation on a difficult subject while being attacked by a bear. 
 
-> [![img](https://4.bp.blogspot.com/-oX6lEsLgojw/WjWgBDU-qfI/AAAAAAAAHAU/30YJ3D6MpyIjy3kM62mm06R1c8qEMTckwCLcBGAs/s400/image17.png)](https://4.bp.blogspot.com/-oX6lEsLgojw/WjWgBDU-qfI/AAAAAAAAHAU/30YJ3D6MpyIjy3kM62mm06R1c8qEMTckwCLcBGAs/s1600/image17.png)
+> [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image17.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image17.png)
 >
 > *Maslow’s hierarchy of needs as it relates to coziness*
 
 Cozy games give players space to deal with emotional and social maintenance and growth. Players don’t need to worry about the high stress, immediate trials of mere survival and can instead put their attention towards the delicate work of becoming a better person. 
 
-> [![img](https://4.bp.blogspot.com/-b1kyay2AjXE/WjWgK4pWDGI/AAAAAAAAHAY/cohgXAVofNUKqRmlnxK-YlZgMy5Tog73gCLcBGAs/s400/image8.png)](https://4.bp.blogspot.com/-b1kyay2AjXE/WjWgK4pWDGI/AAAAAAAAHAY/cohgXAVofNUKqRmlnxK-YlZgMy5Tog73gCLcBGAs/s1600/image8.png)
+> [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image8.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image8.png)
 >
 > *Covey’s Time Management Grid, 7 Habits of Highly Effective People.*
 
@@ -138,7 +138,7 @@ Games are a product that serves a player need. By uncovering unmet player motiva
 - **Self determination Theory**: As we covered above, people are intrinsically motivated to pursue Autonomy, Competence and Relatedness. It turns out people are much happier, much more willing to stick around, and much more willing to invest themselves when they aren’t coerced via extrinsic rewards.
 - **Quantic Foundry’s motivation profiles**: After survey over 300,000 game players, this group found six main motivational categories such as Action, Social, Mastery, Achievement, Immersion and Creativity. 
 
-[![img](https://1.bp.blogspot.com/-xpgYnlf783k/WjWgZuH90LI/AAAAAAAAHAc/jp-EF9rD7Io-Iedq1asXbjdyB7BJy0PqwCLcBGAs/s400/image16.png)](https://1.bp.blogspot.com/-xpgYnlf783k/WjWgZuH90LI/AAAAAAAAHAc/jp-EF9rD7Io-Iedq1asXbjdyB7BJy0PqwCLcBGAs/s1600/image16.png)
+[![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image16.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image16.png)
 
 Cozy designs are a natural way to address these newly uncovered needs. In particular they seems to do the following:
 
@@ -222,19 +222,19 @@ Ingredients of cozy aesthetics:
 
 - **Abundance**: Although visual or audio “clutter” is not recommended, a theme of plenty and generousness assists in player calm and security. Visually, providing evidence of an abundance of food, drink, joy, and/or warmth is common in cozy spaces across games such as in taverns, kitchens, cafes, and bedrooms.
 
-- > [![img](https://4.bp.blogspot.com/-n0T7tAf6O0I/WjWgsEnOrJI/AAAAAAAAHAk/D9uiYU8qivUnlWh9N9mwgs4T4R6nnJAbQCLcBGAs/s400/image27.png)](https://4.bp.blogspot.com/-n0T7tAf6O0I/WjWgsEnOrJI/AAAAAAAAHAk/D9uiYU8qivUnlWh9N9mwgs4T4R6nnJAbQCLcBGAs/s1600/image27.png)
+- > [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image27.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image27.png)
   >
   > *Dragon’s Crown offers cozy cooking with an abundance of ingredients*
 
 - **Smooth Transitions:** Gentle gradients between states, colors, or environments within the cozy area. Thresholds, however, between cozy & uncomfortable or even dangerous spaces may be more satisfying if distinct when seen and/or crossed, such as coming in from a snowstorm into a log cabin, or ducking into a cave behind a waterfall.
 
-- > [![img](https://3.bp.blogspot.com/-wx-oKx2ohMM/WjWg7zL5CHI/AAAAAAAAHAo/CRbx1Q8bsRAOdB0-I2gFw0fVggzLu_GawCLcBGAs/s400/image29.png)](https://3.bp.blogspot.com/-wx-oKx2ohMM/WjWg7zL5CHI/AAAAAAAAHAo/CRbx1Q8bsRAOdB0-I2gFw0fVggzLu_GawCLcBGAs/s1600/image29.png)
+- > [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image29.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image29.png)
   >
   > Hearthstone offers the metaphor of a small, carved wooden box from which you play the game, with smooth transitions between different play modes.
 
 - **Protection & Support:** Clear signals of strong safety and comfort, from the environment and characters around the player, signal that this is a safe place in which to explore higher-order needs. For example, a dog or cat that is soundly asleep or a guardian character that is relaxing indicates no danger is present, even outside the player’s senses.
 
-- > [![img](https://3.bp.blogspot.com/-523ygm9P8K0/WjWhHkPjqNI/AAAAAAAAHAs/Lf1TPMj66-cdF1VN7j1z7mFzBSVLGQJGgCLcBGAs/s400/image15.png)](https://3.bp.blogspot.com/-523ygm9P8K0/WjWhHkPjqNI/AAAAAAAAHAs/Lf1TPMj66-cdF1VN7j1z7mFzBSVLGQJGgCLcBGAs/s1600/image15.png)
+- > [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image15.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image15.png)
   >
   >
   >
@@ -242,7 +242,7 @@ Ingredients of cozy aesthetics:
 
 - **Focus:** Elimination of interruptions, pressures or sources of unwanted distraction, allows the player to feel a place is knowable and thereby becomes familiar and comfortable. In visual terms, this means a sense of enclosure and intimate framing. It is highly likely that “interior” spaces in early role-playing games eliminated exteriors for technological restrictions, but this focus continues to be used in modern cozy games, from *Animal Crossing* to *Terraria*.
 
-- > [![img](https://3.bp.blogspot.com/-KseWxbJVzTM/WjWhQnflhEI/AAAAAAAAHA0/NiDuJnVvY1ESNo42xrJibWoT9k9P108BgCLcBGAs/s400/image26.png)](https://3.bp.blogspot.com/-KseWxbJVzTM/WjWhQnflhEI/AAAAAAAAHA0/NiDuJnVvY1ESNo42xrJibWoT9k9P108BgCLcBGAs/s1600/image26.png)
+- > [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image26.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image26.png)
   >
   > *The Zelda series often offers cozy house interiors, literally blocking any sense of an outside world that could interfere.*
 
@@ -250,13 +250,13 @@ Ingredients of cozy aesthetics:
 
 - **Refuge & Escape**: if there *is* an “outside” to this space, it is contrasted in its discomfort or danger. Shelters from storms, roofs from rain or harsh sun, or even a garden inside a bustling city make a place of everyday self-care.
 
-- > [![img](https://2.bp.blogspot.com/-iS5HL5q6-9c/WjWhiu0NjaI/AAAAAAAAHA4/S-EWGjf8zyAUQmwYdqNek72Wxka0_uxaACLcBGAs/s400/image9.png)](https://2.bp.blogspot.com/-iS5HL5q6-9c/WjWhiu0NjaI/AAAAAAAAHA4/S-EWGjf8zyAUQmwYdqNek72Wxka0_uxaACLcBGAs/s1600/image9.png)
+- > [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image9.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image9.png)
   >
   > One of the earliest promotional images of Hyper Light Drifter are of the drifter relaxing next to a campfire while monsters look on. The eyes at a distance make the fire feel even cozier.
 
 - **Human-centric**: The comfort and ease of humans in this space or system is apparent. The scale of the objects, architecture, and other creatures are comfortable for humans. Things which are too small or too large intrude on coziness with feelings of unbelonging, claustrophobia or agoraphobia.
 
-- > [![img](https://3.bp.blogspot.com/-IakHS3aB_p4/WjWhxlATO-I/AAAAAAAAHBA/5CAxgFqyexcuQiEkfJB9wnQOBWVokbDvACLcBGAs/s400/image21.png)](https://3.bp.blogspot.com/-IakHS3aB_p4/WjWhxlATO-I/AAAAAAAAHBA/5CAxgFqyexcuQiEkfJB9wnQOBWVokbDvACLcBGAs/s1600/image21.png)
+- > [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image21.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image21.png)
   >
   > Terraria’s room requirements and mechanics encourage cozy placements of lighting and doors to keep out threats and protect allies.
 
@@ -266,7 +266,7 @@ Ingredients of cozy aesthetics:
 
 - **Ritual**: Facilitating repeated, meaningful actions can create familiarity and contentedness.
 
-> [![img](https://3.bp.blogspot.com/-jH3-8uWwagU/WjWh8AgQLzI/AAAAAAAAHBE/00U9MkdffP8tAOwDoW91H6vXbNLW30_KgCLcBGAs/s400/image7.png)](https://3.bp.blogspot.com/-jH3-8uWwagU/WjWh8AgQLzI/AAAAAAAAHBE/00U9MkdffP8tAOwDoW91H6vXbNLW30_KgCLcBGAs/s1600/image7.png)
+> [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image7.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image7.png)
 >
 > Harvest Moon was a popular cozy title that offered a mundane, ritual refuge in pastoral life, with clearly demarcated seasons to signify both economic and community activities.
 
@@ -278,13 +278,13 @@ Cozy visuals include:
 
 - **Light**: Warm-toned lighting of clear origin and low ambient, which allows for soft shadows. If the source of light is intense, such as the sun, bright lamp or stoked fire, it’s best to soften the beams in some way (i.e. dappled, partially obscured, or gently shaded).
 
-- > [![img](https://3.bp.blogspot.com/-GoqsBt-Dl3w/WjWilP73acI/AAAAAAAAHBQ/FgBahjgO0WoiAbSmThoBqzkVNzBOQKYZwCLcBGAs/s400/image19.png)](https://3.bp.blogspot.com/-GoqsBt-Dl3w/WjWilP73acI/AAAAAAAAHBQ/FgBahjgO0WoiAbSmThoBqzkVNzBOQKYZwCLcBGAs/s1600/image19.png)
+- > [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image19.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image19.png)
   >
   > *The Witcher 3 uses warm, yellow tones in its lighting and materials to make their taverns feel even more welcoming.*
 
 - **Natural materials**: wood, stone, fur, moss, cotton, wool, water, living plants. These materials are familiar, implying either sturdy, ancestral safety or physical comfort. These materials can be harder to find in science fiction worlds, making them more likely to feel sterile, unwelcoming, and uncomfortable. Hand-made materials and rustic objects, which imply they were crafted and/or preserved with care and attention.
 
-- > [![img](https://3.bp.blogspot.com/-i-ffD2UiJdI/WjWi10XCKGI/AAAAAAAAHBU/9WvIkF3dvDsQOoFRliFaov8ucnyjthcuQCLcBGAs/s400/image11.png)](https://3.bp.blogspot.com/-i-ffD2UiJdI/WjWi10XCKGI/AAAAAAAAHBU/9WvIkF3dvDsQOoFRliFaov8ucnyjthcuQCLcBGAs/s1600/image11.png)
+- > [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image11.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image11.png)
   >
   > Yoshi’s Woolly World makes the entire world feel touchable, soft, and lovingly crafted.
 
@@ -292,7 +292,7 @@ Cozy visuals include:
 
 - **Contrast**: Ideally, provide a window or reminder of an external non-cozy space you are taking refuge from, such as rain, snow, etc.
 
-> [![img](https://4.bp.blogspot.com/-wwuuJKV-ZQE/WjWjGgam0oI/AAAAAAAAHBc/1R_9O4qo1V4nMG0RMlqub26oJngLsYIoACLcBGAs/s400/image5.png)](https://4.bp.blogspot.com/-wwuuJKV-ZQE/WjWjGgam0oI/AAAAAAAAHBc/1R_9O4qo1V4nMG0RMlqub26oJngLsYIoACLcBGAs/s1600/image5.png)
+> [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image5.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image5.png)
 >
 > What Remains of Edith Finch offers many intimate spaces to explore, but none so cozy as the sun-dappled grandmother’s room, with evidence of leisure time and abundance.
 
@@ -436,7 +436,7 @@ When coziness is the central mode of a game’s narrative, it tends to exhibit c
 - Emphasis on ritual - seasons, holidays, day/night, harvest cycles. Stories that lazily drift along the river of time
 - Episodic - The sum of experiences is greater than any one story
 
-> [![img](https://1.bp.blogspot.com/-ZTsqZ2PF1P8/WjWjXGoDo_I/AAAAAAAAHBg/6iZ9QjwjXREXR55Lfc4VIW635bNkwJ6pgCLcBGAs/s400/image4.png)](https://1.bp.blogspot.com/-ZTsqZ2PF1P8/WjWjXGoDo_I/AAAAAAAAHBg/6iZ9QjwjXREXR55Lfc4VIW635bNkwJ6pgCLcBGAs/s1600/image4.png)
+> [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image4.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image4.png)
 >
 > The Atelier games frame the fantasy around career, community, and cozy objects/spaces
 
@@ -449,7 +449,7 @@ Intermezzo refers to a musical score that occurs *between* other major musical m
 - A place to call home - The private rooms of the Normandy in Mass Effect
 - Denouement -after needs are met, climax achieved, explicit opt-in room to relax and “do nothing”
 
-> [![img](https://4.bp.blogspot.com/-_SwheUQfnZs/WjWjoY--w_I/AAAAAAAAHBk/bUvDhhS4PGM3VOTParsfoojc-tldToJkwCLcBGAs/s400/image1.png)](https://4.bp.blogspot.com/-_SwheUQfnZs/WjWjoY--w_I/AAAAAAAAHBk/bUvDhhS4PGM3VOTParsfoojc-tldToJkwCLcBGAs/s1600/image1.png)
+> [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image1.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image1.png)
 >
 > Dragon Age: *Companions take time to reflect and unwind after adventures.*
 
@@ -464,7 +464,7 @@ We see common narrative patterns show up repeatedly.
 - “Honest Labor” - the celebration of dedication to a craft
 - “After Hours” - A focus on the small moments and relationships that happen in between work and adversity
 
-> [![img](https://3.bp.blogspot.com/-t3ypImqdISE/WjWkGGtTXDI/AAAAAAAAHBw/rIaGU9BZg3U_3c7tZBvCL2qukUHGJo_wwCLcBGAs/s400/image18.png)](https://3.bp.blogspot.com/-t3ypImqdISE/WjWkGGtTXDI/AAAAAAAAHBw/rIaGU9BZg3U_3c7tZBvCL2qukUHGJo_wwCLcBGAs/s1600/image18.png)
+> [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image18.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image18.png)
 >
 > Night in the Woods: *Narrative leans into cozy tropes to explore complex themes*
 
@@ -486,7 +486,7 @@ Examples:
 - Characters in Stardew Valley sending you recipes in the mail to show gratitude
 - Cranky villagers in Animal crossing keeping things grounded
 
-> [![img](https://4.bp.blogspot.com/-RtE56Uk2jw4/WjWkO26wHTI/AAAAAAAAHB0/IPrT_O_yNh0BKlFx6xkfiyFaSAF7tUzSACLcBGAs/s400/image6.png)](https://4.bp.blogspot.com/-RtE56Uk2jw4/WjWkO26wHTI/AAAAAAAAHB0/IPrT_O_yNh0BKlFx6xkfiyFaSAF7tUzSACLcBGAs/s1600/image6.png)
+> [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image6.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image6.png)
 >
 > *FFXV’s companions are confident in what they bring to the team and look out for each other.*
 
@@ -504,7 +504,7 @@ Examples:
 - KK Slider passing through town
 - Oscar the Grouch
 
-> [![img](https://3.bp.blogspot.com/-rMwduaSxA1c/WjWkbbyoaeI/AAAAAAAAHB4/q8jO1rBn1iQMwkn54rumPCE8VfbKwTh1QCLcBGAs/s400/image13.png)](https://3.bp.blogspot.com/-rMwduaSxA1c/WjWkbbyoaeI/AAAAAAAAHB4/q8jO1rBn1iQMwkn54rumPCE8VfbKwTh1QCLcBGAs/s1600/image13.png)
+> [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image13.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image13.png)
 >
 > *Persona 5 builds intimacy with its cast through mundane activities.*
 
@@ -518,7 +518,7 @@ Characters can leverage cozy aesthetics, much like places.
 
 Cozy context allows otherwise threatening authority figures, like a boss, a cop, or royalty, to expose their humanity. Anyone from a criminal, to a demon, to a king to a town drunk can be cozy when the let their guard down. Coziness is a shortcut to empathy.
 
-> [![img](https://4.bp.blogspot.com/-vgDGLrHOLzI/WjWkpadaskI/AAAAAAAAHCA/SgIgBC18AUUIGViFb14af_m6si_IAVCRwCLcBGAs/s400/image12.gif)](https://4.bp.blogspot.com/-vgDGLrHOLzI/WjWkpadaskI/AAAAAAAAHCA/SgIgBC18AUUIGViFb14af_m6si_IAVCRwCLcBGAs/s1600/image12.gif)
+> [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image12.gif)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image12.gif)
 >
 > *In* Howl’s Moving Castle*, Calcifer is grumpy, judgmental, and initially fearsome, but moments of vulnerability make him a beloved member of the household.*
 
@@ -609,7 +609,7 @@ Create moments or spaces in your game where players can communicate without much
 - Let players linger in rooms or areas where the purpose is fulfilled rather than giving them the boot.
 - Have group harvesting or crafting moments where players are engaged enough to stay in the area, but the activity is low intensity enough that they can still chat and follow a conversation.
 
-> [![img](https://3.bp.blogspot.com/-0EtorUcFQ0Y/WjWlGIFnGiI/AAAAAAAAHCE/nNDnLhDvhakZOiKLgahHQloREOMyyutmACLcBGAs/s400/image24.png)](https://3.bp.blogspot.com/-0EtorUcFQ0Y/WjWlGIFnGiI/AAAAAAAAHCE/nNDnLhDvhakZOiKLgahHQloREOMyyutmACLcBGAs/s1600/image24.png)
+> [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image24.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image24.png)
 >
 > *Champion Trains in Guild Wars 2*
 
@@ -631,7 +631,7 @@ We can create cozy economic situations that encourage players to bond together i
 
 For example, in Everquest, player would settle down around a camping spot to rest and recharge. At any moment a train of high level monsters might smash into the group wreaking havoc. However, the space felt cozy since you were together with other player who you knew would leap to your mutual defense at the appearance of danger. Together, the players feel safe.
 
-> [![img](https://2.bp.blogspot.com/-xYT9UuSB5UY/WjWlcg-21QI/AAAAAAAAHCM/pnIIsf_Y5q0npS92lS5Vs9H7v20HditMgCLcBGAs/s400/image22.png)](https://2.bp.blogspot.com/-xYT9UuSB5UY/WjWlcg-21QI/AAAAAAAAHCM/pnIIsf_Y5q0npS92lS5Vs9H7v20HditMgCLcBGAs/s1600/image22.png)
+> [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image22.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image22.png)
 >
 > *Fishing in PvP zone Alterac Valley in World of Warcraft*
 
@@ -650,7 +650,7 @@ Address the low fidelity level of virtual social interaction head on. Design cha
 - **Feedback Requests**: Give players a non-threatening method to ask for feedback and find out how they’re doing. Private feedback channels allow people to make adjustments without being shamed.
 - **Apology Channels** – Offer players the ability to atone for mistakes. Sincerity is key, consider enforcing a delay or an ability to immediately say “I’ll think about this” and let the apology come later.
 
-> [![img](https://1.bp.blogspot.com/-vWzPNjHKz_o/WjWloUvcllI/AAAAAAAAHCQ/Ktp8Z687FNgXf8wI41WfUDtrd5xdmovvwCLcBGAs/s400/image2.png)](https://1.bp.blogspot.com/-vWzPNjHKz_o/WjWloUvcllI/AAAAAAAAHCQ/Ktp8Z687FNgXf8wI41WfUDtrd5xdmovvwCLcBGAs/s1600/image2.png)
+> [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image2.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image2.png)
 >
 > *Google Hangouts experimented with allowing users to collaboratively dress up message windows. Would this change the tone of your conversation?*
 
@@ -674,7 +674,7 @@ Outlook on the future of social game interactions should be optimistic. Anecdote
 
 For example, the term “lobby” is often used in gaming to describe the pre-game flow of activity. Consider what types of interactions you’ve had with other people in lobbies. Now decide if that’s really how people should meet and interact in your game. This is applicable to developers of cozy worlds and perhaps doubly-so for developers looking to build social retention into any type of game.
 
-> [![img](https://1.bp.blogspot.com/-nfShC5b6zCw/WjWlxd_4NCI/AAAAAAAAHCU/bBOwScoxreYzP30kOaaknJZgwdS58CBzgCLcBGAs/s400/image14.png)](https://1.bp.blogspot.com/-nfShC5b6zCw/WjWlxd_4NCI/AAAAAAAAHCU/bBOwScoxreYzP30kOaaknJZgwdS58CBzgCLcBGAs/s1600/image14.png)
+> [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image14.png)]https://articlesimages.liaronce.win/lostgarden-cozy-games/image14.png)
 >
 > The developers of Halo 2 re-imagined the matchmaking lobby as a virtual sofa. At the time, staying with the same group from match to match was a big innovation. A very cozy move for a decidedly un-cozy game.
 
@@ -688,7 +688,7 @@ Here are several patterns you can use to integrate coziness into your game.
 
 Think of creating a cozy sandwich for your high stress game. On the inside are the meaty moments of action. And on the outside are comforting moments of coziness. 
 
-> [![img](https://2.bp.blogspot.com/-kBzEwmB3BvU/WjWb4YUL7uI/AAAAAAAAHAI/9Hz0W4ie6N8fSX2r8Nyj-zx71CSyU-0jACLcBGAs/s320/image10.png)](https://2.bp.blogspot.com/-kBzEwmB3BvU/WjWb4YUL7uI/AAAAAAAAHAI/9Hz0W4ie6N8fSX2r8Nyj-zx71CSyU-0jACLcBGAs/s1600/image10.png)
+> [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image10.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image10.png)
 >
 > *The cozy sandwich*
 
@@ -725,13 +725,13 @@ Characters can also function a cozy moments in otherwise non-cozy games. This sa
 
 **Ness’ dad and mom (Earthbound)**
 
-> [![img](https://2.bp.blogspot.com/-PQ22txrLqkE/WjWl_lMG9GI/AAAAAAAAHCc/xgE8eMZu87AhazLIfE6YqqFhHdUJxAXUwCLcBGAs/s400/image20.png)](https://2.bp.blogspot.com/-PQ22txrLqkE/WjWl_lMG9GI/AAAAAAAAHCc/xgE8eMZu87AhazLIfE6YqqFhHdUJxAXUwCLcBGAs/s1600/image20.png)
+> [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image20.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image20.png)
 
 The act of saving in many games usually asks the player to pause for a moment, and in this case, that opportunity is taken to deepen your relationship with your father, get some hints, and sometimes even get a few bucks in your account. This interaction features **softness**, where intimacy of emotion is a break from the moments of combat or other exploration pressures. 
 
 **Shopkeepers in River City Ransom**
 
-> [![img](https://2.bp.blogspot.com/-hkaIGZb8fDA/WjWmJ-pb7aI/AAAAAAAAHCg/V3SZt9xCipMzmJBJHB035OW8BrxXXSZMACLcBGAs/s400/image23.png)](https://2.bp.blogspot.com/-hkaIGZb8fDA/WjWmJ-pb7aI/AAAAAAAAHCg/V3SZt9xCipMzmJBJHB035OW8BrxXXSZMACLcBGAs/s1600/image23.png)
+> [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image23.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image23.png)
 
 The shopkeeper experience in River City Ransom achieves multiple cozy objectives. The cities (where these often appear) are **safe** and free from opponents, and the shop itself gives a tiny window into a **confined**, cozy scene between the player and the vendor. The ‘free smile’ has no gameplay progression implications other than to reinforce the safe nature of this space. 
 
@@ -745,7 +745,7 @@ This shares some elements with the River City Ransom shop, but this shop allows 
 
 **Chef in Odin Sphere**
 
-> [![img](https://1.bp.blogspot.com/-_n2HWDgptuI/WjWmfptsT9I/AAAAAAAAHCs/9rRuJ7uzwBIBFOeD5DWnGCj5Z2qIIs01gCLcBGAs/s400/image28.png)](https://1.bp.blogspot.com/-_n2HWDgptuI/WjWmfptsT9I/AAAAAAAAHCs/9rRuJ7uzwBIBFOeD5DWnGCj5Z2qIIs01gCLcBGAs/s1600/image28.png)
+> [![img](https://articlesimages.liaronce.win/lostgarden-cozy-games/image28.png)](https://articlesimages.liaronce.win/lostgarden-cozy-games/image28.png)
 >
 > *Moments of character advancement are slowed down for Odin Sphere, and the focus becomes on the act of preparing and consuming food.*
 
