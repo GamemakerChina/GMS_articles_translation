@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>From Quantic Foundry’s motivations, creativity and completion are served well by a cozy game like Animal Crossing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T153952Z" creationid="哗啦" creationdate="20181204T153952Z">
+        <seg>根据Quantic Foundry’s motivations的观点，舒适游戏所提供的创造性和及其实现方式非常好，这类的代表游戏是《动物之森》。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From a business perspective, they fail to robustly describe motivations of women, people from non-western countries, older adults, or people with children.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T155632Z" creationid="哗啦" creationdate="20181203T155632Z">
@@ -794,6 +802,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T151240Z" creationid="哗啦" creationdate="20181202T151240Z">
         <seg>恐惧来源：&lt;x1/&gt;:任何能产生恐惧的东西，如蜘蛛、枪或刀，都可能暗示伤害或威胁。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players are willing to play beyond satisfying their core motivations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T154103Z" creationid="哗啦" creationdate="20181204T154103Z">
+        <seg>玩家更愿意在玩乐时同时满足他们的内在动机。</seg>
       </tuv>
     </tu>
     <tu>
