@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Again, these experiments were done on highly stressed out animal subjects.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T151300Z" creationid="哗啦" creationdate="20181204T151300Z">
+        <seg>同样，这些实验是在高度紧张的动物受试者身上进行的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An example of negating coziness&lt;x1/&gt;: Consider the omnipresent pop-up, especially as it is used in a normally cozy franchise like Animal Crossing: Pocket Camp.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T150420Z" creationid="哗啦" creationdate="20181203T150420Z">
@@ -402,6 +410,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181009T095451Z" creationid="哗啦" creationdate="20181009T095451Z">
         <seg>GameMaker Studio 2 手册</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gamers are best motivated by extrinsic motivators&lt;x1/&gt;: Pop game design sometimes talks about players as coerced robots who respond to automatically to variably reinforced dribbles of extrinsic rewards.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T151242Z" creationid="哗啦" creationdate="20181204T151242Z">
+        <seg>玩家玩游戏的动机最好是外在的动机&lt;/x1&gt;: 市面上流行游戏在设计时会把玩家称为被操作的机器人，他们会自发对逐渐强化的外在奖励做出反应。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1050,6 +1066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093818Z" creationid="哗啦" creationdate="20181202T093818Z">
         <seg>当人们管理他们的时间时，他们自然会先关注那些紧急的任务（对照马斯洛层次）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When similar experiments are done on low-stress, happy humans, we get a much wider range of responses; many addictive tendencies go away.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T151422Z" creationid="哗啦" creationdate="20181204T151422Z">
+        <seg>当对没什么压力、很快乐的人进行类似的实验时，我们得到的反应与之前相比有很大不同。他们很难对某些东西上瘾。</seg>
       </tuv>
     </tu>
     <tu>
