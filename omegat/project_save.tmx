@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Improve community relations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T154600Z" creationid="哗啦" creationdate="20181204T154600Z">
+        <seg>增强</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Covey’s time management, tasks can be categorized along two axis: Urgent to Not Urgent and Important to Not Important.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093710Z" creationid="哗啦" creationdate="20181202T093710Z">
@@ -854,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players who seek out comfy games are not usually looking for conflict or stressful interactions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T154640Z" creationid="哗啦" creationdate="20181204T154640Z">
+        <seg>玩舒适游戏的玩家通常不会想要冲突或充满压力的体验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Politeness&lt;x1/&gt;: When politeness is thoughtful and kind, it can be cozy, but politeness can also be taken to an extreme, becoming insincere or passive-aggressive, which is anti-cozy.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154245Z" creationid="哗啦" creationdate="20181203T154245Z">
@@ -946,6 +962,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091312Z" creationid="哗啦" creationdate="20181202T091312Z">
         <seg>轻柔：&lt;x1/&gt;舒适游戏使用强烈的审美信号，来告诉玩家他们在一个低压力的，富有且安全的环境中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Spry Fox ran two games with two very different communities.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T154742Z" creationid="哗啦" creationdate="20181204T154742Z">
+        <seg>Spry Fox在两个完全不同的社区发布了两款不同的游戏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1046,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These worlds inherently are low stress, low disappointment, and therefore less likely to have explicit churn triggers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T154553Z" creationid="哗啦" creationdate="20181204T154553Z">
+        <seg>舒适游戏的世界本质上是低压力，难失望的，因此不会有明显的让玩家游玩的动机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They stop thriving when they are presented with extrinsic motivators that suck up their attention.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T094429Z" creationid="哗啦" creationdate="20181202T094429Z">
@@ -1074,6 +1106,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181009T102442Z" creationid="哗啦" creationdate="20181009T102442Z">
         <seg>这个文档分成了三个部分，以便更好的给你介绍 &lt;i1&gt;GameMaker Studio 2&lt;/i1&gt;的界面和基础工作。 before going on to more advanced usage and the functions available through our propriety scripting language &lt;a2&gt;GML&lt;/a2&gt; or our visual scripting tool &lt;a3&gt;Drag and Drop&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This may seem self evident, but it has a huge impact on community relations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T154654Z" creationid="哗啦" creationdate="20181204T154654Z">
+        <seg>这似乎是不言而喻的，但它对社区关系有着巨大的影响。</seg>
       </tuv>
     </tu>
     <tu>
