@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coziness reduces these drop-off points via an absence of harsh, demanding, and needy motives.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T154429Z" creationid="哗啦" creationdate="20181204T154429Z">
+        <seg>舒适通过减少苛刻的要求和动机来抵消机制上的不足。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cozy Games</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181117T093215Z" creationid="deciia" creationdate="20181117T093215Z">
@@ -306,6 +314,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T090637Z" creationid="哗啦" creationdate="20181202T090637Z">
         <seg>舒适的定义</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Demotivating mechanics (or aesthetics) are the most likely to disengage players and cause churn.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T154312Z" creationid="哗啦" creationdate="20181204T154312Z">
+        <seg>缺乏动力的机制(或审美)最有可能让玩家脱离游戏并导致玩家流失。</seg>
       </tuv>
     </tu>
     <tu>
@@ -546,6 +562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145243Z" creationid="哗啦" creationdate="20181202T145243Z">
         <seg>如果游戏机制需要强烈的低层次需求，那么玩家的注意力会被吸引到处理这些紧迫的事情上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If mechanics fall on a spectrum of motivating to neutral to demotivating, most players will happily enjoy a game compromised of motivating and neutral mechanics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T154450Z" creationid="哗啦" creationdate="20181204T154235Z">
+        <seg>如果将游戏机制分为充满动机型，中立型和动机不足型，大多数玩家会更乐意玩激励型和中立型的游戏。</seg>
       </tuv>
     </tu>
     <tu>
