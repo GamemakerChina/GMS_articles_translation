@@ -198,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coziness depends on where the player is coming from when they interact with your game.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T103004Z" creationid="哗啦" creationdate="20181205T103004Z">
+        <seg>舒适性取决于玩家与游戏互动前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coziness helps retention by giving players control over pacing while still maintaining engagement during periods of rest.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T090437Z" creationid="哗啦" creationdate="20181202T090437Z">
@@ -226,6 +234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132623Z" creationid="哗啦" creationdate="20181201T132623Z">
         <seg>舒适感是可以使用于各种休闲或核心类型的元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coziness is player dependent</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102919Z" creationid="哗啦" creationdate="20181205T102919Z">
+        <seg>玩家依赖舒适感</seg>
       </tuv>
     </tu>
     <tu>
@@ -1166,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The coziest space will not feel cozy if a player enters it with pressing external needs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T103118Z" creationid="哗啦" creationdate="20181205T103118Z">
+        <seg>如果玩家是被外部因素强迫来到舒适空间时，他们是不会感到舒适的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The opportunity to fight off attackers might not exist in a person’s day-to-day desk job, but a game lets them practice those skills safely and easily.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091946Z" creationid="哗啦" creationdate="20181202T091946Z">
@@ -1538,6 +1562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154519Z" creationid="哗啦" creationdate="20181203T154519Z">
         <seg>为什么要做舒适游戏</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can encourage coziness, but you can’t force it on a player.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T103036Z" creationid="哗啦" creationdate="20181205T103036Z">
+        <seg>你可以鼓励玩家体验舒适的感觉，但你不能强迫玩家这样做。</seg>
       </tuv>
     </tu>
     <tu>
