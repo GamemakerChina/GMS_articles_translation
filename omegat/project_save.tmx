@@ -598,6 +598,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the game tend to encourage anti-social, high stress behavior that is what players will model.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T100839Z" creationid="哗啦" creationdate="20181205T100839Z">
+        <seg>如果游戏鼓励反社会的，高度紧张的行为，玩家也会模仿这些行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If unwanted, a notification becomes a &lt;x10/&gt;distraction&lt;x11/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T151450Z" creationid="哗啦" creationdate="20181203T151450Z">
@@ -986,6 +994,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092459Z" creationid="哗啦" creationdate="20181202T092459Z">
         <seg>因此, 作为一名设计师, 了解玩家的动机，以及游戏设计如何帮助他们练习相关技能并满足他们的需求是非常重要的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Social norms spread&lt;x1/&gt;: In multiplayer contexts, players will watch one another and adopt shared social norms based off how people are reacting to the game.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T101021Z" creationid="哗啦" creationdate="20181205T101021Z">
+        <seg>社会规范传播&lt;x1/&gt;：在多人的背景下，玩家会关注彼此，根据别人对游戏的反应来采用共同的社会规范。</seg>
       </tuv>
     </tu>
     <tu>
