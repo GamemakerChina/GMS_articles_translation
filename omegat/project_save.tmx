@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are familiar to the player due to past experience, nostalgic or shared cultural language.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T152925Z" creationid="哗啦" creationdate="20181205T152925Z">
+        <seg>玩家由于相似的过去经历或共同的文化语言而熟悉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you approach cozy design, remember that coziness is an aesthetic goal, a flavor that can be applied to any underlying type of game.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102608Z" creationid="哗啦" creationdate="20181205T102608Z">
@@ -870,6 +878,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Intentionally evoke images of safety, softness, and contentedness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T153006Z" creationid="哗啦" creationdate="20181205T153006Z">
+        <seg>这能唤起安全，轻柔和自得其乐的感觉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It feels good to help others.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154643Z" creationid="哗啦" creationdate="20181203T154643Z">
@@ -938,6 +954,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T100543Z" creationid="哗啦" creationdate="20181205T100543Z">
         <seg>游戏机制也能产生情感&lt;x1/&gt;:你所设计的游戏机制创造了某些特定的玩家处境，这些处境符合玩家的动机或需求，从而能让玩家产生共鸣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Most cozy aesthetic elements are sensory cues tha:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T152850Z" creationid="哗啦" creationdate="20181205T152850Z">
+        <seg>最舒适的美学元素是从感官上感知的</seg>
       </tuv>
     </tu>
     <tu>
@@ -1626,6 +1650,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132156Z" creationid="哗啦" creationdate="20181201T132156Z">
         <seg>多么富有创造力，欢乐的一群人啊！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What are cozy aesthetics?&lt;x1/&gt;: For the first sub-topic we’ll tackle how the aesthetics (visual, audio and/or tactile output) of a game element can create a feeling of coziness that is separate from (and therefore may be improved or reduced by) gameplay.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T152817Z" creationid="哗啦" creationdate="20181205T152817Z">
+        <seg>所谓的舒适审美是什么？&lt;x1/&gt;在这个子主题中，我们将讨论游戏中元素的审美（视觉，听觉和触觉输出）是怎样独立地创建舒适感的。因为它和游戏玩法是分开的，所以审美可能变化。</seg>
       </tuv>
     </tu>
     <tu>
