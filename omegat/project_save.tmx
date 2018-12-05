@@ -294,6 +294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cozy is an adjective</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102457Z" creationid="哗啦" creationdate="20181205T102457Z">
+        <seg>舒适是一个形容词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create blue ocean games for untapped psychographics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T155020Z" creationid="哗啦" creationdate="20181203T155020Z">
@@ -538,6 +546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093857Z" creationid="哗啦" creationdate="20181202T093857Z">
         <seg>游戏如此擅长于让玩家完成那些紧急但不是很重要的活动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>General Cozy Design Principles</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102310Z" creationid="哗啦" creationdate="20181205T102310Z">
+        <seg>一般性的舒适感设计原则</seg>
       </tuv>
     </tu>
     <tu>
@@ -858,6 +874,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091223Z" creationid="哗啦" creationdate="20181202T091223Z">
         <seg>不缺乏什么，也没什么令人紧张或感到不得不做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now we’ll cover design tools that help you build them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102416Z" creationid="哗啦" creationdate="20181205T102416Z">
+        <seg>现在，我们将介绍能帮助您设计舒适游戏的工具。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1214,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These high level principles provide direction and framing for designing a cozy or cozier game.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102445Z" creationid="哗啦" creationdate="20181205T102445Z">
+        <seg>这些高级原则为设计舒适或比较舒适的游戏提供了方向和框架。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These motivations are the exact opposite of dog-eat-dog, fend-for-yourself gameplay.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152717Z" creationid="哗啦" creationdate="20181204T152717Z">
@@ -1386,6 +1418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181008T063600Z" creationid="deciia" creationdate="20181008T050339Z">
         <seg>欢迎使用 &lt;i0&gt;GameMaker Studio 2&lt;/i0&gt;手册！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We’ve discussed what cozy games are and why you might want to build them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102342Z" creationid="哗啦" creationdate="20181205T102342Z">
+        <seg>我们已经讨论了什么是舒适的游戏，以及你为什么要设计它们。</seg>
       </tuv>
     </tu>
     <tu>
