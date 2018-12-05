@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A cozy social structure can still be hostile if players want to engage in a conflicting forms of expression.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T103523Z" creationid="哗啦" creationdate="20181205T103523Z">
+        <seg>就算一个令人感到舒适的社会，在玩家想与之产生冲突时，也会变得充满敌意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A prison cell is generally not cozy.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T145209Z" creationid="哗啦" creationdate="20181203T145209Z">
@@ -490,6 +498,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092236Z" creationid="哗啦" creationdate="20181202T092236Z">
         <seg>例如，生成游戏《饥荒》，无论是从机制还是从主题上来说，都是让玩家直面生存险境，玩家需要探索有关获取食物的规划和战术问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, a player who sees their universe as inherently about competition may find a game with meditative gardening oppressive or boring.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T103706Z" creationid="哗啦" creationdate="20181205T103706Z">
+        <seg>例如，玩家如果认为游戏世界是充满竞争的，那么他会发现一款让人冥想的园艺游戏是令人压抑并且无聊的。</seg>
       </tuv>
     </tu>
     <tu>
