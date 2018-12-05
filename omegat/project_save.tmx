@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN-US">
+        <seg>(We have a whole chapter below about integrating cozy moments into traditionally non-cozy genres.)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102900Z" creationid="哗啦" creationdate="20181205T102900Z">
+        <seg>(我们有一整章将会讨论，如何将让玩家舒适感到舒适的时刻整合到传统的非舒适类游戏中。)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;NOTE:&lt;/b0&gt; Due to the modular nature of &lt;i1&gt;GameMaker Studio 2&lt;/i1&gt; there are certain things that are not included in this user manual, particularly those aspects of setting up and connecting the different devices that can be supported.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181013T110338Z" creationid="deciia" creationdate="20181013T102636Z">
@@ -74,6 +82,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T151756Z" creationid="哗啦" creationdate="20181202T151756Z">
         <seg>突然遇到的事可能会让人感到被威胁，但也可能只是暗示了一种期待，期待互动、回报或责任.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>As you approach cozy design, remember that coziness is an aesthetic goal, a flavor that can be applied to any underlying type of game.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102608Z" creationid="哗啦" creationdate="20181205T102608Z">
+        <seg>当你尝试设计舒适感时，你要记住，舒适有一个审美的目标，可以用于任何可能用到舒适感的游戏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1110,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some mechanics are emotionally more in tune with coziness, but any game can be made more cozy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102705Z" creationid="哗啦" creationdate="20181205T102705Z">
+        <seg>有些游戏机制在感情处理上更加舒适，但是任何游戏都能变得更加舒适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spry Fox ran two games with two very different communities.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T154742Z" creationid="哗啦" creationdate="20181204T154742Z">
@@ -1266,6 +1290,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T094429Z" creationid="哗啦" creationdate="20181202T094429Z">
         <seg>当他们面对吸引他们注意力的外部激励因素时，他们就会停止发展。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This also means that there is no single defining genre that is “coziness”.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102747Z" creationid="哗啦" creationdate="20181205T102747Z">
+        <seg>这也意味着并没有哪种游戏是只能被定义为“舒适”的。</seg>
       </tuv>
     </tu>
     <tu>
