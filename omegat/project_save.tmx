@@ -486,6 +486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Dragon’s Crown offers cozy cooking with an abundance of ingredients&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181206T152106Z" creationid="哗啦" creationdate="20181206T152106Z">
+        <seg>《Dragon’s Crown》 提供了使用丰富食材烹饪出来的美味食物。&lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each game genre taps into a highly specific set of motivations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092139Z" creationid="哗啦" creationdate="20181202T092139Z">
@@ -1642,6 +1650,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102212Z" creationid="哗啦" creationdate="20181205T102212Z">
         <seg>很快，游戏变得一点也不舒适，变成了一个虚拟的一点也不理想的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visually, providing evidence of an abundance of food, drink, joy, and/or warmth is common in cozy spaces across games such as in taverns, kitchens, cafes, and bedrooms.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181206T151924Z" creationid="哗啦" creationdate="20181206T151924Z">
+        <seg>在视觉效果上，舒适游戏最常用的手法是提高丰富的食物，饮料，让玩家觉得欢乐和温暖，这些通常出现在小酒馆，厨房，咖啡馆和卧室。</seg>
       </tuv>
     </tu>
     <tu>
