@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abundance&lt;x1/&gt;: Although visual or audio “clutter” is not recommended, a theme of plenty and generousness assists in player calm and security.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181206T151737Z" creationid="哗啦" creationdate="20181206T151737Z">
+        <seg>富有：&lt;x1/&gt;虽然不推荐使用过多的视觉效果或音频，但以富有和大方为主题的游戏能帮助玩家感受安全和平静。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Admittedly, Maslow’s Hierarchy of Needs and Covey’s Time Management Grid are older motivational models, but the same key insight can be recontextualized in terms of the newer Self Determination Theory (SDT).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T094334Z" creationid="哗啦" creationdate="20181202T094334Z">
@@ -882,6 +890,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T155027Z" creationid="哗啦" creationdate="20181203T154844Z">
         <seg>通过最大限度减少顾客流失来提高顾客保留率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ingredients of cozy aesthetics:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181206T151514Z" creationid="哗啦" creationdate="20181206T151514Z">
+        <seg>舒适审美的元素:</seg>
       </tuv>
     </tu>
     <tu>
