@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Historically, aesthetics of safety and softness have been marketed towards children, but cozy sensory cues can be more powerful for adults.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181206T150754Z" creationid="哗啦" creationdate="20181206T150754Z">
+        <seg>历来安全和轻柔的审美总是被认为儿童才需要，但舒适的感觉对成人更有吸引力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Home&lt;x1/&gt;: Homes are familiar, but often stressful or full of responsibility, which negates coziness.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154029Z" creationid="哗啦" creationdate="20181203T154029Z">
@@ -954,6 +962,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T100543Z" creationid="哗啦" creationdate="20181205T100543Z">
         <seg>游戏机制也能产生情感&lt;x1/&gt;:你所设计的游戏机制创造了某些特定的玩家处境，这些处境符合玩家的动机或需求，从而能让玩家产生共鸣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Memories are like batteries of emotion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181206T150825Z" creationid="哗啦" creationdate="20181206T150825Z">
+        <seg>回忆能像电池一样驱动情绪</seg>
       </tuv>
     </tu>
     <tu>
