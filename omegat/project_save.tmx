@@ -1326,6 +1326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Smooth Transitions:&lt;x1/&gt; Gentle gradients between states, colors, or environments within the cozy area.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181206T152535Z" creationid="哗啦" creationdate="20181206T152535Z">
+        <seg>平滑过渡：&lt;x1/&gt;舒适区域内温和的状态，颜色和环境。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>So as a designer, it is incredibly important to understand what motivations your players are pursuing and how your game design helps them practice mastery related to their needs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092459Z" creationid="哗啦" creationdate="20181202T092459Z">
