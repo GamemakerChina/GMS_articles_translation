@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cat purring</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T152846Z" creationid="哗啦" creationdate="20181207T152846Z">
+        <seg>猫的咕噜声</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Childlike&lt;x1/&gt;: In a similar vein, childlike games are often safe, but can have very high levels of stimulus and often lack the ability to focus on higher level needs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T153610Z" creationid="哗啦" creationdate="20181203T153610Z">
@@ -766,6 +774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gentle fire</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T152824Z" creationid="哗啦" creationdate="20181207T152824Z">
+        <seg>温文尔雅的火焰</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hammocks, tea rooms, and pantries, for example, are cozier than otherwise-beautiful and enclosed locations like palaces, zoos, or penthouse suites.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T064014Z" creationid="哗啦" creationdate="20181207T064014Z">
@@ -882,6 +898,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T152334Z" creationid="哗啦" creationdate="20181207T152334Z">
         <seg>如果要想音乐变得更接近真实，更有人性味，那么你可以在音乐中加入一些细微的瑕疵，例如多余的音，或弹奏错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ideally all sounds should have an identifiable concrete, diagetic source.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T152725Z" creationid="哗啦" creationdate="20181207T152725Z">
+        <seg>所有的声音都应该有清晰可辨的自然的声源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1042,6 +1066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T155027Z" creationid="哗啦" creationdate="20181203T154844Z">
         <seg>通过最大限度减少顾客流失来提高顾客保留率</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Indistinct chatter</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T152942Z" creationid="哗啦" creationdate="20181207T152942Z">
+        <seg>模糊的听起来像是有很多人在说话的声音</seg>
       </tuv>
     </tu>
     <tu>
@@ -1226,6 +1258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T151658Z" creationid="哗啦" creationdate="20181202T151658Z">
         <seg>未经商议的社会活动：&lt;x1/&gt;任何未经商议的活动都会减弱玩家的安全感。尽管这些活动有些时候很重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Non-violent storms</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T153004Z" creationid="哗啦" creationdate="20181207T153004Z">
+        <seg>不剧烈的风暴</seg>
       </tuv>
     </tu>
     <tu>
@@ -1994,6 +2034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181206T151924Z" creationid="哗啦" creationdate="20181206T151924Z">
         <seg>在视觉效果上，舒适游戏最常用的手法是提高丰富的食物，饮料，让玩家觉得欢乐和温暖，这些通常出现在小酒馆，厨房，咖啡馆和卧室。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Waterfall, rivers, rain</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T152741Z" creationid="哗啦" creationdate="20181207T152741Z">
+        <seg>瀑布，河流，雨水</seg>
       </tuv>
     </tu>
     <tu>
