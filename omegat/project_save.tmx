@@ -1070,6 +1070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mundanity:&lt;x1/&gt; A fundamentally familiar and knowable setting or place will be cozier than the unfamiliar, alien, exotic, or fantastical, if only because it takes longer for the player to ascertain if the space offers true safety and abundance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T064402Z" creationid="哗啦" creationdate="20181207T064402Z">
+        <seg>Mundanity:&lt;x1/&gt; A fundamentally familiar and knowable setting or place will be cozier than the unfamiliar, alien, exotic, or fantastical, if only because it takes longer for the player to ascertain if the space offers true safety and abundance</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Negating Coziness</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145118Z" creationid="哗啦" creationdate="20181202T145118Z">
@@ -1310,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Refuge &amp; Escape&lt;x1/&gt;: if there &lt;x2/&gt;is&lt;x3/&gt; an “outside” to this space, it is contrasted in its discomfort or danger.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T064219Z" creationid="哗啦" creationdate="20181207T064219Z">
+        <seg>避难和逃生&lt;x1/&gt;：如果这个地方 &lt;x2/&gt;有一个&lt;x3/&gt; “外部”的空间能与之相比，那么后者的不适和危险能和前者形成鲜明对比。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Responsibility&lt;x1/&gt;: Responsibility requires emotional labor: the effort to plan, think, and execute on a plan to resolve something.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145957Z" creationid="哗啦" creationdate="20181202T145957Z">
@@ -1354,6 +1370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152817Z" creationid="哗啦" creationdate="20181204T152817Z">
         <seg>Self determination Theory&lt;x1/&gt;: 正如我们上面所介绍的，人们有内在的动力去追求自主、能力提升和与别人的练习。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Shelters from storms, roofs from rain or harsh sun, or even a garden inside a bustling city make a place of everyday self-care.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T064356Z" creationid="哗啦" creationdate="20181207T064356Z">
+        <seg>风暴里的避风港，烈日或大雨下的一个屋顶，或繁华都市内一隅宁静的花园，都是和内心独处的好地方。.</seg>
       </tuv>
     </tu>
     <tu>
