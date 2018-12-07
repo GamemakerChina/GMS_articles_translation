@@ -790,6 +790,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Human-centric&lt;x1/&gt;: The comfort and ease of humans in this space or system is apparent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T065536Z" creationid="哗啦" creationdate="20181207T065536Z">
+        <seg>以人为本的空间：&lt;x1/&gt;: 人类生活在以人为中心的空间中的轻松和舒适是显而易见的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a system brings about a strong lower order need, the player’s attention will immediately shift to deal with the more pressing issue.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145243Z" creationid="哗啦" creationdate="20181202T145243Z">
