@@ -574,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, a dog or cat that is soundly asleep or a guardian character that is relaxing indicates no danger is present, even outside the player’s senses.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T061047Z" creationid="哗啦" creationdate="20181207T061047Z">
+        <seg>例如，猫狗都能安详的睡觉，没有鸡犬不宁，守卫也处于很放松的状态，这说明周围的环境很安全，没什么危险。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, a player who sees their universe as inherently about competition may find a game with meditative gardening oppressive or boring.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T103706Z" creationid="哗啦" creationdate="20181205T103706Z">
