@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Colors&lt;x1/&gt;: Warm, gentle color palette (yellows, oranges), without high-intensity contrast or hues.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T143846Z" creationid="哗啦" creationdate="20181207T143846Z">
+        <seg>颜色&lt;x1/&gt;：暖色，温和的调色板（黄色，橙色），没有高度紧张的色调。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Complex leadership or organizational skills can transfer to other real world situations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T151826Z" creationid="哗啦" creationdate="20181205T151826Z">
@@ -1042,6 +1050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T151545Z" creationid="哗啦" creationdate="20181205T151545Z">
         <seg>在我们真切地获得舒适物体或情景的触觉和嗅觉反馈之前，很需要一段时间。这些舒适的物体和情景包括：咖啡的温暖，大海的浪花，刚摘下来的树莓的香香甜甜，寒冷房间的温暖床的惬意畅快。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Light&lt;x1/&gt;: Warm-toned lighting of clear origin and low ambient, which allows for soft shadows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T143909Z" creationid="哗啦" creationdate="20181207T143909Z">
+        <seg>光照&lt;x1/&gt;: Warm-toned lighting of clear origin and low ambient, which allows for soft shadows.</seg>
       </tuv>
     </tu>
     <tu>
