@@ -1446,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Places that fill basic needs, including food, rest, warmth, and opt-in sociability.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T155601Z" creationid="哗啦" creationdate="20181207T155601Z">
+        <seg>能够满足基本需求的场所，这些需求例如食物，休息，温暖和一点社交</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Places where players can decorate can become cozy as it suits the player’s taste and expression, and players may seek out cozy environments as a way of changing pace in contrast to more demanding environments.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T154422Z" creationid="哗啦" creationdate="20181207T154422Z">
@@ -1918,6 +1926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They should include visible places to comfortably sit, eat, drink, and view beauty.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T155657Z" creationid="哗啦" creationdate="20181207T155657Z">
+        <seg>它们包括可以舒适地坐着、吃东西、喝饮料和观赏美景的场所.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They stop thriving when they are presented with extrinsic motivators that suck up their attention.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T094429Z" creationid="哗啦" creationdate="20181202T094429Z">
@@ -2030,6 +2046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Transition spaces without danger or obligation: trains, backseat of a car, slow-moving spacecraft</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T155413Z" creationid="哗啦" creationdate="20181207T155413Z">
+        <seg>没有危险且自己不需要负责的交通工具：火车，汽车后座，慢慢移动的航天器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Two models helps us understand how coziness yields meaningful gameplay.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091720Z" creationid="哗啦" creationdate="20181202T091720Z">
@@ -2050,6 +2074,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T150520Z" creationid="哗啦" creationdate="20181202T150520Z">
         <seg>令人烦恼的分心&lt;x1/&gt;：令人分心的事包括通知，突然的声音，或令玩家不能专注的唠叨。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unpretentious community gathering &amp; ritual spaces: farmer’s markets, kitchens, chapels</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T155453Z" creationid="哗啦" creationdate="20181207T155453Z">
+        <seg>朴实无华的社区聚会和举行特定仪式的场所：农贸市场、厨房、教堂</seg>
       </tuv>
     </tu>
     <tu>
