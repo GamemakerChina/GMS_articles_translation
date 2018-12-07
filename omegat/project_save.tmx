@@ -454,6 +454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cozy locations are centered on leisure, practicality, ritual, history, and familiarity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T153548Z" creationid="哗啦" creationdate="20181207T153548Z">
+        <seg>舒适的地点一般是或休闲，或实用，或具有仪式感，或具有历史感，或令人感到熟悉的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cozy moments in any game can help reset or reframe the player’s mindset, as exemplified by the visuals and music of the game resume sequence in &lt;x1/&gt;Stardew Valley&lt;x2/&gt; (argued by Jeff Ramos of Polygon to be a key element in the game’s pastoral fantasy).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181206T151457Z" creationid="哗啦" creationdate="20181206T151457Z">
@@ -1930,6 +1938,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181009T102442Z" creationid="哗啦" creationdate="20181009T102442Z">
         <seg>这个文档分成了三个部分，以便更好的给你介绍 &lt;i1&gt;GameMaker Studio 2&lt;/i1&gt;的界面和基础工作。 before going on to more advanced usage and the functions available through our propriety scripting language &lt;a2&gt;GML&lt;/a2&gt; or our visual scripting tool &lt;a3&gt;Drag and Drop&lt;/a3&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This effect can also be achieved by steady hums or noises, such as from fans or machinery.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T153429Z" creationid="哗啦" creationdate="20181207T153429Z">
+        <seg>这种效果也可以通过稳定的嗡嗡声或噪音来实现，例如来自风扇或机械的噪音。（译者注：试想一下，你在雨夜通常睡得很舒服，就是这种原理。）</seg>
       </tuv>
     </tu>
     <tu>
