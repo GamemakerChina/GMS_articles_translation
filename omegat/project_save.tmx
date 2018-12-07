@@ -1286,6 +1286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Outdoor spaces should obscure the distant horizon partially in some way, through geometry, fog, or darkness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T145515Z" creationid="哗啦" creationdate="20181207T145515Z">
+        <seg>房间外的景物会各种方式阻挡我们看向远处，比如山丘，烟雾，或黑夜。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Over decades of living, an adult builds a rich history with otherwise mundane objects and environments, storing away personal and cultural meaning.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181206T151045Z" creationid="哗啦" creationdate="20181206T151045Z">
@@ -1538,6 +1546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102705Z" creationid="哗啦" creationdate="20181205T102705Z">
         <seg>有些游戏机制在感情处理上更加舒适，但是任何游戏都能变得更加舒适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Space&lt;x1/&gt;: Closer, intimate, more enclosed spaces.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T145323Z" creationid="哗啦" creationdate="20181207T145323Z">
+        <seg>空间：&lt;x1/&gt;: 封闭的有限的空间。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2082,6 +2098,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T151651Z" creationid="哗啦" creationdate="20181205T151651Z">
         <seg>当然，游戏中的许多地方都是真实的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yoshi’s Woolly World makes the entire world feel touchable, soft, and lovingly crafted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T145251Z" creationid="哗啦" creationdate="20181207T145251Z">
+        <seg>《Yoshi’s Woolly World》中的所有东西都是摸起来很舒适，很柔软，而且看起来很可爱的。</seg>
       </tuv>
     </tu>
     <tu>
