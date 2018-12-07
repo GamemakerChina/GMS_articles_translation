@@ -686,6 +686,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hearthstone offers the metaphor of a small, carved wooden box from which you play the game, with smooth transitions between different play modes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T060812Z" creationid="哗啦" creationdate="20181207T060812Z">
+        <seg>例如你在《炉石传说》中主要在会在一个小小的雕刻过的木箱上打牌，而且能在不同游戏模式之间顺滑的切换。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High priority, low order needs get dealt with first; that’s just how humans prioritize.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145440Z" creationid="哗啦" creationdate="20181202T145351Z">
