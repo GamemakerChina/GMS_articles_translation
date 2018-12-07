@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Any hint of external threat or danger should be muted and distant</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T152543Z" creationid="哗啦" creationdate="20181207T152543Z">
+        <seg>提示外部危险和威胁的迹象应该是模糊不清，似有似无的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are familiar to the player due to past experience, nostalgic or shared cultural language.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T152925Z" creationid="哗啦" creationdate="20181205T152925Z">
