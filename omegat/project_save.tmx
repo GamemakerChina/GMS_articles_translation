@@ -2206,6 +2206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>White noise can be used to help with difficulty sleeping, as the varying texture ‘washes out’ individual noises and becomes easily ignored.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T153303Z" creationid="哗啦" creationdate="20181207T153303Z">
+        <seg>白噪音对睡眠是非常有帮助的，因为白噪音不同频域的声音“冲走”了那些容易干扰人的噪音。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Why Make Cozy Games</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154519Z" creationid="哗啦" creationdate="20181203T154519Z">
