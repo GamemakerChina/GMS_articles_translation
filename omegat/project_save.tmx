@@ -1174,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>One of the earliest promotional images of Hyper Light Drifter are of the drifter relaxing next to a campfire while monsters look on.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T064933Z" creationid="哗啦" creationdate="20181207T064933Z">
+        <seg>《光明旅者（Hyper Light Drifter）》早期的宣传海报是漂流者坐在轻松地坐在篝火旁，而怪物在旁边看着。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Opportunities for introspection lead to real personal insight.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T151741Z" creationid="哗啦" creationdate="20181205T151741Z">
@@ -1498,6 +1506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T103118Z" creationid="哗啦" creationdate="20181205T103118Z">
         <seg>如果玩家是被外部因素强迫来到舒适空间时，他们是不会感到舒适的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The eyes at a distance make the fire feel even cozier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T065006Z" creationid="哗啦" creationdate="20181207T065006Z">
+        <seg>远处怪物的眼睛让篝火看着更加舒适。</seg>
       </tuv>
     </tu>
     <tu>
