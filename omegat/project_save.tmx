@@ -734,6 +734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Hand-made materials and rustic objects, which imply they were crafted and/or preserved with care and attention.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T145109Z" creationid="哗啦" creationdate="20181207T145109Z">
+        <seg>手工制品或质朴的材料，可以表明它们是被用心创造的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Harvest Moon was a popular cozy title that offered a mundane, ritual refuge in pastoral life, with clearly demarcated seasons to signify both economic and community activities.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T073331Z" creationid="哗啦" creationdate="20181207T073331Z">
@@ -1730,6 +1738,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T144706Z" creationid="哗啦" creationdate="20181207T144706Z">
         <seg>这些材质是熟悉的，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These materials can be harder to find in science fiction worlds, making them more likely to feel sterile, unwelcoming, and uncomfortable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T144936Z" creationid="哗啦" creationdate="20181207T144936Z">
+        <seg>这些材质很难在科普或科幻小说中找到，这让这些高科技产物看起来是不能和自然和谐生存，不太舒适的。</seg>
       </tuv>
     </tu>
     <tu>
