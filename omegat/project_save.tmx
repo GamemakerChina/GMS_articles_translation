@@ -1550,6 +1550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The scale of the objects, architecture, and other creatures are comfortable for humans.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T065942Z" creationid="哗啦" creationdate="20181207T065942Z">
+        <seg>用品，建筑和其它生物的大小都是以人为中心设计的，人类因此会感到很舒适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The theoretical opt-in that occurs at the systems level is more rote than intentional.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T151400Z" creationid="哗啦" creationdate="20181203T151343Z">
