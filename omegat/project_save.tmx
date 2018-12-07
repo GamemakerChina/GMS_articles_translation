@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ambient, possibly dynamic or gently unpredictable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T151722Z" creationid="哗啦" creationdate="20181207T151722Z">
+        <seg>这应该是环境音效，是动态的或是会突然出现无法预料的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An example of negating coziness&lt;x1/&gt;: Consider the omnipresent pop-up, especially as it is used in a normally cozy franchise like Animal Crossing: Pocket Camp.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T150420Z" creationid="哗啦" creationdate="20181203T150420Z">
@@ -1158,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Music</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T151444Z" creationid="哗啦" creationdate="20181207T151444Z">
+        <seg>音乐</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Natural materials&lt;x1/&gt;: wood, stone, fur, moss, cotton, wool, water, living plants.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T144721Z" creationid="哗啦" creationdate="20181207T144636Z">
@@ -1682,6 +1698,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T065942Z" creationid="哗啦" creationdate="20181207T065942Z">
         <seg>用品，建筑和其它生物的大小都是以人为中心设计的，人类因此会感到很舒适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The sources of both music and audio should ideally be diegetic to allow the players to connect concretely or even intimately with those sources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T151433Z" creationid="哗啦" creationdate="20181207T151433Z">
+        <seg>游戏中音乐和声效的源头应该都在游戏地图内，这样玩家能精确或至少大概知道声音的信息。</seg>
       </tuv>
     </tu>
     <tu>
