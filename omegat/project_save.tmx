@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Contrast&lt;x1/&gt;: Ideally, provide a window or reminder of an external non-cozy space you are taking refuge from, such as rain, snow, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T145709Z" creationid="哗啦" creationdate="20181207T145709Z">
+        <seg>反面：&lt;x1/&gt;最好的方法是，玩家能通过窗户或其它方式知道外部空间是不舒适的，比如雨雪。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Covey’s Time Management Grid, 7 Habits of Highly Effective People.&lt;x1/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093528Z" creationid="哗啦" creationdate="20181202T093528Z">
