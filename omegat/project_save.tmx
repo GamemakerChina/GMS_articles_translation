@@ -1478,6 +1478,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Terraria’s room requirements and mechanics encourage cozy placements of lighting and doors to keep out threats and protect allies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T070703Z" creationid="哗啦" creationdate="20181207T070703Z">
+        <seg>《泰勒瑞拉》的对制作房间的要求和游戏机制鼓励玩家在能令他们感到舒适的地方放置灯和门，这样能保护他们伙伴和抵御危险。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The Sad Exception of The Sims Online&lt;x1/&gt;: The Sims Online was a potentially cozy game dominated by a community of sociopaths.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T101657Z" creationid="哗啦" creationdate="20181205T101657Z">
@@ -1850,6 +1858,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181008T063600Z" creationid="deciia" creationdate="20181008T050339Z">
         <seg>欢迎使用 &lt;i0&gt;GameMaker Studio 2&lt;/i0&gt;手册！</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Welcome&lt;x1/&gt;: When the player is explicitly positioned as a welcomed entity, this gives them the freedom and safety to express themselves.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T070853Z" creationid="哗啦" creationdate="20181207T070853Z">
+        <seg>受欢迎：&lt;x1/&gt;当玩家在游戏中受到其它NPC欢迎时，玩家就能安全和自由地表达自己。</seg>
       </tuv>
     </tu>
     <tu>
