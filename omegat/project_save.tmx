@@ -1134,6 +1134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Natural materials&lt;x1/&gt;: wood, stone, fur, moss, cotton, wool, water, living plants.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T144721Z" creationid="哗啦" creationdate="20181207T144636Z">
+        <seg>自然材质：&lt;x1/&gt;: 木头，石头，皮毛，苔藓，棉絮，羊毛，水，生机勃勃的植物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Negating Coziness</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145118Z" creationid="哗啦" creationdate="20181202T145118Z">
@@ -1714,6 +1722,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102445Z" creationid="哗啦" creationdate="20181205T102445Z">
         <seg>这些高级原则为设计舒适或比较舒适的游戏提供了方向和框架。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These materials are familiar, implying either sturdy, ancestral safety or physical comfort.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T144706Z" creationid="哗啦" creationdate="20181207T144706Z">
+        <seg>这些材质是熟悉的，</seg>
       </tuv>
     </tu>
     <tu>
