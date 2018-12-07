@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Autumn and winter are especially rich in potential, with a good harvest and refuge from cold weather causing potential any interior space to become cozy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T072233Z" creationid="哗啦" creationdate="20181207T072233Z">
+        <seg>秋冬尤其蕴藏着丰富的潜力，丰收之后到小屋里躲避寒冬，尤其惬意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bartenders often greet newcomers with a welcome, whether the tavern is digital or physical, to encourage a longer and more leisurely visit.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T071737Z" creationid="哗啦" creationdate="20181207T071737Z">
@@ -1354,6 +1362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145957Z" creationid="哗啦" creationdate="20181202T145957Z">
         <seg>责任：&lt;x1/&gt;责任需要脑力劳动：努力制定计划，思考并执行计划来解决问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ritual&lt;x1/&gt;: Facilitating repeated, meaningful actions can create familiarity and contentedness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T072331Z" creationid="哗啦" creationdate="20181207T072331Z">
+        <seg>重复：&lt;x1/&gt;: 鼓励重复却有意义的活动能增强熟悉性和满足感。</seg>
       </tuv>
     </tu>
     <tu>
