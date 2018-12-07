@@ -862,6 +862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If the source of light is intense, such as the sun, bright lamp or stoked fire, it’s best to soften the beams in some way (i.e. dappled, partially obscured, or gently shaded).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T144300Z" creationid="哗啦" creationdate="20181207T144300Z">
+        <seg>如果光源的样式能让人感到兴奋，像那些阳光，明亮的灯罩或篝火，最好要让光束柔和一些。（例如，降低亮度，或使用一些柔和的阴影。）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If unwanted, a notification becomes a &lt;x10/&gt;distraction&lt;x11/&gt;.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T151450Z" creationid="哗啦" creationdate="20181203T151450Z">
@@ -1546,6 +1554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T101657Z" creationid="哗啦" creationdate="20181205T101657Z">
         <seg>《模拟人生网络版》令人伤心的例外&lt;/x1&gt;：《模拟人生在线》是一款本来应该是一款舒适游戏,，它是由反社会者组成的社区主导的。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Witcher 3 uses warm, yellow tones in its lighting and materials to make their taverns feel even more welcoming.&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T144532Z" creationid="哗啦" creationdate="20181207T144532Z">
+        <seg>《巫师3》在他们的灯光和材质中使用了温暖的黄色色调，这样看起来这款游戏很欢迎玩家。&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
