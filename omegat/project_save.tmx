@@ -1638,6 +1638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sociable yet private, discrete 3rd spaces separate from responsibility or ‘work’: bars, cafes, retreats, libraries, cabins, gardens</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T155149Z" creationid="哗啦" creationdate="20181207T155149Z">
+        <seg>既是社交性有时私密性的， 独立于“工作”和“责任”的第三空间：酒吧，咖啡馆，招待所，图书馆，小屋，花园。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Social norms spread&lt;x1/&gt;: In multiplayer contexts, players will watch one another and adopt shared social norms based off how people are reacting to the game.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T101021Z" creationid="哗啦" creationdate="20181205T101021Z">
