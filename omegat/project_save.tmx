@@ -1454,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Places that support low-demand companionship, such as those with calm pets, or passive NPC-watching.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T155801Z" creationid="哗啦" creationdate="20181207T155801Z">
+        <seg>不需要玩家过多操作的地方，例如养着安静动物的地方，或只需静静看着NPC的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Places where players can decorate can become cozy as it suits the player’s taste and expression, and players may seek out cozy environments as a way of changing pace in contrast to more demanding environments.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T154422Z" creationid="哗啦" creationdate="20181207T154422Z">
