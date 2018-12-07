@@ -1662,6 +1662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Undertale uses warm tones, focused interiors, and the presence of a relaxed guardian character to indicate this space is safe and cozy.&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T061910Z" creationid="哗啦" creationdate="20181207T061910Z">
+        <seg>《传说之下》采用温暖的色调，注重游戏内在，以及不用紧张工作的守卫，来告诉玩家游戏世界是安全和舒适的。&lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unpleasant distractions&lt;x1/&gt;: Distractions such as notifications, sudden noises or nagging remove a player’s autonomy over their focus.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T150520Z" creationid="哗啦" creationdate="20181202T150520Z">
