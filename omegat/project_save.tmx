@@ -2494,6 +2494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>You need to chose to do a task of your own volution.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181208T160910Z" creationid="哗啦" creationdate="20181208T160910Z">
+        <seg>你需要自己选择自己做的事</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Zero sum economics&lt;x1/&gt;: In this model, resources are highly limited and if I take a resource, you lose that resource.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T145621Z" creationid="哗啦" creationdate="20181204T145621Z">
