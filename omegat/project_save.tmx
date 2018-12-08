@@ -2374,6 +2374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When the reward of an activity outweighs its gentle momentary pleasure, the activity can become extrinsic and lose its cozy appeal.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181208T154930Z" creationid="哗啦" creationdate="20181208T154930Z">
+        <seg>当在一项活动中获得愉快的不及因它而失去的，那么这项活动就会变得毫无吸引力，不能自发的促进玩家去玩</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When these are present, they immediately &lt;x1/&gt;grab&lt;x2/&gt; the limited attention of the player and deprioritize those higher order needs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092920Z" creationid="哗啦" creationdate="20181202T092920Z">
