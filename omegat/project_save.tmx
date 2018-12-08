@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Compulsory mechanics often detract from a game’s coziness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181208T155224Z" creationid="哗啦" creationdate="20181208T155224Z">
+        <seg>强制机制会降低游戏的舒适性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Confinement&lt;x1/&gt;: Many small spaces are considered cozy since you can quickly inspect them to see if you are safe.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T144938Z" creationid="哗啦" creationdate="20181203T144938Z">
@@ -2376,8 +2384,8 @@
       <tuv lang="EN-US">
         <seg>When the reward of an activity outweighs its gentle momentary pleasure, the activity can become extrinsic and lose its cozy appeal.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181208T154930Z" creationid="哗啦" creationdate="20181208T154930Z">
-        <seg>当在一项活动中获得愉快的不及因它而失去的，那么这项活动就会变得毫无吸引力，不能自发的促进玩家去玩</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181208T154951Z" creationid="哗啦" creationdate="20181208T154930Z">
+        <seg>当在一项活动中获得愉快的不及因它而失去的，那么这项活动就会变得毫无吸引力，不能自发的促进玩家去参与这项活动。</seg>
       </tuv>
     </tu>
     <tu>
