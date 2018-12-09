@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If that doesn’t work, take a look at the economic rewards and balance them such that comfier behavior dominates.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T153419Z" creationid="哗啦" creationdate="20181209T153419Z">
+        <seg>如果这不起作用，那么看看外部的奖励，看看能否将它和能让玩家感到舒适的行为平衡起来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If that same cold rain was blowing through a broken window, the scene would no longer be cozy.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T152847Z" creationid="哗啦" creationdate="20181203T152805Z">
@@ -1570,6 +1578,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102416Z" creationid="哗啦" creationdate="20181205T102416Z">
         <seg>现在，我们将介绍能帮助您设计舒适游戏的工具。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Often a simple obfuscation of feedback is enough to dampen the feedback loop.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T153234Z" creationid="哗啦" creationdate="20181209T153234Z">
+        <seg>通常，仅仅是普通的模糊反馈就足以削弱反馈效果。</seg>
       </tuv>
     </tu>
     <tu>
