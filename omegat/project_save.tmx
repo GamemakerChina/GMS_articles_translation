@@ -1022,6 +1022,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Heavily promoted item rarity makes players feel a strong sense of scarcity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T154657Z" creationid="哗啦" creationdate="20181209T154657Z">
+        <seg>如果某种常用品短缺，也会让玩家产生危机感，觉得他们缺少那种东西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High priority, low order needs get dealt with first; that’s just how humans prioritize.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145440Z" creationid="哗啦" creationdate="20181202T145351Z">
@@ -2062,6 +2070,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Social comparison creates social anxiety for some players.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T154423Z" creationid="哗啦" creationdate="20181209T154423Z">
+        <seg>如果你把玩家和游戏世界中其它NPC比较，那么会为其中一些玩家带来紧张感。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Social norms spread&lt;x1/&gt;: In multiplayer contexts, players will watch one another and adopt shared social norms based off how people are reacting to the game.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T101021Z" creationid="哗啦" creationdate="20181205T101021Z">
@@ -2178,6 +2194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T150724Z" creationid="哗啦" creationdate="20181204T150724Z">
         <seg>人们认为喜欢游戏的人主要是享受竞争。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The best practice here is twofold</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T154716Z" creationid="哗啦" creationdate="20181209T154716Z">
+        <seg>这里的最佳实践有两方面</seg>
       </tuv>
     </tu>
     <tu>
@@ -2522,6 +2546,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181206T152746Z" creationid="哗啦" creationdate="20181206T152746Z">
         <seg>然而，当你费劲艰辛才来到舒适的地方时，例如逃出雪灾而躲进温暖的小屋，或者跳进瀑布后面的洞穴（译者注：孙大圣便是很好的一个例子），你会感到更加畅快惬意。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Time pressure on sales and event generates a fear of missing out.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T154515Z" creationid="哗啦" creationdate="20181209T154515Z">
+        <seg>限时活动或限时促销会让人们产生一种害怕自己错过什么的感觉。</seg>
       </tuv>
     </tu>
     <tu>
