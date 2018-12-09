@@ -670,6 +670,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drinking steaming coffee from that strange handcrafted mug you got visiting your aunt in Maine.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T152046Z" creationid="哗啦" creationdate="20181209T152046Z">
+        <seg>你用一个手工的奇形怪状的杯子喝着热气腾腾的咖啡，这个杯子是你在拜访缅因州的姑姑时姑姑送给你的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Each game genre taps into a highly specific set of motivations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092139Z" creationid="哗啦" creationdate="20181202T092139Z">
@@ -768,8 +776,8 @@
       <tuv lang="EN-US">
         <seg>Fishing with a fishing rod</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T151308Z" creationid="哗啦" creationdate="20181209T151308Z">
-        <seg>用鱼竿钓鱼</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T152141Z" creationid="哗啦" creationdate="20181209T151308Z">
+        <seg>静静地用鱼竿钓鱼，任凭时间流逝</seg>
       </tuv>
     </tu>
     <tu>
