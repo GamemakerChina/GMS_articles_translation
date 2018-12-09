@@ -1206,6 +1206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you can, sell products within the game that address real existing player needs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T154956Z" creationid="哗啦" creationdate="20181209T154956Z">
+        <seg>你可以在游戏中推广某种能满足玩家真实的需求的产品。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you kick it into a goal, a scoreboard increments.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T024713Z" creationid="哗啦" creationdate="20181209T024713Z">
@@ -2010,6 +2018,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152817Z" creationid="哗啦" creationdate="20181204T152817Z">
         <seg>Self determination Theory&lt;x1/&gt;: 正如我们上面所介绍的，人们有内在的动力去追求自主、能力提升和与别人的练习。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Service existing needs&lt;x1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T154729Z" creationid="哗啦" creationdate="20181209T154729Z">
+        <seg>服务已存在的需求&lt;x1/&gt;.</seg>
       </tuv>
     </tu>
     <tu>
