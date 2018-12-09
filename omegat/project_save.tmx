@@ -814,6 +814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For some players, a self-appointed task -- harvest and replant the crops -- can be relaxing in a safe, soft, and satisfying way.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T151211Z" creationid="哗啦" creationdate="20181209T151211Z">
+        <seg>对某些玩家来说，如果他们在做自己给自己规定的任务——例如收获或重新种植庄稼——也可以在这种安全，柔和，令人满意的方式中放松。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From Quantic Foundry’s motivations, creativity and completion are served well by a cozy game like Animal Crossing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T153952Z" creationid="哗啦" creationdate="20181204T153952Z">
@@ -1386,6 +1394,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181206T151250Z" creationid="哗啦" creationdate="20181206T151250Z">
         <seg>和舒适的其它元素一样，这些美学方式可以用于整个游戏，甚至能让那些非舒适游戏玩家体验到疑点舒适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Like the ritual of going to a gently buzzing coffee shop to write.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T151007Z" creationid="哗啦" creationdate="20181209T151007Z">
+        <seg>就像去一家非常安静的咖啡店去写作的行为。</seg>
       </tuv>
     </tu>
     <tu>
