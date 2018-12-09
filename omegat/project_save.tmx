@@ -848,8 +848,8 @@
       <tuv lang="EN-US">
         <seg>For example, a timeshare sales process offers a participant a free meal or cash reward in an comfy, gorgeous setting.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T154036Z" creationid="哗啦" creationdate="20181209T154036Z">
-        <seg>例如，分时度假（timeshare，一种度假模式）销售流程会让参与者在华丽整洁的环境中享用美食，得到现金奖励。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T154128Z" creationid="哗啦" creationdate="20181209T154036Z">
+        <seg>例如，分时度假（timeshare，一种度假模式）销售流程会让参与者在华丽整洁的环境中享用美食，甚至参与小游戏并用现金作为奖励。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1318,6 +1318,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In return, they leverage this atmosphere of generosity to encourage the mark to complete the reciprocation loop and purchase a very expensive timeshare.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T154300Z" creationid="哗啦" creationdate="20181209T154300Z">
+        <seg>作为回报，销售员就会在这种轻松的氛围下，劝说参与者多次参加销售活动，并且购买昂贵的分时度假。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In short, if you build a high stress game where people are encouraged to act like assholes, you’ll get a community of assholes who think that it is entirely normal to abuse others, including the developer of their favorite game.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T101339Z" creationid="哗啦" creationdate="20181205T101339Z">
@@ -1482,6 +1490,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091156Z" creationid="哗啦" creationdate="20181202T091156Z">
         <seg>较低水平的马斯洛需求（食物，住所）得到满足，为更高的需求（更深层次的关系，对美的欣赏，自我实现，培育，归属）提供了空间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many standard monetization practices damage coziness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T154329Z" creationid="哗啦" creationdate="20181209T154329Z">
+        <seg>很多货币化的练习会削弱舒适感</seg>
       </tuv>
     </tu>
     <tu>
