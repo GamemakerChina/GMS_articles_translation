@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Examples</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T023944Z" creationid="哗啦" creationdate="20181209T023944Z">
+        <seg>例子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Examples include any form of mandatory maintenance, needy pets, companions, or entities that require constant, non-optional care.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T150332Z" creationid="哗啦" creationdate="20181202T150332Z">
@@ -1958,6 +1966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The same pattern is used in Stardew Valley and Harvest Moon.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T023841Z" creationid="哗啦" creationdate="20181209T023841Z">
+        <seg>在《星露谷物语》和《牧场物语》中也是使用相同的模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The scale of the objects, architecture, and other creatures are comfortable for humans.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T065942Z" creationid="哗啦" creationdate="20181207T065942Z">
@@ -2314,6 +2330,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T150911Z" creationid="哗啦" creationdate="20181204T150911Z">
         <seg>我们从Nick Yee和公司的工作中了解到，因为喜欢竞争而玩游戏的人的比例，在19-20岁左右的年轻人中达到顶峰，然后逐渐下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We see something similar in less cozy games like Zelda: Breath of the Wild.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T023935Z" creationid="哗啦" creationdate="20181209T023935Z">
+        <seg>但我们在不那么令人感到舒适的游戏，例如《塞尔达传说：荒野之息》中也看到了类似的模式。</seg>
       </tuv>
     </tu>
     <tu>
