@@ -208,8 +208,8 @@
       <tuv lang="EN-US">
         <seg>But all of these can be ignored with no ill results.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181208T161947Z" creationid="哗啦" creationdate="20181208T161947Z">
-        <seg>但所有这些都可以忽略，没什么不好的后果。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T024209Z" creationid="哗啦" creationdate="20181208T161947Z">
+        <seg>但就算不去参加这些活动，也没什么不好的后果。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1102,6 +1102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In Animal Crossing: New Leaf there are numerous activities such as fishing, decorating, gardening, clothing creation, fetch quests, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T024134Z" creationid="哗啦" creationdate="20181209T024134Z">
+        <seg>在《动物之森：新叶》中，有很多活动可供选择，例如钓鱼，装饰，园艺，创作服装，领取任务，等等。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In Covey’s time management, tasks can be categorized along two axis: Urgent to Not Urgent and Important to Not Important.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093710Z" creationid="哗啦" creationdate="20181202T093710Z">
@@ -1968,8 +1976,8 @@
       <tuv lang="EN-US">
         <seg>The same pattern is used in Stardew Valley and Harvest Moon.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T023841Z" creationid="哗啦" creationdate="20181209T023841Z">
-        <seg>在《星露谷物语》和《牧场物语》中也是使用相同的模式。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T024220Z" creationid="哗啦" creationdate="20181209T023841Z">
+        <seg>在《星露谷物语》和《牧场物语》中都是这样的。</seg>
       </tuv>
     </tu>
     <tu>
