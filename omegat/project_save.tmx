@@ -1326,6 +1326,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It will not suddenly eat up an unexpected amount of time, labor or resources.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T025133Z" creationid="哗啦" creationdate="20181209T025133Z">
+        <seg>它不会突然占用你的时间，精力或资源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Known&lt;x1/&gt;: The activity is constrained.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T025204Z" creationid="哗啦" creationdate="20181209T025057Z">
+        <seg>熟知：&lt;x1/&gt;:活动开展是必须符合条件的。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light&lt;x1/&gt;: Warm-toned lighting of clear origin and low ambient, which allows for soft shadows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T143909Z" creationid="哗啦" creationdate="20181207T143909Z">
@@ -1726,6 +1742,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Repeated low risk tasks allow the player to relax.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T024949Z" creationid="哗啦" creationdate="20181209T024949Z">
+        <seg>重复低风险的任务可以让玩家方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Responsibility&lt;x1/&gt;: Responsibility requires emotional labor: the effort to plan, think, and execute on a plan to resolve something.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145957Z" creationid="哗啦" creationdate="20181202T145957Z">
@@ -1754,6 +1778,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T094416Z" creationid="哗啦" creationdate="20181202T094416Z">
         <seg>SDT 提出，当人们能够追求诸如自主、能力和人际关系等内在动机时，他们就会茁壮成长。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Safe&lt;x1/&gt;: The activity is known to be safe and will not cause stress or danger.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T025043Z" creationid="哗啦" creationdate="20181209T025043Z">
+        <seg>安全：&lt;x1/&gt;这个活动是安全的不会带来任何风险的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1874,6 +1906,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102705Z" creationid="哗啦" creationdate="20181205T102705Z">
         <seg>有些游戏机制在感情处理上更加舒适，但是任何游戏都能变得更加舒适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Some player activities can achieve a sense of coziness due to their familiarity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T025013Z" creationid="哗啦" creationdate="20181209T025013Z">
+        <seg>某些玩家活动会因为熟悉而变得舒适。</seg>
       </tuv>
     </tu>
     <tu>
