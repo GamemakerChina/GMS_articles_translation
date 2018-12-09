@@ -2030,6 +2030,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some mechanics may start off as cozy, but later become reduced or compromised as players acclimate to gameplay systems and (consciously or subconsciously) seek to min/max them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T152436Z" creationid="哗啦" creationdate="20181209T152436Z">
+        <seg>有些游戏机制可能在开始时是很舒适的，但后来却被削弱，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some player activities can achieve a sense of coziness due to their familiarity.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T025013Z" creationid="哗啦" creationdate="20181209T025013Z">
@@ -2106,6 +2114,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T150724Z" creationid="哗啦" creationdate="20181204T150724Z">
         <seg>人们认为喜欢游戏的人主要是享受竞争。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The challenge of emergent extrinsic rewards</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T152316Z" creationid="哗啦" creationdate="20181209T152316Z">
+        <seg>突然的有回报的外部挑战</seg>
       </tuv>
     </tu>
     <tu>
@@ -2458,6 +2474,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091720Z" creationid="哗啦" creationdate="20181202T091720Z">
         <seg>有两个模型可以帮助我们更好地了解舒适如何产生有意义的游戏玩法。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Typing on a clacky typewriter in a warm wood paneled study (with flakes of snow outside)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T152242Z" creationid="哗啦" creationdate="20181209T152242Z">
+        <seg>在温暖的木屋中用一台吱嘎作响的打字机打字，木屋外面是鹅毛大雪</seg>
       </tuv>
     </tu>
     <tu>
