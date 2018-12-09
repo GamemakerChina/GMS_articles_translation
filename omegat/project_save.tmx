@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It occupies the hands, but frees the mind to work on other more subtle concerns.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T025345Z" creationid="哗啦" creationdate="20181209T025345Z">
+        <seg>这项活动可能需要用手去做，但你的脑袋可取思考研究其他更有用的事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It turns out people are much happier, much more willing to stick around, and much more willing to invest themselves when they aren’t coerced via extrinsic rewards.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152947Z" creationid="哗啦" creationdate="20181204T152947Z">
@@ -1738,6 +1746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T064219Z" creationid="哗啦" creationdate="20181207T064219Z">
         <seg>避难和逃生&lt;x1/&gt;：如果这个地方 &lt;x2/&gt;有一个&lt;x3/&gt; “外部”的空间能与之相比，那么后者的不适和危险能和前者形成鲜明对比。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Relaxed&lt;x1/&gt;: The activity is low mental cost.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T025234Z" creationid="哗啦" creationdate="20181209T025234Z">
+        <seg>放松：&lt;x1/&gt;这个活动不会消耗你太多的精力。</seg>
       </tuv>
     </tu>
     <tu>
