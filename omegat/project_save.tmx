@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A mundane act of organization or tidying</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T150641Z" creationid="哗啦" creationdate="20181209T150641Z">
+        <seg>寻常的整理和清洁工作</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A prison cell is generally not cozy.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T145209Z" creationid="哗啦" creationdate="20181203T145209Z">
@@ -658,6 +666,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T100620Z" creationid="哗啦" creationdate="20181205T100620Z">
         <seg>情感吸引玩家&lt;x1/&gt;：玩家会寻找那些产生特定情感的游戏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even a busy environment or activity, if exceedingly familiar, can provide a sense of coziness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T150903Z" creationid="哗啦" creationdate="20181209T150903Z">
+        <seg>即使你处在比较忙碌的环境或活动中，如果你对这些驾轻就熟，那么你也不会觉得不轻松。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1320,8 +1336,8 @@
       <tuv lang="EN-US">
         <seg>It occupies the hands, but frees the mind to work on other more subtle concerns.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T025345Z" creationid="哗啦" creationdate="20181209T025345Z">
-        <seg>这项活动可能需要用手去做，但你的脑袋可取思考研究其他更有用的事。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T150803Z" creationid="哗啦" creationdate="20181209T025345Z">
+        <seg>这项活动虽然可能会占用你的手去做，但你的脑袋可去思考研究其他更有用的事。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1818,6 +1834,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T090808Z" creationid="哗啦" creationdate="20181202T090808Z">
         <seg>平安：&lt;x1/&gt; 舒适游戏没有威胁或风险。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Searching or collecting for diamonds, berries or fossils -- though not under duress.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T150738Z" creationid="哗啦" creationdate="20181209T150738Z">
+        <seg>自愿地寻找售价钻石，浆果或化石</seg>
       </tuv>
     </tu>
     <tu>
