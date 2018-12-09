@@ -222,6 +222,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brewing tea in a chipped tea set given to you by your grandmother.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T151838Z" creationid="哗啦" creationdate="20181209T151838Z">
+        <seg>用祖母送给你的茶具泡茶——茶具可能因为年代久远而裂出缺口</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bundling up in a quilt your mother made you.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T151459Z" creationid="哗啦" creationdate="20181209T151459Z">
