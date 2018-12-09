@@ -46,6 +46,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A quaint trading bazaar or relaxing spawn point in an MMO can rapidly lose its charm as players queue up for their turn at an activity, exchanging intimate intrinsic experiential rewards for (ultimately shallow) extrinsic payouts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T152948Z" creationid="哗啦" creationdate="20181209T152948Z">
+        <seg>要是你在mmo游戏中有一个不合理的交易市场，或者玩家可以随时保存自己的进度，那么这个游戏将很快变得没有趣味，因为玩家会被动地等待活动出现，而不是主动去和别人交互，导致游戏变得毫无乐趣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A real mug of tea is cozier than an image of a mug of tea.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T151001Z" creationid="哗啦" creationdate="20181205T150955Z">
@@ -2570,6 +2578,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T150911Z" creationid="哗啦" creationdate="20181204T150911Z">
         <seg>我们从Nick Yee和公司的工作中了解到，因为喜欢竞争而玩游戏的人的比例，在19-20岁左右的年轻人中达到顶峰，然后逐渐下降。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We recommend tracking player behavior and identifying when extrinsic rewards start to take over.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T153048Z" creationid="哗啦" creationdate="20181209T153048Z">
+        <seg>我们推荐游戏能跟踪记录玩家的行为，以便确定何时给与他们外部奖励。</seg>
       </tuv>
     </tu>
     <tu>
