@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cozy characters embody the tend and befriend response, offering players a support and respite from outside stress.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T151317Z" creationid="哗啦" creationdate="20181211T151317Z">
+        <seg>舒适的角色会和别人交朋友并能照料他们，帮助玩家应对外界压力，让玩家能放松一下。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cozy content allows for privacy and creative expression, physically dividing spaces into nooks and alcoves and providing means for people to spend companionable, low-intensity time with others or in solitude.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T153830Z" creationid="哗啦" creationdate="20181207T153830Z">
@@ -2714,6 +2722,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T151424Z" creationid="哗啦" creationdate="20181202T151424Z">
         <seg>但是这可以通过背景信息来减轻：例如刀的出现并不是用于暴力，而是用来切菜做饭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can manifest through the character’s role, their aesthetics, and the affordances of interaction offered the player.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T151041Z" creationid="哗啦" creationdate="20181211T151041Z">
+        <seg>这可以通过角色的行为，他们的审美观，以及在和他们与玩家互动时的表现来体现。</seg>
       </tuv>
     </tu>
     <tu>
