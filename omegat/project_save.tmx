@@ -2430,6 +2430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Taken to the extreme, this can include literal pets or characters who fulfill the same function of a pet, whose function in the game world is to adopted and cared for.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T154055Z" creationid="哗啦" creationdate="20181211T154055Z">
+        <seg>在极端情况下，这些可能包括真实的宠物，和那些充当宠物的角色，它们的功能是被玩家收养和照顾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Tend and Befriend&lt;x1/&gt;: This theory suggests many humans are motivated to bond with one another for safety and strength.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152632Z" creationid="哗啦" creationdate="20181204T152422Z">
