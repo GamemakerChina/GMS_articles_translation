@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A place to call home - The private rooms of the Normandy in Mass Effect</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T143943Z" creationid="哗啦" creationdate="20181211T143943Z">
+        <seg>那个叫“家”的地方——《质量效应》中的单人房间</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A prison cell is generally not cozy.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T145209Z" creationid="哗啦" creationdate="20181203T145209Z">
@@ -666,6 +674,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T154312Z" creationid="哗啦" creationdate="20181204T154312Z">
         <seg>缺乏动力的机制(或审美)最有可能让玩家脱离游戏并导致玩家流失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Denouement -after needs are met, climax achieved, explicit opt-in room to relax and “do nothing”</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T144155Z" creationid="哗啦" creationdate="20181211T144155Z">
+        <seg>结局——在需求得到满足，剧情高潮部分结束后，可以选择进入什么都不做的，令人放松的地方</seg>
       </tuv>
     </tu>
     <tu>
