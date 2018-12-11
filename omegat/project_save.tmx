@@ -622,6 +622,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cozy narrative archetypes</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T144312Z" creationid="哗啦" creationdate="20181211T144312Z">
+        <seg>舒适叙述雏形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create blue ocean games for untapped psychographics</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181208T075421Z" creationid="哗啦" creationdate="20181203T155020Z">
@@ -738,6 +746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T101844Z" creationid="哗啦" creationdate="20181211T101844Z">
         <seg>脚踏实地——谦虚和踏实</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dragon Age: &lt;x1/&gt;Companions take time to reflect and unwind after adventures.&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T144255Z" creationid="哗啦" creationdate="20181211T144255Z">
+        <seg>《龙腾世纪》： &lt;x1/&gt;伙伴们需要冒险结束后来反思和休息&lt;x2/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -2902,6 +2918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We see common narrative patterns show up repeatedly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T144411Z" creationid="哗啦" creationdate="20181211T144411Z">
+        <seg>我们看到那些常见的叙事模式会反复出现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We see something similar in less cozy games like Zelda: Breath of the Wild.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T023935Z" creationid="哗啦" creationdate="20181209T023935Z">
@@ -3154,6 +3178,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181009T095403Z" creationid="哗啦" creationdate="20181009T095403Z">
         <seg>在线文档，网络在线帮助，网络帮助b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“It Takes a Village” - Communities banding together for the common good</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T144454Z" creationid="哗啦" creationdate="20181211T144454Z">
+        <seg>”同心协力“——为了共同利益而团结在一起的社区</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
