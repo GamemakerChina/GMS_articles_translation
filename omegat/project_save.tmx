@@ -1454,6 +1454,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Intermezzo Narratives</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T102507Z" creationid="哗啦" creationdate="20181211T102507Z">
+        <seg>插叙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intermezzo refers to a musical score that occurs &lt;x1/&gt;between&lt;x2/&gt; other major musical movements.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T102652Z" creationid="哗啦" creationdate="20181211T102652Z">
+        <seg>插曲原来是指 &lt;x1/&gt;在&lt;x2/&gt; 两场大型音乐事件中的小型音乐片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intimate - A moderate size number of players to build familiarity</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T101748Z" creationid="哗啦" creationdate="20181211T101748Z">
@@ -2306,6 +2322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T070703Z" creationid="哗啦" creationdate="20181207T070703Z">
         <seg>《泰勒瑞拉》的对制作房间的要求和游戏机制鼓励玩家在能令他们感到舒适的地方放置灯和门，这样能保护他们伙伴和抵御危险。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Atelier games frame the fantasy around career, community, and cozy objects/spaces</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T102414Z" creationid="哗啦" creationdate="20181211T102414Z">
+        <seg>《Atelier》游戏围绕职业、社区和舒适的物体和空间让玩家自由想象</seg>
       </tuv>
     </tu>
     <tu>
