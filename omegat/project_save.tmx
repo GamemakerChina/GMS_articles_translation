@@ -3196,6 +3196,14 @@
         <seg>”同心协力“——为了共同利益而团结在一起的社区</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Pastoral Escape” - Consciously choosing to leave the troubles of modern life for something simpler</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T145829Z" creationid="哗啦" creationdate="20181211T145829Z">
+        <seg>“逃离大城市” - 为了追求简单而下意识地逃离现代生活</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
