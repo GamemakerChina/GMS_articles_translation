@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cozy characters can assist the player in her goals.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T152935Z" creationid="哗啦" creationdate="20181211T152935Z">
+        <seg>舒适角色会协助玩家，帮助玩家实现后者的目标。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cozy characters embody the tend and befriend response, offering players a support and respite from outside stress.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T151317Z" creationid="哗啦" creationdate="20181211T151317Z">
@@ -2498,6 +2506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T103118Z" creationid="哗啦" creationdate="20181205T103118Z">
         <seg>如果玩家是被外部因素强迫来到舒适空间时，他们是不会感到舒适的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The coziness of these gestures is amplified when the acts are non-transactional.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T153153Z" creationid="哗啦" creationdate="20181211T153153Z">
+        <seg>当这些动作是出自内心而非为了利益时，这些行为会更让玩家感到舒适。</seg>
       </tuv>
     </tu>
     <tu>
