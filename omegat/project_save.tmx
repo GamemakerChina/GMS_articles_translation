@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Night in the Woods: &lt;x1/&gt;Narrative leans into cozy tropes to explore complex themes&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T150553Z" creationid="哗啦" creationdate="20181211T150553Z">
+        <seg>《林中之夜（Night in the Woods）》 &lt;x1/&gt;叙事倾向于用轻松的比喻来探索有深度的主题&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Non-consensual social presence&lt;x1/&gt;: Anything non-consensual removes a player’s feeling of safety, but this is especially relevant in social situations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T151658Z" creationid="哗啦" creationdate="20181202T151658Z">
@@ -1954,6 +1962,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T160040Z" creationid="哗啦" creationdate="20181209T160040Z">
         <seg>舒适叙述模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Patterns of cozy characters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T150604Z" creationid="哗啦" creationdate="20181211T150604Z">
+        <seg>舒适角色模式</seg>
       </tuv>
     </tu>
     <tu>
@@ -3178,6 +3194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181009T095403Z" creationid="哗啦" creationdate="20181009T095403Z">
         <seg>在线文档，网络在线帮助，网络帮助b</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“After Hours” - A focus on the small moments and relationships that happen in between work and adversity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T150414Z" creationid="哗啦" creationdate="20181211T150414Z">
+        <seg>“下班之后” -在工作之余和逆境中对友情和短暂瞬间的关注</seg>
       </tuv>
     </tu>
     <tu>
