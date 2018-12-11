@@ -886,6 +886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Favors and gifts are cozy; obligation and neediness are not.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T153308Z" creationid="哗啦" creationdate="20181211T153308Z">
+        <seg>喜欢和送礼物令人感到舒适，但义务和需求不是的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fight or flight&lt;x1/&gt;: Derived predominantly from electroshock tests on young male rats, this theory says that when our sympathetic nervous system kicks in due to a perceived threat, we will either attack or run away.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T145356Z" creationid="哗啦" creationdate="20181204T145356Z">
@@ -1458,6 +1466,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T101339Z" creationid="哗啦" creationdate="20181205T101339Z">
         <seg>简要来说，如果你开发出一款高压力的游戏，鼓励人们当混蛋，那么你的玩家群体也都会变成“混蛋”，他们会认为虐待他人是正常的，哪怕是这款游戏的开发者。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In the cozy fantasy, we help each other because it is the &lt;x1/&gt;nice&lt;x2/&gt; thing to do.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T153241Z" creationid="哗啦" creationdate="20181211T153241Z">
+        <seg>在舒适的梦幻世界中，我们互相帮助，因为这件事很 &lt;x1/&gt;nice&lt;x2/&gt; 。</seg>
       </tuv>
     </tu>
     <tu>
