@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characters might be designed to be recipients of nurturing gestures by the player.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T153531Z" creationid="哗啦" creationdate="20181211T153531Z">
+        <seg>角色会被设计成能对玩家察言观色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Childlike&lt;x1/&gt;: In a similar vein, childlike games are often safe, but can have very high levels of stimulus and often lack the ability to focus on higher level needs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T153610Z" creationid="哗啦" creationdate="20181203T153610Z">
