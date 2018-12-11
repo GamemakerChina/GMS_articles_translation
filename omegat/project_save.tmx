@@ -1534,6 +1534,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Low-intensity - Cozy stories unfold at a place of the player’s choosing with little urgency.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T101326Z" creationid="哗啦" creationdate="20181211T101326Z">
+        <seg>低紧张感——舒适故事将在玩家认为舒适的地方展开叙述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Low-pressure - Even if the stakes are high, anxiety is low.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T101135Z" creationid="哗啦" creationdate="20181211T101135Z">
+        <seg>低压力——就算有很多障碍，但也是没风险的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Lower level Maslow needs (food, shelter) are met or being met, providing space to work on higher needs (deeper relationships, appreciation of beauty, self actualization, nurturing, belonging).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091156Z" creationid="哗啦" creationdate="20181202T091156Z">
@@ -1642,6 +1658,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T151658Z" creationid="哗啦" creationdate="20181202T151658Z">
         <seg>未经商议的社会活动：&lt;x1/&gt;任何未经商议的活动都会减弱玩家的安全感。尽管这些活动有些时候很重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Non-violent - Conflicts are ephemeral and a path to understanding.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T101658Z" creationid="哗啦" creationdate="20181211T101542Z">
+        <seg>不暴力的——即使有冲突也是短暂的，是为了相互理解</seg>
       </tuv>
     </tu>
     <tu>
