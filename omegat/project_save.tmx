@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Down-to-earth - Humble and grounded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T101844Z" creationid="哗啦" creationdate="20181211T101844Z">
+        <seg>脚踏实地——谦虚和踏实</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Dragon’s Crown offers cozy cooking with an abundance of ingredients&lt;x1/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181206T152106Z" creationid="哗啦" creationdate="20181206T152106Z">
@@ -738,6 +746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T100620Z" creationid="哗啦" creationdate="20181205T100620Z">
         <seg>情感吸引玩家&lt;x1/&gt;：玩家会寻找那些产生特定情感的游戏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emphasis on ritual - seasons, holidays, day/night, harvest cycles.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T102016Z" creationid="哗啦" creationdate="20181211T102016Z">
+        <seg>强调仪式——季节，假日，白天黑夜，播种收获。</seg>
       </tuv>
     </tu>
     <tu>
@@ -810,6 +826,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T145356Z" creationid="哗啦" creationdate="20181204T145356Z">
         <seg>战斗或逃跑&lt;/x1&gt;：主要源于对年轻雄性老鼠的电击测试。这种声称，当我们的交感神经系统由于感觉到威，而开始起作用时，我们要么和威胁战斗，要么逃跑。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find wonder and contentment in the familiar.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T101935Z" creationid="哗啦" creationdate="20181211T101935Z">
+        <seg>可以在熟悉的事物中找到令自己惊奇和满足的事</seg>
       </tuv>
     </tu>
     <tu>
@@ -1418,6 +1442,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T153006Z" creationid="哗啦" creationdate="20181205T153006Z">
         <seg>这能唤起安全，轻柔和自得其乐的感觉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intimate - A moderate size number of players to build familiarity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T101748Z" creationid="哗啦" creationdate="20181211T101748Z">
+        <seg>亲密——玩家将和数量不多的人建立熟悉度</seg>
       </tuv>
     </tu>
     <tu>
@@ -2242,6 +2274,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T154742Z" creationid="哗啦" creationdate="20181204T154742Z">
         <seg>Spry Fox在两个完全不同的社区发布了两款不同的游戏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Stories that lazily drift along the river of time</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T102038Z" creationid="哗啦" creationdate="20181211T102038Z">
+        <seg>慵懒时光中发生的故事</seg>
       </tuv>
     </tu>
     <tu>
