@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Ambient Narratives</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T100835Z" creationid="哗啦" creationdate="20181211T100835Z">
+        <seg>环境叙述</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ambient, possibly dynamic or gently unpredictable.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T151722Z" creationid="哗啦" creationdate="20181207T151722Z">
@@ -1822,6 +1830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Patterns of Cozy Narrative</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T160040Z" creationid="哗啦" creationdate="20181209T160040Z">
+        <seg>舒适叙述模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Phobia sources&lt;x1/&gt;: Anything commonly associated with a phobia, such as spiders, guns, or knives, can suggest harm or threat.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T151240Z" creationid="哗啦" creationdate="20181202T151240Z">
@@ -2846,10 +2862,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>When Animal Crossing: Pocket Camp makes this experience the whole game, coziness is lost.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T160025Z" creationid="哗啦" creationdate="20181209T160025Z">
+        <seg>当《动物之森：袖珍营地》把这个模式放到整个游戏中强迫玩家体验后，就不再舒适了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>When a notification intrudes on your gaming experience, it uses &lt;x2/&gt;intense stimuli&lt;x3/&gt; (noise, vibration, movement, colors) to &lt;x4/&gt;generate a need&lt;x5/&gt; that must be dealt with.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T150603Z" creationid="哗啦" creationdate="20181203T150603Z">
         <seg>当你在玩游戏时，突然出现一个弹窗，此弹窗使用 &lt;x2/&gt;强刺激&lt;x3/&gt; （噪音，震动，运动，颜色） 来产生那些必须处理的&lt;x4/&gt;需求&lt;x5/&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When coziness is the central mode of a game’s narrative, it tends to exhibit certain qualities:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T100939Z" creationid="哗啦" creationdate="20181211T100939Z">
+        <seg>当游戏叙事的核心是舒适感时，它会有一些特点：</seg>
       </tuv>
     </tu>
     <tu>
