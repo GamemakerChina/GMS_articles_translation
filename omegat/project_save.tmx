@@ -2694,6 +2694,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They can do the heavy lifting of emotional labor for the player.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T152850Z" creationid="哗啦" creationdate="20181211T152850Z">
+        <seg>他们可以为玩家做一些繁重的情感劳动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They should include visible places to comfortably sit, eat, drink, and view beauty.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T155657Z" creationid="哗啦" creationdate="20181207T155657Z">
@@ -2746,6 +2754,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T151041Z" creationid="哗啦" creationdate="20181211T151041Z">
         <seg>这可以通过角色的行为，他们的审美观，以及在和他们与玩家互动时的表现来体现。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This can manifest with roles traditionally roles traditionally associated with cozy places - bartenders, innkeepers, librarians, farmers, grandmothers, spouse, etc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T152558Z" creationid="哗啦" creationdate="20181211T152558Z">
+        <seg>这些从传统上来说就是那些和舒适场所相关的角色——调酒师、客栈老板、图书馆员、农民、祖母、配偶等。</seg>
       </tuv>
     </tu>
     <tu>
