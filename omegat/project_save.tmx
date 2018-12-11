@@ -1766,6 +1766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Non-player characters in a cozy game should exemplify or facilitate the cozy virtues of safety, softness and satisfied needs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T150815Z" creationid="哗啦" creationdate="20181211T150815Z">
+        <seg>舒适游戏中的NPC应该是能体现或者促进安全，柔和并且能满足需求的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Non-violent - Conflicts are ephemeral and a path to understanding.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T101658Z" creationid="哗啦" creationdate="20181211T101542Z">
