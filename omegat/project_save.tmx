@@ -2678,6 +2678,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They are often nurturers, providing affection, shelter, food, companionship, and acceptance.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T151527Z" creationid="哗啦" creationdate="20181211T151336Z">
+        <seg>他们往往是哺育者，为玩家提供住所和食物，让玩家感受到亲情和被接受感。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They should include visible places to comfortably sit, eat, drink, and view beauty.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T155657Z" creationid="哗啦" creationdate="20181207T155657Z">
