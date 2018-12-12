@@ -1150,6 +1150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gestures of trust, like sharing a secret or inviting a player into a private space, are especially powerful at making the player feel welcome.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T043751Z" creationid="哗啦" creationdate="20181212T043751Z">
+        <seg>角色的信任，比如分享自己的秘密，或邀请玩家进入自己的房间，特别能让玩家感到自己受欢迎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Giving players a wide number of possible tasks and then not forcing them to do any of them lets them take responsibility for their actions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181208T161916Z" creationid="哗啦" creationdate="20181208T161916Z">
