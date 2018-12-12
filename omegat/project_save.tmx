@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A soothing voice, like that of Bob Ross, can put the player at ease.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T153925Z" creationid="哗啦" creationdate="20181212T153925Z">
+        <seg>像Bob Ross一样舒缓的声音, 可以让球员安心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A walk down a familiar path.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T150549Z" creationid="哗啦" creationdate="20181209T150549Z">
@@ -2246,6 +2254,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Posture and animations that emphasize relaxation and contentment can model a cozy mood.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T153850Z" creationid="哗啦" creationdate="20181212T153850Z">
+        <seg>放松或惬意的动作或姿势能让玩家感到舒适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Putting on cozy socks (and wiggling your toes)</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T151423Z" creationid="哗啦" creationdate="20181209T151423Z">
@@ -2482,6 +2498,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T101021Z" creationid="哗啦" creationdate="20181205T101021Z">
         <seg>社会规范传播&lt;x1/&gt;：在多人的背景下，玩家会关注彼此，根据别人对游戏的反应来采用共同的社会规范。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Soft and cuddly appearance that invites hugging, like a Totoro</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T154023Z" creationid="哗啦" creationdate="20181212T154023Z">
+        <seg>温柔而可爱的外表，似乎是希望和你相拥。就像 Totoro。</seg>
       </tuv>
     </tu>
     <tu>
