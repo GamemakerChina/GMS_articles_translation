@@ -2358,6 +2358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Simple interactions should reinforce that the characters have their own inner lives separate from the player’s agenda.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T152443Z" creationid="哗啦" creationdate="20181212T152443Z">
+        <seg>简化的互动应该是玩家自己内心想要的，应该和游戏中的任务分开。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Since coziness is an opt-in affordance, any player activity driven by extrinsic motivation - either as requisite responsibility or threat-response, or as an artificial reward - tends to evoke an un-cozy experience.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181208T155652Z" creationid="哗啦" creationdate="20181208T155652Z">
