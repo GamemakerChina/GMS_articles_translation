@@ -174,6 +174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anyone from a criminal, to a demon, to a king to a town drunk can be cozy when the let their guard down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T154356Z" creationid="哗啦" creationdate="20181212T154356Z">
+        <seg>任何人，无论他是罪犯，还是恶魔，还是国王，还是喝醉酒的家伙，在他们放松警惕时，都会感到舒适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are familiar to the player due to past experience, nostalgic or shared cultural language.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T152925Z" creationid="哗啦" creationdate="20181205T152925Z">
@@ -498,6 +506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132337Z" creationid="哗啦" creationdate="20181201T132337Z">
         <seg>舒适感是在游戏中一种常见的审美，就像《动物之森》和《星露谷物语》，但它很少在设计圈被讨论。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coziness is a shortcut to empathy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T154451Z" creationid="哗啦" creationdate="20181212T154451Z">
+        <seg>舒适是让人们产生情感共鸣的捷径。</seg>
       </tuv>
     </tu>
     <tu>
