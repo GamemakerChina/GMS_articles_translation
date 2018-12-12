@@ -334,6 +334,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characters in Stardew Valley sending you recipes in the mail to show gratitude</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T042321Z" creationid="哗啦" creationdate="20181212T042321Z">
+        <seg>《星露谷物语》中的角色会在给主角的邮件中写上菜谱以示感谢</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characters might be designed to be recipients of nurturing gestures by the player.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T153531Z" creationid="哗啦" creationdate="20181211T153531Z">
@@ -658,6 +666,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T144312Z" creationid="哗啦" creationdate="20181211T144312Z">
         <seg>舒适叙述雏形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cranky villagers in Animal crossing keeping things grounded</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T042448Z" creationid="哗啦" creationdate="20181212T042448Z">
+        <seg>《动物之森》中那些古怪的村民干事却很踏实</seg>
       </tuv>
     </tu>
     <tu>
@@ -1362,6 +1378,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T024713Z" creationid="哗啦" creationdate="20181209T024713Z">
         <seg>如果你将它踢入球门，记分板上的分数就会增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ignis in Final Fantasy XV taking pride and pleasure in cooking for the party</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T042228Z" creationid="哗啦" creationdate="20181212T042228Z">
+        <seg>《最终幻想15》中的Ignis会因为能为派对烹饪而感到自豪和愉快</seg>
       </tuv>
     </tu>
     <tu>
