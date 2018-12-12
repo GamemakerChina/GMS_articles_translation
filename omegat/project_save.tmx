@@ -262,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Brevity is a virtue as it puts less pressure on the player to know everything about a character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T152606Z" creationid="哗啦" creationdate="20181212T152606Z">
+        <seg>简洁可以让玩家感到更轻松，因为他们不必被迫去了解游戏中其它角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Brewing tea in a chipped tea set given to you by your grandmother.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T151838Z" creationid="哗啦" creationdate="20181209T151838Z">
@@ -666,6 +674,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T144312Z" creationid="哗啦" creationdate="20181211T144312Z">
         <seg>舒适叙述雏形</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cozy relationships are founded on consent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T152633Z" creationid="哗啦" creationdate="20181212T152633Z">
+        <seg>舒适的关系建立在互相支持的基础上。</seg>
       </tuv>
     </tu>
     <tu>
