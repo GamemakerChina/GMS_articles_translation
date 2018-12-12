@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Characters can leverage cozy aesthetics, much like places.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T153715Z" creationid="哗啦" creationdate="20181212T153715Z">
+        <seg>”角色“也像前文中的”地方“那样，有自己的舒适美学。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characters in Stardew Valley sending you recipes in the mail to show gratitude</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T042321Z" creationid="哗啦" creationdate="20181212T042321Z">
@@ -1184,8 +1192,8 @@
       <tuv lang="EN-US">
         <seg>Going out for Ramen with Ryuji in Persona 5</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T153245Z" creationid="哗啦" creationdate="20181212T153245Z">
-        <seg>《女神异闻录5》和Ryuji一起为Ramen而战</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T153510Z" creationid="哗啦" creationdate="20181212T153245Z">
+        <seg>在《女神异闻录5》中和Ryuji一起为Ramen而战</seg>
       </tuv>
     </tu>
     <tu>
@@ -2138,6 +2146,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T150604Z" creationid="哗啦" creationdate="20181211T150604Z">
         <seg>舒适角色模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Persona 5 builds intimacy with its cast through mundane activities.&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T153603Z" creationid="哗啦" creationdate="20181212T153454Z">
+        <seg>《女神异闻录5》角色通和玩家一起参加普通的活动建立起亲密的感情&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3114,6 +3130,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102212Z" creationid="哗啦" creationdate="20181205T102212Z">
         <seg>很快，游戏变得一点也不舒适，变成了一个虚拟的一点也不理想的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Visual character design</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T153616Z" creationid="哗啦" creationdate="20181212T153616Z">
+        <seg>视觉人物设计</seg>
       </tuv>
     </tu>
     <tu>
