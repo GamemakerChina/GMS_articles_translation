@@ -2102,6 +2102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Online is arguably inherently dehumanizing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T155102Z" creationid="哗啦" creationdate="20181212T155102Z">
+        <seg>在线可以说是天生的非人性化。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Opportunities for introspection lead to real personal insight.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T151741Z" creationid="哗啦" creationdate="20181205T151741Z">
@@ -3222,6 +3230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Virtual environments present unique challenges to the facilitation of coziness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T155048Z" creationid="哗啦" creationdate="20181212T155048Z">
+        <seg>线上虚拟的环境对检验舒适性有独特的挑战。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Visual character design</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T153616Z" creationid="哗啦" creationdate="20181212T153616Z">
@@ -3458,6 +3474,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145503Z" creationid="哗啦" creationdate="20181202T145503Z">
         <seg>这样舒适感也随之蒸发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>While NPCs do offer an avenue for players to practice forming relationships, our current weak simulations will never replace real relationships with real people.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T155211Z" creationid="哗啦" creationdate="20181212T155211Z">
+        <seg>虽然NPC确实想要和人类玩家建立情感联系，但我们却绝不会像对待真人那样对待NPC。</seg>
       </tuv>
     </tu>
     <tu>
