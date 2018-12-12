@@ -3286,6 +3286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Within a cozy space, character interactions should allow for vulnerability and intimacy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T043433Z" creationid="哗啦" creationdate="20181212T043433Z">
+        <seg>在舒适的空间里，角色在互动时会建立亲密感，允许表现出自己的脆弱之处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Yet because he is an opt-in component of a much larger game, it ends up being okay.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T155908Z" creationid="哗啦" creationdate="20181209T155908Z">
