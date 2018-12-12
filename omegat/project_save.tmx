@@ -910,6 +910,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>FFXV’s companions are confident in what they bring to the team and look out for each other.&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T042555Z" creationid="哗啦" creationdate="20181212T042555Z">
+        <seg>《最终幻想15》的同伴会因为能为团队做贡献而高兴，并且会互相照顾。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Factors that negate coziness include:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145516Z" creationid="哗啦" creationdate="20181202T145516Z">
@@ -1586,6 +1594,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T102652Z" creationid="哗啦" creationdate="20181211T102652Z">
         <seg>插曲原来是指 &lt;x1/&gt;在&lt;x2/&gt; 两场大型音乐事件中的小型音乐片段。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intimacy, authenticity and autonomy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T042806Z" creationid="哗啦" creationdate="20181212T042806Z">
+        <seg>亲密，真实和自主</seg>
       </tuv>
     </tu>
     <tu>
