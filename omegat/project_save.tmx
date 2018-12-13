@@ -2822,6 +2822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The cozy alternative is to implement abundance, safety, and reprieve to foster cooperative and trustful interactions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151507Z" creationid="哗啦" creationdate="20181213T151507Z">
+        <seg>舒适的原则是给玩家带来富有感，安全感和舒缓感，以此来促进他们的团结和信任。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The current dominant multiplayer design pattern uses limited resources, high stakes, and hazardous worlds to drive competitive behavior between players.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151219Z" creationid="哗啦" creationdate="20181213T151219Z">
