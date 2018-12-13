@@ -358,6 +358,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Celebration of relationships&lt;x1/&gt;: It is wonderful when people meet and wonderful when they become better friends.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T153843Z" creationid="哗啦" creationdate="20181213T153843Z">
+        <seg>友谊万岁：&lt;x1/&gt;有缘千里来相会，当人们能一见如故甚至一见钟情时，这种感觉更加美妙。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Challenge of cozy interactions online</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T155011Z" creationid="哗啦" creationdate="20181212T155011Z">
@@ -898,6 +906,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092139Z" creationid="哗啦" creationdate="20181202T092139Z">
         <seg>每种特定的游戏类型都能触发一系列高度特定的动机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emotional support&lt;x1/&gt;: Sometimes people have a bad day.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T153714Z" creationid="哗啦" creationdate="20181213T153714Z">
+        <seg>心灵抚慰：&lt;x1/&gt;有时候人们会有一段迷茫的日子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2898,6 +2914,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T150844Z" creationid="哗啦" creationdate="20181205T150844Z">
         <seg>当</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The community is willing to lend a shoulder to cry on.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T153746Z" creationid="哗啦" creationdate="20181213T153746Z">
+        <seg>他们只需要别人对他说：”别害怕，一切都会好起来的“。</seg>
       </tuv>
     </tu>
     <tu>
