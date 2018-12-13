@@ -3110,6 +3110,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This immediately puts safety on the back burner.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T145224Z" creationid="哗啦" creationdate="20181213T145224Z">
+        <seg>这等于将安全放在了次要位置。（？？）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This may seem self evident, but it has a huge impact on community relations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T154654Z" creationid="哗啦" creationdate="20181204T154654Z">
