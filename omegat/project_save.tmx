@@ -430,6 +430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consent&lt;x1/&gt;: Ask for consent.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T153235Z" creationid="哗啦" creationdate="20181213T153235Z">
+        <seg>同意：&lt;x1/&gt;向别人征求意见。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consider Maslow’s Hierarchy of Needs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092723Z" creationid="哗啦" creationdate="20181202T092723Z">
@@ -1042,6 +1050,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T152141Z" creationid="哗啦" creationdate="20181209T151308Z">
         <seg>静静地用鱼竿钓鱼，任凭时间流逝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focus on the positive things you can do vs the things you shouldn’t do.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T153037Z" creationid="哗啦" creationdate="20181213T153037Z">
+        <seg>关注那些你可以做的积极的事，不去做那些你不能做的事。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2386,6 +2402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T154640Z" creationid="哗啦" creationdate="20181204T154640Z">
         <seg>玩舒适游戏的玩家通常不会想要冲突或充满压力的体验。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Politeness&lt;x1/&gt;: We are nice to one another.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T153109Z" creationid="哗啦" creationdate="20181213T153109Z">
+        <seg>礼貌：&lt;x1/&gt;我们都是很nice的人。</seg>
       </tuv>
     </tu>
     <tu>
