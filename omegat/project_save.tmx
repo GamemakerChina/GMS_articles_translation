@@ -342,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But when that player roleplays that norm, the rest of the community suffers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T160116Z" creationid="哗啦" creationdate="20181213T160116Z">
+        <seg>如果玩家扮演这个角色，其它的社区成员就会遭殃。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But, this sort of coziness requires choice, and in turn inescapable small spaces can instead be seen as claustrophobic and controlling.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T145042Z" creationid="哗啦" creationdate="20181203T145042Z">
@@ -2182,6 +2190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Note on cozy in competitive games&lt;x1/&gt;: While online competitive games can hurt friendship formation, there’s still room in team-based games for cozy moments.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T160243Z" creationid="哗啦" creationdate="20181213T160243Z">
+        <seg>竞技游戏中的舒适性：&lt;x1/&gt;虽然在线竞技游戏会伤害友情，但团队协作仍然能让人感到舒适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Nothing is lacking, pressing or imminent.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091223Z" creationid="哗啦" creationdate="20181202T091223Z">
@@ -3330,6 +3346,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T070249Z" creationid="哗啦" creationdate="20181207T070249Z">
         <seg>过大或过小的事情都会导致玩家的不信任感，某些玩家还可能对过于幽闭或开放的空间感到恐惧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Think about creating warm and welcoming spaces for the team members when they aren’t fighting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T160341Z" creationid="哗啦" creationdate="20181213T160341Z">
+        <seg>当不在作战时，尝试为他们创建一个温暖舒适的空间。</seg>
       </tuv>
     </tu>
     <tu>
