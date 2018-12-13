@@ -2446,6 +2446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Permission setting is perhaps the most important tool for prevent a social coziness calamity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T160829Z" creationid="哗啦" creationdate="20181213T160829Z">
+        <seg>让玩家可以选择加入某些交互的设置能让舒适感不被削弱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Persona 5 builds intimacy with its cast through mundane activities.&lt;x1/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T153603Z" creationid="哗啦" creationdate="20181212T153454Z">
