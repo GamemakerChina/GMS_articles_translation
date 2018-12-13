@@ -1054,6 +1054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Feedback systems that immediately target a behavior&lt;x1/&gt;: Make systems that target a behavior, not ones that label a person as bad, evil or ruined.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T154701Z" creationid="哗啦" creationdate="20181213T154701Z">
+        <seg>对事不对人：&lt;x1/&gt;让处罚或奖励只针对事，而不是随意将人贴上恶毒的标签。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fight or flight&lt;x1/&gt;: Derived predominantly from electroshock tests on young male rats, this theory says that when our sympathetic nervous system kicks in due to a perceived threat, we will either attack or run away.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T145356Z" creationid="哗啦" creationdate="20181204T145356Z">
@@ -2558,6 +2566,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Reputation flags or banservers end up creating culture where bad behavior is acceptable.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T154814Z" creationid="哗啦" creationdate="20181213T154814Z">
+        <seg>声望系统的封禁系统会让不良行为被看作是可以接受的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Responsibility&lt;x1/&gt;: Responsibility requires emotional labor: the effort to plan, think, and execute on a plan to resolve something.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145957Z" creationid="哗啦" creationdate="20181202T145957Z">
@@ -3882,6 +3898,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T155035Z" creationid="哗啦" creationdate="20181209T155035Z">
         <seg>这样，这件产品将变得非常有意义，并能在游戏之外帮到玩家。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You’ll see these steps occur:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T154525Z" creationid="哗啦" creationdate="20181213T154525Z">
+        <seg>你可以做下列事：</seg>
       </tuv>
     </tu>
     <tu>
