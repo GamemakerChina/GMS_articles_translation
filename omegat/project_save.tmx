@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Help one another&lt;x1/&gt;: If someone needs help, the community will lend a hand.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T153327Z" creationid="哗啦" creationdate="20181213T153327Z">
+        <seg>帮助他人：&lt;x1/&gt;一方有难，八方支援。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>High priority, low order needs get dealt with first; that’s just how humans prioritize.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145440Z" creationid="哗啦" creationdate="20181202T145351Z">
@@ -1818,6 +1826,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093012Z" creationid="哗啦" creationdate="20181202T093012Z">
         <seg>就像你不可能在被棕熊袭击，以致于生命受到威胁时，还能和别人悠闲地交谈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is okay if someone opts out.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T153258Z" creationid="哗啦" creationdate="20181213T153258Z">
+        <seg>如果有人想要退出游戏，也可以这样做。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2426,6 +2442,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T153850Z" creationid="哗啦" creationdate="20181212T153850Z">
         <seg>放松或惬意的动作或姿势能让玩家感到舒适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protection from threat&lt;x1/&gt;: If there’s a threat, the community is a safe haven.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T153412Z" creationid="哗啦" creationdate="20181213T153412Z">
+        <seg>防范威胁：&lt;x1/&gt;社区会联手帮助玩家抵御威胁。</seg>
       </tuv>
     </tu>
     <tu>
