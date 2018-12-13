@@ -1230,6 +1230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Gameplay scenarios that enforce norms&lt;x1/&gt;: If being generous is a goal, create quests that result in being generous to others.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T155043Z" creationid="哗啦" creationdate="20181213T155043Z">
+        <seg>强迫的”自愿“：&lt;x1/&gt;如果你把玩家对他人的友善当成一个任务，强迫玩家对他人友善。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Gamers are best motivated by extrinsic motivators&lt;x1/&gt;: Pop game design sometimes talks about players as coerced robots who respond to automatically to variably reinforced dribbles of extrinsic rewards.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T151242Z" creationid="哗啦" creationdate="20181204T151242Z">
@@ -1754,6 +1762,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151827Z" creationid="哗啦" creationdate="20181213T151827Z">
         <seg>我们不会将他人视作异类，而是让他们加入到这个具有凝聚力的社会中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead, notify players in a timely fashion that they’ve done something against the norms and let them know what the infraction was and how they might improve.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T154926Z" creationid="哗啦" creationdate="20181213T154926Z">
+        <seg>如果玩家做出了一些违反规则的事，你得让他们知道自己在哪儿违规了，并且帮助他们进步。</seg>
       </tuv>
     </tu>
     <tu>
