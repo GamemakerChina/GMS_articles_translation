@@ -2662,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Strangers:&lt;x1/&gt; Due to the logistical challenges of getting friends together in the same time, place and game, online game players tend to be strangers.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T155345Z" creationid="哗啦" creationdate="20181212T155345Z">
+        <seg>陌生人：&lt;x1/&gt; 由于在逻辑上来说，在同一时间同一地点很难见到认识的玩家，所以在线游戏中的玩家大多数陌生人。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Taken to the extreme, this can include literal pets or characters who fulfill the same function of a pet, whose function in the game world is to adopted and cared for.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T154055Z" creationid="哗啦" creationdate="20181211T154055Z">
@@ -3282,6 +3290,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152602Z" creationid="哗啦" creationdate="20181204T152602Z">
         <seg>我们会关心那些软弱或受伤的人，并发现这和关心自己一样重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We don’t know or trust most strangers and are generally act in a guarded fashion around them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T155428Z" creationid="哗啦" creationdate="20181212T155428Z">
+        <seg>我们不大可能轻易相信他们，所以我们一般都是谨慎地行事。</seg>
       </tuv>
     </tu>
     <tu>
