@@ -374,6 +374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Call and Response interactions:&lt;x1/&gt; A player chooses to broadcast a no-pressure initiation to a group (best if larger than one other person).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T161151Z" creationid="哗啦" creationdate="20181213T161151Z">
+        <seg>提议和响应：&lt;x1/&gt; 玩家向一个社区提出一个不会让别人感到压力的提议。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cat purring</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T152846Z" creationid="哗啦" creationdate="20181207T152846Z">
@@ -2346,6 +2354,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T153415Z" creationid="哗啦" creationdate="20181212T153415Z">
         <seg>不高兴的奥斯卡（《星球大战》人物）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Other players can choose to acknowledge the call and respond, but are not burdened with expectation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T161038Z" creationid="哗啦" creationdate="20181213T161038Z">
+        <seg>其它玩家可以响应此玩家的提议，但不必总是按照别人意愿做事。</seg>
       </tuv>
     </tu>
     <tu>
