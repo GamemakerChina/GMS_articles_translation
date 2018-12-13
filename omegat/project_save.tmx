@@ -1750,6 +1750,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is a recapitulation of Fight or Flight motivations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151344Z" creationid="哗啦" creationdate="20181213T151344Z">
+        <seg>这就是“要么打要么跑”的动机的来源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is absolutely possible to design consensual notifications that provide cozy value to the player, but most do not and will slowly poison a cozy atmosphere.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T152428Z" creationid="哗啦" creationdate="20181203T152412Z">
@@ -2814,6 +2822,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The current dominant multiplayer design pattern uses limited resources, high stakes, and hazardous worlds to drive competitive behavior between players.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151219Z" creationid="哗啦" creationdate="20181213T151219Z">
+        <seg>目前大多数游戏用有限的资源和高度危险的世界来迫使玩家相互竞争。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The eyes at a distance make the fire feel even cozier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T065006Z" creationid="哗啦" creationdate="20181207T065006Z">
@@ -2834,6 +2850,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091946Z" creationid="哗啦" creationdate="20181202T091946Z">
         <seg>就好像你不可能边在公司上班边击退恐怖袭击者。但游戏可以让他们安全轻松地练习这些技能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The optimal strategy in these environments is to see other strangers as enemies who must be avoided or destroyed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151301Z" creationid="哗啦" creationdate="20181213T151301Z">
+        <seg>在这些游戏中，你必须把陌生人视为敌人，用各种方法消灭他们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3214,6 +3238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Troublesome behavior like insincerity, perceived or real, ruin the coziness of a player’s experience.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151051Z" creationid="哗啦" creationdate="20181213T151051Z">
+        <seg>令人烦恼的行为，如不真诚，感知的或真实的，破坏了玩家体验的舒适感。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Two models helps us understand how coziness yields meaningful gameplay.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091720Z" creationid="哗啦" creationdate="20181202T091720Z">
@@ -3250,6 +3282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T155453Z" creationid="哗啦" creationdate="20181207T155453Z">
         <seg>朴实无华的社区聚会和举行特定仪式的场所：农贸市场、厨房、教堂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use cozy norms to attract a better community</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151127Z" creationid="哗啦" creationdate="20181213T151127Z">
+        <seg>用舒适规范来建造更好的玩家社区</seg>
       </tuv>
     </tu>
     <tu>
