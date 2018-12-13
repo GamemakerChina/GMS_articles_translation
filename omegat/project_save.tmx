@@ -414,6 +414,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Code of conduct&lt;x1/&gt;: Get players to agree to how you want them to behave in the game.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T154512Z" creationid="哗啦" creationdate="20181213T154456Z">
+        <seg>行为准则：&lt;x1/&gt;让玩家按照你希望的方式玩游戏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Colors&lt;x1/&gt;: Warm, gentle color palette (yellows, oranges), without high-intensity contrast or hues.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T143846Z" creationid="哗啦" creationdate="20181207T143846Z">
@@ -3366,6 +3374,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This works.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T154502Z" creationid="哗啦" creationdate="20181213T154502Z">
+        <seg>这很有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Though this reaction does exist, humans seem to have a far richer set of behavioral responses not captured in this theory.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T145511Z" creationid="哗啦" creationdate="20181204T145511Z">
@@ -3402,6 +3418,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T155829Z" creationid="哗啦" creationdate="20181209T155829Z">
         <seg>Tom Nook在《动物之森：新叶》中讲述了资本主义的大部分阴暗之处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Tools for creating norms&lt;x1/&gt;: There are systems worth adding to facilitate social norms.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T154404Z" creationid="哗啦" creationdate="20181213T154228Z">
+        <seg>创建社区规范的方法：&lt;x1/&gt;在推动社会规范时有一些很好的方法。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3810,6 +3834,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132210Z" creationid="哗啦" creationdate="20181201T132210Z">
         <seg>你可以在这儿看到其它的报道：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can shape it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T154335Z" creationid="哗啦" creationdate="20181213T154335Z">
+        <seg>而反过来影响他们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You don’t need to just accept what the community brings.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T154411Z" creationid="哗啦" creationdate="20181213T154318Z">
+        <seg>即你可以努力不被社区中的人们影响。</seg>
       </tuv>
     </tu>
     <tu>
