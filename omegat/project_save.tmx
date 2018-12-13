@@ -1678,6 +1678,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Instead of destruction, we signal mutual support.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151738Z" creationid="哗啦" creationdate="20181213T151738Z">
+        <seg>我们不会自相鱼肉，而是互帮互助。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Instead of othering, we showcase the formation of coherent social groups.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151827Z" creationid="哗啦" creationdate="20181213T151827Z">
+        <seg>我们不会将他人视作异类，而是让他们加入到这个具有凝聚力的社会中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Intense stimulus&lt;x1/&gt;: Anything sudden, disproportionately bright or loud, or invasive/proximal can diminish the feeling of coziness.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T150838Z" creationid="哗啦" creationdate="20181202T150838Z">
@@ -2326,6 +2342,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Players let their guard down.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151955Z" creationid="哗啦" creationdate="20181213T151955Z">
+        <seg>玩家不用时刻警惕。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Players of cozy games likely score highly on conscientiousness and agreeableness.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T101452Z" creationid="哗啦" creationdate="20181205T101452Z">
@@ -2846,6 +2870,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The game promotes social norms that promise and encourage trust.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151920Z" creationid="哗啦" creationdate="20181213T151920Z">
+        <seg>游戏提倡良好的社会规范，鼓励互相信任。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The intrinsic reward for engaging with cozy characters is a sense of belonging in the community, possibly, but not necessarily, building to friendship or romance.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T043640Z" creationid="哗啦" creationdate="20181212T043640Z">
@@ -2882,6 +2914,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145109Z" creationid="哗啦" creationdate="20181202T145109Z">
         <seg>破坏舒适感的过程&lt;x1/&gt;: 由于许多常见的游戏机制都是用于于满足较低层次的需求，因此很容易破坏玩家的舒适感。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The resulting pro-social environment can shift players attitudes positively towards other players.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151711Z" creationid="哗啦" creationdate="20181213T151711Z">
+        <seg>如此亲和而温馨的社会能让玩家对游戏和其他人的态度变得富有正能量。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3178,6 +3218,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T154654Z" creationid="哗啦" creationdate="20181204T154654Z">
         <seg>这似乎是不言而喻的，但它对社区关系有着巨大的影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This results in fewer failed reciprocation loops.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151942Z" creationid="哗啦" creationdate="20181213T151942Z">
+        <seg>这样能减少社会环境的恶性循环。</seg>
       </tuv>
     </tu>
     <tu>
