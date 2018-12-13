@@ -1846,6 +1846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Low bandwidth communication&lt;x1/&gt;: Most of the information present in real-world human interaction is either inaccurate or simply not simulated in games.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T150720Z" creationid="哗啦" creationdate="20181213T150720Z">
+        <seg>di'mo'ni'du&lt;x1/&gt;: Most of the information present in real-world human interaction is either inaccurate or simply not simulated in games.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Low-intensity - Cozy stories unfold at a place of the player’s choosing with little urgency.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T101326Z" creationid="哗啦" creationdate="20181211T101326Z">
@@ -3586,6 +3594,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T151026Z" creationid="哗啦" creationdate="20181203T151026Z">
         <seg>你需要进一步查看这个消息，或手动撤销这个通知，这就是你需要&lt;x6/&gt;做的事&lt;x7/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You need to build robustly pro-social systems or else players immediately devolve into a Lord of the Flies-style wasteland of griefers and populist mobs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T150649Z" creationid="哗啦" creationdate="20181213T150649Z">
+        <seg>你要建立一个人们能相互帮助的友善的世界，否则玩家会变成暴徒和恐怖分子，破坏社会安定。</seg>
       </tuv>
     </tu>
     <tu>
