@@ -982,6 +982,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Facial expressions, tone of voice, even conversational pacing is lost.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151010Z" creationid="哗啦" creationdate="20181213T151010Z">
+        <seg>游戏中的面部表情，声音，甚至的说话节奏都丢失了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Factors that negate coziness include:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145516Z" creationid="哗啦" creationdate="20181202T145516Z">
@@ -1848,8 +1856,8 @@
       <tuv lang="EN-US">
         <seg>Low bandwidth communication&lt;x1/&gt;: Most of the information present in real-world human interaction is either inaccurate or simply not simulated in games.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T150720Z" creationid="哗啦" creationdate="20181213T150720Z">
-        <seg>di'mo'ni'du&lt;x1/&gt;: Most of the information present in real-world human interaction is either inaccurate or simply not simulated in games.</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T150915Z" creationid="哗啦" creationdate="20181213T150720Z">
+        <seg>难以模仿的信息：&lt;x1/&gt;现实世界中的大多数信息要么不准确，要么难以在游戏中模仿。.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3600,8 +3608,8 @@
       <tuv lang="EN-US">
         <seg>You need to build robustly pro-social systems or else players immediately devolve into a Lord of the Flies-style wasteland of griefers and populist mobs.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T150649Z" creationid="哗啦" creationdate="20181213T150649Z">
-        <seg>你要建立一个人们能相互帮助的友善的世界，否则玩家会变成暴徒和恐怖分子，破坏社会安定。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T150818Z" creationid="哗啦" creationdate="20181213T150649Z">
+        <seg>你要建立一个人们能相互帮助的友善的世界，否则玩家会变成暴徒和恐怖分子，破坏社会安定，就像电影《蝇王》中的那样。</seg>
       </tuv>
     </tu>
     <tu>
