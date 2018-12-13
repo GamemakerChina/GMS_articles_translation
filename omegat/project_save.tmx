@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Beware of importing norms&lt;x1/&gt;: Often you’ll import arbitrary norms from the default culture and these can accidently poison the cozy atmosphere.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T155500Z" creationid="哗啦" creationdate="20181213T155500Z">
+        <seg>留意制定出的规范：&lt;x1/&gt;: 你会因此根据某种文化而为社区制定规范，但这些规范可能让社区变得不那么舒适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Breadth of optional activities</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181208T160819Z" creationid="哗啦" creationdate="20181208T160819Z">
@@ -978,6 +986,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T150324Z" creationid="哗啦" creationdate="20181204T150250Z">
         <seg>更值得注意的时，很多以“人际关系”为基础的交易，是人类文化和友谊的基础，是非零和的（译者注：即双方都可以获利）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even traditions such as RPG Alignments can be problematic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T155724Z" creationid="哗啦" creationdate="20181213T155724Z">
+        <seg>就算传统的RPG Alignments 也充满问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3146,6 +3162,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T151245Z" creationid="哗啦" creationdate="20181209T151245Z">
         <seg>上述能够让人感到舒适的项目都和寻常，低风险有关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There are many of these related to gender, race, age and class.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T155654Z" creationid="哗啦" creationdate="20181213T155521Z">
+        <seg>这其中的问题有许多与性别、种族、年龄和阶级有关。</seg>
       </tuv>
     </tu>
     <tu>
