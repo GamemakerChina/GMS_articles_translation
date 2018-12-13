@@ -2230,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Over time, comfy spaces yield stronger friendships.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T152351Z" creationid="哗啦" creationdate="20181213T152351Z">
+        <seg>随着时间推移，在舒适空间中生活的人们会产生更牢固的友谊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Party&lt;x1/&gt;: While generating a cozy connective social tissue between players, parties are often high stimulus and high intensity, negating coziness.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154156Z" creationid="哗啦" creationdate="20181203T154156Z">
