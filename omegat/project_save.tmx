@@ -1814,6 +1814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Lack of persistent identity&lt;x1/&gt;: When players know they’ll never see another person again, they may lower their inhibitions to pushing the spatial, moral, or legal boundaries of others.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T145548Z" creationid="哗啦" creationdate="20181213T145548Z">
+        <seg>不能多次见面：&lt;x1/&gt;当玩家知道他们再次和目前的队友一起游玩时的概率很小时，玩家就会对他们不那么尊重有礼，甚至对他们做出违反规则的事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Light&lt;x1/&gt;: Warm-toned lighting of clear origin and low ambient, which allows for soft shadows.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T143909Z" creationid="哗啦" creationdate="20181207T143909Z">
