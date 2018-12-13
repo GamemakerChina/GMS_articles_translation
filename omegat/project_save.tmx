@@ -190,6 +190,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a community we will try to mend things when we get upset.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T154138Z" creationid="哗啦" creationdate="20181213T154138Z">
+        <seg>但我们知道亡羊补牢为时未晚，我们会尽力帮助受伤的人，帮助犯错的人改正错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you approach cozy design, remember that coziness is an aesthetic goal, a flavor that can be applied to any underlying type of game.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102608Z" creationid="哗啦" creationdate="20181205T102608Z">
@@ -1990,6 +1998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Mend, Don’t End&lt;x1/&gt;: People make mistakes, sometimes people get hurt.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T154044Z" creationid="哗啦" creationdate="20181213T154044Z">
+        <seg>知错能改善莫大焉：&lt;x1/&gt;人们有时会犯错，致使他人受到伤害。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Minimize artificially generating needs and then cynically making merchandise to fill that need.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T155252Z" creationid="哗啦" creationdate="20181209T155252Z">
@@ -2922,6 +2938,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T153746Z" creationid="哗啦" creationdate="20181213T153746Z">
         <seg>他们只需要别人对他说：”别害怕，一切都会好起来的“。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The community supports this.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T153943Z" creationid="哗啦" creationdate="20181213T153943Z">
+        <seg>大家都会鼓励和他人友好相处的行为。</seg>
       </tuv>
     </tu>
     <tu>
