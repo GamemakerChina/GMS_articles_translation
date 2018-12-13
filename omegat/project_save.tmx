@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, in D&amp;D it is possible to have a Chaotic Evil character.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T160038Z" creationid="哗啦" creationdate="20181213T160038Z">
+        <seg>例如，在《龙与地下城》发展出来的D&amp;D规则，通常有一个”混乱邪恶“角色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, when we get hungry, we are motivated to find food and eat.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092051Z" creationid="哗啦" creationdate="20181202T092051Z">
