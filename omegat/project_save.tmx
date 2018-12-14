@@ -1406,6 +1406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Group invites are good for new relationships.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T021143Z" creationid="哗啦" creationdate="20181214T021034Z">
+        <seg>以团体的名义邀请某个人能发展出新的友谊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hammocks, tea rooms, and pantries, for example, are cozier than otherwise-beautiful and enclosed locations like palaces, zoos, or penthouse suites.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T064014Z" creationid="哗啦" creationdate="20181207T064014Z">
@@ -1826,6 +1834,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T152942Z" creationid="哗啦" creationdate="20181207T152942Z">
         <seg>模糊的听起来像是有很多人在说话的声音</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Individual invites are good for medium to high intimacy relationships.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T021111Z" creationid="哗啦" creationdate="20181214T021111Z">
+        <seg>以个人的名义邀请能加深中或高等级的亲密关系。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2842,6 +2858,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T153807Z" creationid="哗啦" creationdate="20181203T153807Z">
         <seg>小小世界&lt;x1/&gt;：许多微型世界的范围都很小，易于控制，这能产生舒适感。尽管这也可能产生威胁，需求或紧张。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Small cooperative groups can facilitate escalation&lt;x1/&gt;: Encourage dense, frequent interactions between small groups of players.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T021305Z" creationid="哗啦" creationdate="20181214T021305Z">
+        <seg>合作小组能加深组员之间的感情：&lt;x1/&gt;鼓励小组内的玩家经常在一起互动。</seg>
       </tuv>
     </tu>
     <tu>
