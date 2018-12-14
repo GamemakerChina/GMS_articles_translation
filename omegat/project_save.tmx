@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Allow congratulating, nodding in affirmation and encouraging.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T053023Z" creationid="哗啦" creationdate="20181214T053023Z">
+        <seg>允许人们庆祝，点头，和鼓励及肯定别人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow for players to pursue quieter forms of connectedness and personal mastery.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T153700Z" creationid="哗啦" creationdate="20181204T153700Z">
@@ -2144,8 +2152,16 @@
       <tuv lang="EN-US">
         <seg>Low cost social reciprocity</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T052638Z" creationid="哗啦" creationdate="20181214T052638Z">
-        <seg>低支出的社会互助</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T052906Z" creationid="哗啦" creationdate="20181214T052638Z">
+        <seg>低成本的社会互助</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Low risk social interactions can feel cozy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T052726Z" creationid="哗啦" creationdate="20181214T052726Z">
+        <seg>如果你能和他人安全的交往，不用担心被害，那么你会感到很愉快。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2714,6 +2730,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154245Z" creationid="哗啦" creationdate="20181203T154245Z">
         <seg>礼貌&lt;/x1&gt;: 当礼貌是体贴和善良的时候，它可以是舒适的，但礼貌也可以被带到一个极端，变得不真诚而消极好斗，这样也是不舒适的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Positive Emotes&lt;x1/&gt;: Have a curated emote system that focuses on positive signals such as smiling or waving.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T052944Z" creationid="哗啦" creationdate="20181214T052944Z">
+        <seg>正能量：&lt;x1/&gt;: Have a curated emote system that focuses on positive signals such as smiling or waving.</seg>
       </tuv>
     </tu>
     <tu>
@@ -3734,6 +3758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Tools for low cost reciprocity:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T052852Z" creationid="哗啦" creationdate="20181214T052852Z">
+        <seg>可以用来促进低成本社会互助的工具：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Transition spaces without danger or obligation: trains, backseat of a car, slow-moving spacecraft</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T155413Z" creationid="哗啦" creationdate="20181207T155413Z">
@@ -4090,6 +4122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145503Z" creationid="哗啦" creationdate="20181202T145503Z">
         <seg>这样舒适感也随之蒸发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When you nod to a smiling passerby or wave to a friend, you are fulfilling your social needs in manner that doesn’t take much effort and is unlikely to be rejected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T052820Z" creationid="哗啦" creationdate="20181214T052820Z">
+        <seg>当你对别人微笑点头或挥手致意时，你就是在用低成本的方式和别人社交。</seg>
       </tuv>
     </tu>
     <tu>
