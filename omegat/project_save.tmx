@@ -2846,6 +2846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Person interaction associated with the gift&lt;x1/&gt;: Direct interpersonal interactions mixed with small personal gifts are the most cozy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T152534Z" creationid="哗啦" creationdate="20181214T152534Z">
+        <seg>情谊和礼物：&lt;x1/&gt;直接的人际交往和适当赠送小礼物是最舒适的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Persona 5 builds intimacy with its cast through mundane activities.&lt;x1/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T153603Z" creationid="哗啦" creationdate="20181212T153454Z">
@@ -3554,6 +3562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151920Z" creationid="哗啦" creationdate="20181213T151920Z">
         <seg>游戏提倡良好的社会规范，鼓励互相信任。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The gift augments the existing warmth in the relationship, but ultimately the face-to-face interactions and long history are the source of meaning.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T152644Z" creationid="哗啦" creationdate="20181214T152644Z">
+        <seg>礼物虽能增加联系，但面对面的交流才是维护友谊的长久之道。</seg>
       </tuv>
     </tu>
     <tu>
