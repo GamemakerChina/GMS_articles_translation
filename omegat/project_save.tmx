@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Care delivering the gift&lt;x1/&gt;: Gifts become less cozy when when they are received by a courier or heaven forbid, a utilitarian menu.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T153228Z" creationid="哗啦" creationdate="20181214T153228Z">
+        <seg>注意赠送礼物的方式：&lt;x1/&gt;最好不让快递员代你送礼，因为这很别扭。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cat purring</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T152846Z" creationid="哗啦" creationdate="20181207T152846Z">
