@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And you could only give those gifts to a single person.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T153749Z" creationid="哗啦" creationdate="20181214T153749Z">
+        <seg>你也可以把这些礼物只送给一个人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any hint of external threat or danger should be muted and distant</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T152543Z" creationid="哗啦" creationdate="20181207T152543Z">
@@ -1122,6 +1130,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092139Z" creationid="哗啦" creationdate="20181202T092139Z">
         <seg>每种特定的游戏类型都能触发一系列高度特定的动机。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Each one was precious and valued.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T153805Z" creationid="哗啦" creationdate="20181214T153805Z">
+        <seg>每个礼物都是无价的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4030,6 +4046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This technique again taps into tend and befriend psychology.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T153939Z" creationid="哗啦" creationdate="20181214T153939Z">
+        <seg>这种方法再次使用了交朋友(tend and befriend)心理学。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This ties back into play as practice.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092255Z" creationid="哗啦" creationdate="20181202T092255Z">
@@ -4234,6 +4258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152108Z" creationid="哗啦" creationdate="20181204T152108Z">
         <seg>我们也意识到，人类不是实验室小白鼠，对电击做出的反应也会和那些小白鼠不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We can create cozy economic situations that encourage players to bond together in order to keep out a hostile world.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T153845Z" creationid="哗啦" creationdate="20181214T153845Z">
+        <seg>我们可以创造舒适的经济环境，鼓励玩家团结在一起，抵御充满危险的世界。</seg>
       </tuv>
     </tu>
     <tu>
