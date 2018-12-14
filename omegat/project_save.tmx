@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blocklists&lt;x1/&gt;: When your best attempts at creating mutual opt-in interactions fail, blocking communications is a necessary evil.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T052231Z" creationid="哗啦" creationdate="20181214T052231Z">
+        <seg>屏蔽：&lt;x1/&gt;当玩家不太想和某些人交往时，最好能让玩家屏蔽掉对方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Breadth of optional activities</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181208T160819Z" creationid="哗啦" creationdate="20181208T160819Z">
@@ -346,6 +354,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T024209Z" creationid="哗啦" creationdate="20181208T161947Z">
         <seg>但就算不去参加这些活动，也没什么不好的后果。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>But it would be preferable to avoid disruptions to the player’s experience altogether.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T052308Z" creationid="哗啦" creationdate="20181214T052308Z">
+        <seg>但最好不要因此影响了玩家的游戏体验。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2430,6 +2446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Or else cozy trust will not flourish.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T052129Z" creationid="哗啦" creationdate="20181214T052129Z">
+        <seg>否则，他们不会信任彼此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Or sewing a quilt for a child you love.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T151522Z" creationid="哗啦" creationdate="20181209T151522Z">
@@ -3830,6 +3854,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>We can share intimate and scary details about ourselves without risk of rejection.So where early communication methods are locked down, small group or friend-to-friend channel need to be more more permissive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T052112Z" creationid="哗啦" creationdate="20181214T052112Z">
+        <seg>我们可以彼此分享小秘密，增加感情。因此，当小组队员的感情还没那么深时，你要让他们有增进感情的机会。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>We can think of this also from the perspective of time and attention management.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093606Z" creationid="哗啦" creationdate="20181202T093606Z">
@@ -4058,6 +4090,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T153303Z" creationid="哗啦" creationdate="20181207T153303Z">
         <seg>白噪音对睡眠是非常有帮助的，因为白噪音不同频域的声音“冲走”了那些容易干扰人的噪音。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Whitelists and de-escalating barriers may be more natural and effective.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T052405Z" creationid="哗啦" creationdate="20181214T052405Z">
+        <seg>设置白名单和允许进一步沟通可能会比设置黑名单更加自然有效。</seg>
       </tuv>
     </tu>
     <tu>
