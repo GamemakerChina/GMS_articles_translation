@@ -214,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At their own discretion, the player may then opt-in to increasingly risky layers of interaction with individuals or the public one layer at a time.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T020311Z" creationid="哗啦" creationdate="20181214T020311Z">
+        <seg>玩家可以根据自己需要，选择和他人或社会的交互，尽管这充满风险。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Attract a better community</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154902Z" creationid="哗啦" creationdate="20181203T154902Z">
@@ -2002,6 +2010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T145548Z" creationid="哗啦" creationdate="20181213T145548Z">
         <seg>不能多次见面：&lt;x1/&gt;当玩家知道他们再次和目前的队友一起游玩时的概率很小时，玩家就会对他们不那么尊重有礼，甚至对他们做出违反规则的事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Layers of Investment&lt;x1/&gt;: In this “Social Onion” model for permission setting, a player starts at a level of non-interaction.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T020148Z" creationid="哗啦" creationdate="20181214T020148Z">
+        <seg>关系层次：&lt;x1/&gt;在多层次的社会模型中（类似洋葱），人与人之间的关系是从没有互动开始的。</seg>
       </tuv>
     </tu>
     <tu>
