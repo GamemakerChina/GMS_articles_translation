@@ -1734,6 +1734,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you bury social verbs in menus, they’ll never happen.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T144202Z" creationid="哗啦" creationdate="20181214T144202Z">
+        <seg>如果你把互动按钮藏起来，那么玩家就不会使用它。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you can, sell products within the game that address real existing player needs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T154956Z" creationid="哗啦" creationdate="20181209T154956Z">
