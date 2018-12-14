@@ -934,6 +934,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create moments or spaces in your game where players can communicate without much emphasis on purpose of meaning.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T150352Z" creationid="哗啦" creationdate="20181214T150352Z">
+        <seg>在你的游戏中创造一些空间，让玩家有时间和地点来干一些“无意义的事”。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create non-coercive spaces with a strong focus on intrinsic motivations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T153434Z" creationid="哗啦" creationdate="20181204T153434Z">
@@ -1578,6 +1586,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T073331Z" creationid="哗啦" creationdate="20181207T073331Z">
         <seg>《牧场物语》作为一个广受好评的舒适游戏，为玩家提供了一个平凡朴实的房屋，分明的四季分别代表着不同的经济或社区活动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Have group harvesting or crafting moments where players are engaged enough to stay in the area, but the activity is low intensity enough that they can still chat and follow a conversation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T150631Z" creationid="哗啦" creationdate="20181214T150631Z">
+        <seg>让玩家在小组或团队中能专心做事时，这些事情的强度要足够低，来让玩家可以边干事边和朋友交流。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2242,6 +2258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T020148Z" creationid="哗啦" creationdate="20181214T020148Z">
         <seg>关系层次：&lt;x1/&gt;在多层次的社会模型中（类似洋葱），人与人之间的关系是从没有互动开始的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let players linger in rooms or areas where the purpose is fulfilled rather than giving them the boot.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T150439Z" creationid="哗啦" creationdate="20181214T150439Z">
+        <seg>让玩家能在让他们感到满意的地方驻足，而不是急着把他们赶走。</seg>
       </tuv>
     </tu>
     <tu>
