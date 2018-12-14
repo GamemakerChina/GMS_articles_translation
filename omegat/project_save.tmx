@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As you get closer, the other avatars can pay more attention.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T054829Z" creationid="哗啦" creationdate="20181214T054829Z">
+        <seg>当你和其它角色靠近，其他玩家会更多地关注你。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the bottom are pressing needs like thirst, hunger and safety.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092742Z" creationid="哗啦" creationdate="20181202T092742Z">
@@ -490,6 +498,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T153715Z" creationid="哗啦" creationdate="20181212T153715Z">
         <seg>”角色“也像前文中的”地方“那样，有自己的舒适美学。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characters can turn to face a player as they walk by or tilt their head in acknowledgement.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T054750Z" creationid="哗啦" creationdate="20181214T054750Z">
+        <seg>角色可能在走过玩家身旁时看玩家一眼，或即使在赞同别人时也歪着头。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1730,6 +1746,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T024713Z" creationid="哗啦" creationdate="20181209T024713Z">
         <seg>如果你将它踢入球门，记分板上的分数就会增加。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you talk, other avatars can automatically turn to listen.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T054631Z" creationid="哗啦" creationdate="20181214T054631Z">
+        <seg>如果你开始讲话，其它角色可能会听你讲。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3150,6 +3174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Streamlined UI&lt;x1/&gt;: Make the interface for emoting accessible and easy to use.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T144048Z" creationid="哗啦" creationdate="20181214T144048Z">
+        <seg>简洁的UI：&lt;x1/&gt;让互动界面简单易用。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Taken to the extreme, this can include literal pets or characters who fulfill the same function of a pet, whose function in the game world is to adopted and cared for.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T154055Z" creationid="哗啦" creationdate="20181211T154055Z">
@@ -3170,6 +3202,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T070703Z" creationid="哗啦" creationdate="20181207T070703Z">
         <seg>《泰勒瑞拉》的对制作房间的要求和游戏机制鼓励玩家在能令他们感到舒适的地方放置灯和门，这样能保护他们伙伴和抵御危险。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Thank you so much for reading,</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T143936Z" creationid="哗啦" creationdate="20181214T143936Z">
+        <seg>谢谢阅读。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3698,6 +3738,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T154654Z" creationid="哗啦" creationdate="20181204T154654Z">
         <seg>这似乎是不言而喻的，但它对社区关系有着巨大的影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This mimics what we do in real life.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T054647Z" creationid="哗啦" creationdate="20181214T054647Z">
+        <seg>这模仿了我们在现实生活中所做的事情。</seg>
       </tuv>
     </tu>
     <tu>
