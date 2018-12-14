@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Effort sourcing gift&lt;x1/&gt;: Gifts also are less cozy if there is little care given in selecting or producing the gift.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T153438Z" creationid="哗啦" creationdate="20181214T153438Z">
+        <seg>用心选择礼物：&lt;x1/&gt;如果你在为朋友挑选礼物时没有用心，这礼物可能不会那么舒适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Emotes in Hearthstone (a PvP game) on the surface are pleasant, polite interactions.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T145104Z" creationid="哗啦" creationdate="20181214T145104Z">
@@ -2654,6 +2662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the other hand, the game Triple Town only gave out gifts if you had scored well in games that could last weeks or months.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T153728Z" creationid="哗啦" creationdate="20181214T153728Z">
+        <seg>从另一方面来说，游戏《TripleTown》只有你在游戏中持续取得良好成绩时，它才会给你赠送礼物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Once we get past the general tips for designing coziness, there are a number of highly specific design patterns for each domain of game design.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T152406Z" creationid="哗啦" creationdate="20181205T152406Z">
@@ -2946,6 +2962,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092059Z" creationid="哗啦" creationdate="20181202T092059Z">
         <seg>玩家寻求在游戏中满足他们的情感和心理需求。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Players soon learned that these were mostly meaningless.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T153602Z" creationid="哗啦" creationdate="20181214T153602Z">
+        <seg>而且的朋友也很快会发现这些信息简直是在骚扰他们。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3258,6 +3282,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T154423Z" creationid="哗啦" creationdate="20181209T154423Z">
         <seg>如果你把玩家和游戏世界中其它NPC比较，那么会为其中一些玩家带来紧张感。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Social games had buttons where you could spam friends with endlessly duplicated boosters of little value.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T153531Z" creationid="哗啦" creationdate="20181214T153531Z">
+        <seg>社交游戏里有一些按钮，你可以用那些按钮向你的朋友发送大量无用的信息。</seg>
       </tuv>
     </tu>
     <tu>
