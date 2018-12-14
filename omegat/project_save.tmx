@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Because these groups are easy to coordinate, chats often featured relatively meaningless and rambling topics.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T151112Z" creationid="哗啦" creationdate="20181214T151112Z">
+        <seg>因为社区中的玩家很容易组成团队，虽然他们谈话的内容都是天马行空。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Being responsible generates high priority need/expectation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T150017Z" creationid="哗啦" creationdate="20181202T150017Z">
@@ -1374,6 +1382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, an unintentionally high-retention activity known as “Champion Trains” emerged in Guild Wars 2 when players complete easy loops of boss monsters to kill repeatedly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T151024Z" creationid="哗啦" creationdate="20181214T151024Z">
+        <seg>例如，在《激战2》中，有一种任务叫“冠军训练”，你可以反复杀死低难度的怪物。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, cold rain against a window emphasizes the warmth of a reading nook without threatening to disrupt it.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T152831Z" creationid="哗啦" creationdate="20181203T152730Z">
@@ -1530,6 +1546,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T043751Z" creationid="哗啦" creationdate="20181212T043751Z">
         <seg>角色的信任，比如分享自己的秘密，或邀请玩家进入自己的房间，特别能让玩家感到自己受欢迎。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gifting</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T151122Z" creationid="哗啦" creationdate="20181214T151122Z">
+        <seg>赠送礼物</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Gifting is one of the more powerful social signals of abundance and caring.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T151243Z" creationid="哗啦" creationdate="20181214T151243Z">
+        <seg>互相赠送礼物是社会富有而有力的表现。</seg>
       </tuv>
     </tu>
     <tu>
