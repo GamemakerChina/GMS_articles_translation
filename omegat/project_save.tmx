@@ -1294,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information, see the previous Project Horseshoe report  &lt;x1/&gt;Game design patterns that facilitate strangers becoming “friends”&lt;x2/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T052614Z" creationid="哗啦" creationdate="20181214T052614Z">
+        <seg>更多信息请参阅Project Horseshoe网站的报告： &lt;x1/&gt;让陌生人成为朋友的游戏设计模式&lt;x2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For some players, a self-appointed task -- harvest and replant the crops -- can be relaxing in a safe, soft, and satisfying way.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T151211Z" creationid="哗啦" creationdate="20181209T151211Z">
@@ -2130,6 +2138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T150915Z" creationid="哗啦" creationdate="20181213T150720Z">
         <seg>难以模仿的信息：&lt;x1/&gt;现实世界中的大多数信息要么不准确，要么难以在游戏中模仿。.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Low cost social reciprocity</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T052638Z" creationid="哗啦" creationdate="20181214T052638Z">
+        <seg>低支出的社会互助</seg>
       </tuv>
     </tu>
     <tu>
