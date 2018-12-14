@@ -1470,6 +1470,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Grumpy emotes&lt;x1/&gt;: Negative emotes are still useful, but you can treat them in a melodramatic cartoon fashion that takes the sting out.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T053811Z" creationid="哗啦" creationdate="20181214T053811Z">
+        <seg>负能量：&lt;x1/&gt;反面教材仍然有用，但你可以用戏剧化的方式将它们表现出来，并指出错误在哪儿。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Hammocks, tea rooms, and pantries, for example, are cozier than otherwise-beautiful and enclosed locations like palaces, zoos, or penthouse suites.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T064014Z" creationid="哗啦" creationdate="20181207T064014Z">
