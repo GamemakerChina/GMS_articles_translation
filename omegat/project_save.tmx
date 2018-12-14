@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But cozy conversation tends to occupy more of a social maintenance space.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T150241Z" creationid="哗啦" creationdate="20181214T150241Z">
+        <seg>但舒适的对话会占据更多的社会空间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But it would be preferable to avoid disruptions to the player’s experience altogether.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T052308Z" creationid="哗啦" creationdate="20181214T052308Z">
@@ -2574,6 +2582,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Online communication is often used in games to help players coordinate get things done.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T150027Z" creationid="哗啦" creationdate="20181214T150027Z">
+        <seg>在线交流可以让玩家互相配合完成任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Online is arguably inherently dehumanizing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T155102Z" creationid="哗啦" creationdate="20181212T155102Z">
@@ -3298,6 +3314,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T143936Z" creationid="哗啦" creationdate="20181214T143936Z">
         <seg>谢谢阅读。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>That is, chatting about nothing in particular with a friend is more cozy than trying to make a decision in a meeting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T150132Z" creationid="哗啦" creationdate="20181214T150132Z">
+        <seg>也就是说和朋友谈天说地，要比在会议上决定事情要舒适很多。</seg>
       </tuv>
     </tu>
     <tu>
