@@ -208,8 +208,8 @@
       <tuv lang="EN-US">
         <seg>As a result early transgressive humor can be quite hurtful.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T042001Z" creationid="哗啦" creationdate="20181214T042001Z">
-        <seg>因此，一开始就幽默式的侵犯会伤害到别人。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T051635Z" creationid="哗啦" creationdate="20181214T042001Z">
+        <seg>因此，一开始就开玩笑会伤害到别人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3818,6 +3818,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152108Z" creationid="哗啦" creationdate="20181204T152108Z">
         <seg>我们也意识到，人类不是实验室小白鼠，对电击做出的反应也会和那些小白鼠不同。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We can joke and be silly and not be censored.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T051742Z" creationid="哗啦" creationdate="20181214T051742Z">
+        <seg>我们可以互相开玩笑，互相嘲讽来而不用担心别人报复。</seg>
       </tuv>
     </tu>
     <tu>
