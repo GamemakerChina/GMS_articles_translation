@@ -518,6 +518,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Champion Trains in Guild Wars 2&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T150740Z" creationid="哗啦" creationdate="20181214T150740Z">
+        <seg>《激战》中的冠军火车（Champion Trains in Guild Wars 2）&lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Characters can leverage cozy aesthetics, much like places.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T153715Z" creationid="哗啦" creationdate="20181212T153715Z">
@@ -3610,6 +3618,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T155654Z" creationid="哗啦" creationdate="20181213T155521Z">
         <seg>这其中的问题有许多与性别、种族、年龄和阶级有关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There were better rewards elsewhere; but a big draw was casual social interaction with the community.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T150916Z" creationid="哗啦" creationdate="20181214T150916Z">
+        <seg>虽然也有其他好玩的地方，但最吸引人的地方是你可以和社区中的其他玩家互动。</seg>
       </tuv>
     </tu>
     <tu>
