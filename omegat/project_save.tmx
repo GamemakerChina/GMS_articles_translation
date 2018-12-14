@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A cute little character stomping about is a lot more palatable than one that screams loudly or teabags your avatar.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T054148Z" creationid="哗啦" creationdate="20181214T054148Z">
+        <seg>一个可爱的小孩跺脚，总要比那些抠脚大汉大声尖叫要有趣。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A mundane act of organization or tidying</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T150641Z" creationid="哗啦" creationdate="20181209T150641Z">
@@ -250,6 +258,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154902Z" creationid="哗啦" creationdate="20181203T154902Z">
         <seg>吸引到一个更好的社区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Automate subconscious social interactions&lt;x1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T054219Z" creationid="哗啦" creationdate="20181214T054219Z">
+        <seg>潜意识中的社交活动&lt;x1/&gt;。</seg>
       </tuv>
     </tu>
     <tu>
