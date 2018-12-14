@@ -590,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consensual conversation is a naturally high agency, high creativity activity that builds strong social connections.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T145840Z" creationid="哗啦" creationdate="20181214T145840Z">
+        <seg>讨论协商是一种高效，高创造性的活动，它能建立强烈的社会联系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Consent&lt;x1/&gt;: Ask for consent.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T153235Z" creationid="哗啦" creationdate="20181213T153235Z">
@@ -1898,6 +1906,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T044333Z" creationid="哗啦" creationdate="20181212T044333Z">
         <seg>在创建舒适角色时，真实性要比深度更重要。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In fact, a superficial emote used on a good friend may feel dismissive.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T145717Z" creationid="哗啦" creationdate="20181214T145717Z">
+        <seg>事实上，如果你对朋友的感情只停留在表面上，那么会让你的朋友不怎么乐意。</seg>
       </tuv>
     </tu>
     <tu>
