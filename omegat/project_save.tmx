@@ -830,6 +830,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create ways for players to kindly invite another person to a space or activity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T020842Z" creationid="哗啦" creationdate="20181214T020842Z">
+        <seg>设计师需要为玩家提供能让他们邀请别人参加活动的方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cute&lt;x1/&gt;: While cuteness resonates with the safety aspect of coziness, as well as the desire to nurture/satisfy needs, many threatening and needy things can be cute without providing coziness.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T153434Z" creationid="哗啦" creationdate="20181203T153434Z">
@@ -3518,6 +3526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>This is a very warm and welcoming opening and creates a safe opportunity to opt-out.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T020929Z" creationid="哗啦" creationdate="20181214T020929Z">
+        <seg>这是热情欢迎别人的行为，但别人也可以自主选择不参与而不用感到内疚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>This may seem self evident, but it has a huge impact on community relations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T154654Z" creationid="哗啦" creationdate="20181204T154654Z">
@@ -3666,6 +3682,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151127Z" creationid="哗啦" creationdate="20181213T151127Z">
         <seg>用舒适规范来建造更好的玩家社区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use invitations to escalate a relationship&lt;x1/&gt;: Demand and requests can generate an unpleasant obligation to respond.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T020814Z" creationid="哗啦" creationdate="20181214T020814Z">
+        <seg>用邀请别人的方法加深感情：&lt;x1/&gt;需求和提议可能会让他人感到不满。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4034,6 +4058,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T151026Z" creationid="哗啦" creationdate="20181203T151026Z">
         <seg>你需要进一步查看这个消息，或手动撤销这个通知，这就是你需要&lt;x6/&gt;做的事&lt;x7/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You may want to structure your comfy inactions so this is optional and only the default for people who have opted into a higher engagement relationship (such as declaring mutual friendship).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T020721Z" creationid="哗啦" creationdate="20181214T020721Z">
+        <seg>如果你觉得不去帮助别人能让你感到舒适（译者注：例如敌人），那么也可以。只有和你有牢固友谊的人才需要你去帮助他们。</seg>
       </tuv>
     </tu>
     <tu>
