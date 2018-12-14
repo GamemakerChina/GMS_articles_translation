@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At any moment a train of high level monsters might smash into the group wreaking havoc.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T154245Z" creationid="哗啦" creationdate="20181214T154245Z">
+        <seg>虽然任何时候，都可能有一群难缠的敌人冲进队伍并破坏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At the bottom are pressing needs like thirst, hunger and safety.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092742Z" creationid="哗啦" creationdate="20181202T092742Z">
@@ -1446,6 +1454,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, in Everquest, player would settle down around a camping spot to rest and recharge.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T154135Z" creationid="哗啦" creationdate="20181214T154135Z">
+        <seg>例如，在《无尽的任务》（Ever Quest），玩家可以在露营地附件休息并重新恢复精力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, when we get hungry, we are motivated to find food and eat.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092051Z" creationid="哗啦" creationdate="20181202T092051Z">
@@ -1794,6 +1810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T145201Z" creationid="哗啦" creationdate="20181214T145201Z">
         <seg>但是社区玩家很快就变质，开始辱骂他人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the space felt cozy since you were together with other player who you knew would leap to your mutual defense at the appearance of danger.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T154350Z" creationid="哗啦" creationdate="20181214T154350Z">
+        <seg>但是，露营地让你感到舒适的原因时，你的朋友就在你的身边，他们会在你受到威胁时和你共同抵御威胁。</seg>
       </tuv>
     </tu>
     <tu>
