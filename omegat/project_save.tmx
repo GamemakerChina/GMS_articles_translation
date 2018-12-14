@@ -1062,6 +1062,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Emotes in Hearthstone (a PvP game) on the surface are pleasant, polite interactions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T145104Z" creationid="哗啦" creationdate="20181214T145104Z">
+        <seg>《炉石传说》(一款PvP游戏)表面上看是玩家进行愉快、礼貌的互动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Emotional support&lt;x1/&gt;: Sometimes people have a bad day.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T153714Z" creationid="哗啦" creationdate="20181213T153714Z">
@@ -1282,6 +1290,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092236Z" creationid="哗啦" creationdate="20181202T092236Z">
         <seg>例如，生成游戏《饥荒》，无论是从机制还是从主题上来说，都是让玩家直面生存险境，玩家需要探索有关获取食物的规划和战术问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example ‘Hello’ is used to brag when delivering a particularly deadly combo attack.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T145305Z" creationid="哗啦" creationdate="20181214T145305Z">
+        <seg>例如，”Hello"是用来在对别人发动人身攻击时抬高自己的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1634,6 +1650,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T151135Z" creationid="哗啦" creationdate="20181202T151135Z">
         <seg>然而，我们仍然有可能创建非常微妙的或自然的临界值，在广阔的环境中建立一个舒适的空间:就像树林中间的篝火.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>However, the community quickly figured out how to make them into biting insults.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T145201Z" creationid="哗啦" creationdate="20181214T145201Z">
+        <seg>但是社区玩家很快就变质，开始辱骂他人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2210,6 +2234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T151007Z" creationid="哗啦" creationdate="20181209T151007Z">
         <seg>就像去一家非常安静的咖啡店去写作的行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Limits to cozy emotes&lt;x1/&gt;: If the game mechanics are poisonous, ‘nice’ emotes can become polluted.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T145033Z" creationid="哗啦" creationdate="20181214T145033Z">
+        <seg>限制舒适表达：&lt;x1/&gt;如果游戏机制提倡不健康的内容，那么游戏中”好“的意思也会变。</seg>
       </tuv>
     </tu>
     <tu>
