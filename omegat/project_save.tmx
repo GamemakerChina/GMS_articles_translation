@@ -382,6 +382,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>By forming players into persistent cohorts (via guilds or matchmaking) players will bump into one another regularly when they play.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T021545Z" creationid="哗啦" creationdate="20181214T021545Z">
+        <seg>让玩家组成持续存在的公会或战队，这样玩家能经常见到组员。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>By uncovering unmet player motivations we can invent new product categories or broaden the appeal of existing designs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T155231Z" creationid="哗啦" creationdate="20181203T155231Z">
@@ -3546,6 +3554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T145224Z" creationid="哗啦" creationdate="20181213T145224Z">
         <seg>这等于将安全放在了次要位置。（？？）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This incrementally creates familiarity, recognition, sense of shared experience (all cozy factors).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T021620Z" creationid="哗啦" creationdate="20181214T021620Z">
+        <seg>这会让他们逐渐熟悉，认可，共享经验以及其它舒适的因素。</seg>
       </tuv>
     </tu>
     <tu>
