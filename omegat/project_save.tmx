@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>1 on 1 interactions can come later&lt;x1/&gt;: There an obligation of both attention and intimacy that occurs in a 1 on 1 social situation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T020453Z" creationid="哗啦" creationdate="20181214T020453Z">
+        <seg>两人之间：&lt;x1/&gt;当你只面对着一个人时，你有必要保持注意力集中和亲密。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&lt;b0&gt;NOTE:&lt;/b0&gt; Due to the modular nature of &lt;i1&gt;GameMaker Studio 2&lt;/i1&gt; there are certain things that are not included in this user manual, particularly those aspects of setting up and connecting the different devices that can be supported.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="deciia" changedate="20181013T110338Z" creationid="deciia" creationdate="20181013T102636Z">
@@ -1018,6 +1026,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T150324Z" creationid="哗啦" creationdate="20181204T150250Z">
         <seg>更值得注意的时，很多以“人际关系”为基础的交易，是人类文化和友谊的基础，是非零和的（译者注：即双方都可以获利）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Even the act of listening is a form of emotional labor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T020358Z" creationid="哗啦" creationdate="20181214T020358Z">
+        <seg>就算只是倾听也是一种情感呵护。</seg>
       </tuv>
     </tu>
     <tu>
