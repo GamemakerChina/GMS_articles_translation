@@ -2990,6 +2990,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Signal social context automatically&lt;x1/&gt;: For example, a scene can shift to low light intimate colors if two people are chatting but shift to bright colors if lots of people are talking.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T144653Z" creationid="哗啦" creationdate="20181214T144653Z">
+        <seg>根据社交状况变换的环境：&lt;x1/&gt;如果只是两个人在呢喃细语，可以将灯光调弱，调成暧昧的颜色。如果是一群人在讨论，就把灯光调的明亮一些。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Simple interactions should reinforce that the characters have their own inner lives separate from the player’s agenda.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T152443Z" creationid="哗啦" creationdate="20181212T152443Z">
