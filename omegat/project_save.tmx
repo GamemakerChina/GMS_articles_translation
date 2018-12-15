@@ -246,6 +246,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Apology Channels&lt;x1/&gt; – Offer players the ability to atone for mistakes.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T043830Z" creationid="哗啦" creationdate="20181215T043830Z">
+        <seg>道歉通道：&lt;x1/&gt; 让玩家能弥补自己的错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Are familiar to the player due to past experience, nostalgic or shared cultural language.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T152925Z" creationid="哗啦" creationdate="20181205T152925Z">
@@ -1354,6 +1362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T153308Z" creationid="哗啦" creationdate="20181211T153308Z">
         <seg>喜欢和送礼物令人感到舒适，但义务和需求不是的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Feedback Requests&lt;x1/&gt;: Give players a non-threatening method to ask for feedback and find out how they’re doing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T043621Z" creationid="哗啦" creationdate="20181215T043621Z">
+        <seg>反馈请求：&lt;x1/&gt;让玩家以一种轻松的方式来反馈，通过这些反馈你可以了解他们的行为。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3122,6 +3138,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T153850Z" creationid="哗啦" creationdate="20181212T153850Z">
         <seg>放松或惬意的动作或姿势能让玩家感到舒适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Private feedback channels allow people to make adjustments without being shamed.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T043803Z" creationid="哗啦" creationdate="20181215T043803Z">
+        <seg>能保护玩家隐私的反馈渠道能让玩家更愉快地反馈。</seg>
       </tuv>
     </tu>
     <tu>
