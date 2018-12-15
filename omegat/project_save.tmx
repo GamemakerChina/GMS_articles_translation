@@ -2230,6 +2230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In some cases, various gaming communities are so cozy that they’ve grown indifferent or hostile to newcomers and outsiders.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T152227Z" creationid="哗啦" creationdate="20181215T152227Z">
+        <seg>在某些情况下，游戏中的某些社区如此舒适，以致于他们会对外来者冷漠和不友好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the cozy fantasy, we help each other because it is the &lt;x1/&gt;nice&lt;x2/&gt; thing to do.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T153241Z" creationid="哗啦" creationdate="20181211T153241Z">
@@ -2630,6 +2638,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Monitor the density of your game’s population carefully, and be sure to facilitate new connections between players.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T152324Z" creationid="哗啦" creationdate="20181215T152324Z">
+        <seg>注意游戏中玩家社群的情况，促进不同社群间的联系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>More examples</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T154610Z" creationid="哗啦" creationdate="20181214T154610Z">
@@ -2954,6 +2970,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T145515Z" creationid="哗啦" creationdate="20181207T145515Z">
         <seg>房间外的景物会各种方式阻挡我们看向远处，比如山丘，烟雾，或黑夜。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Outlook on the future of social game interactions should be optimistic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T152454Z" creationid="哗啦" creationdate="20181215T152454Z">
+        <seg>社交互动游戏的未来是很乐观的。</seg>
       </tuv>
     </tu>
     <tu>
