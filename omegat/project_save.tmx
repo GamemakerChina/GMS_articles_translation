@@ -718,6 +718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consider what types of interactions you’ve had with other people in lobbies.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T152920Z" creationid="哗啦" creationdate="20181215T152920Z">
+        <seg>想想你曾经和游戏大厅里的其他人有过怎样的互动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contemporary psychology is rediscovering the benefits of rich, contemplative environment that lets humans thrive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152223Z" creationid="哗啦" creationdate="20181204T152223Z">
@@ -1562,6 +1570,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T154135Z" creationid="哗啦" creationdate="20181214T154135Z">
         <seg>例如，在《无尽的任务》（Ever Quest），玩家可以在露营地附件休息并重新恢复精力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, the term “lobby” is often used in gaming to describe the pre-game flow of activity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T152850Z" creationid="哗啦" creationdate="20181215T152850Z">
+        <seg>例如，术语“游戏大厅”常在以前的游戏中出现，用来描述玩家参与活动的方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2794,6 +2810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091223Z" creationid="哗啦" creationdate="20181202T091223Z">
         <seg>不缺乏什么，也没什么令人紧张或感到不得不做。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Now decide if that’s really how people should meet and interact in your game.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T153018Z" creationid="哗啦" creationdate="20181215T153018Z">
+        <seg>并思考一下这些互动是否和在现实的大厅中的互动相同。</seg>
       </tuv>
     </tu>
     <tu>
