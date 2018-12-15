@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As players form deeper relationships and tightly-knit groups, they may lose a sense of that game’s greater community as a whole.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T151901Z" creationid="哗啦" creationdate="20181215T151901Z">
+        <seg>当玩家形成了深层次和紧密的群体关系，他们就不太会关注群体外的世界。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As you approach cozy design, remember that coziness is an aesthetic goal, a flavor that can be applied to any underlying type of game.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102608Z" creationid="哗啦" creationdate="20181205T102608Z">
@@ -1658,6 +1666,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093857Z" creationid="哗啦" creationdate="20181202T093857Z">
         <seg>游戏如此擅长于让玩家完成那些紧急但不是很重要的活动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Games that facilitate a high degree of social coziness run the risk of eventually isolating players from one another.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T152026Z" creationid="哗啦" creationdate="20181215T152026Z">
+        <seg>如果你的游戏意图用促进玩家形成紧密的联系的方法来让他们感到舒适，最终可能导致玩家形成互相隔离的群体。</seg>
       </tuv>
     </tu>
     <tu>
