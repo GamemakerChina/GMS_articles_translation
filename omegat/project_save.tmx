@@ -1718,6 +1718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Google Hangouts experimented with allowing users to collaboratively dress up message windows.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T044104Z" creationid="哗啦" creationdate="20181215T044104Z">
+        <seg>Google 的环聊（Hangouts） 允许用户自定义他们的消息窗口。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Group invites are good for new relationships.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T021143Z" creationid="哗啦" creationdate="20181214T021034Z">
@@ -3358,6 +3366,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Sincerity is key, consider enforcing a delay or an ability to immediately say “I’ll think about this” and let the apology come later.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T043925Z" creationid="哗啦" creationdate="20181215T043925Z">
+        <seg>承认错误的关键是真诚，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Small World&lt;x1/&gt;: Many small world games have a very manageable scope and smallness that generates a cozy feel, but small worlds can also be threatening, needy, or intense.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T153807Z" creationid="哗啦" creationdate="20181203T153807Z">
@@ -4690,6 +4706,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T043433Z" creationid="哗啦" creationdate="20181212T043433Z">
         <seg>在舒适的空间里，角色在互动时会建立亲密感，允许表现出自己的脆弱之处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Would this change the tone of your conversation?&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T044129Z" creationid="哗啦" creationdate="20181215T044129Z">
+        <seg>这会改变他们谈话的基调吗？&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
