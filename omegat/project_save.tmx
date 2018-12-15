@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Anecdotes of poor behavior that pollute the online gaming space may (at least in part) be a case of how function follows form.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T153903Z" creationid="哗啦" creationdate="20181215T153835Z">
+        <seg>从不文明行为污染游戏社交空间的例子，我们可以看到游戏新机制是如何形成的（至少在一定程度上）。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Any hint of external threat or danger should be muted and distant</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T152543Z" creationid="哗啦" creationdate="20181207T152543Z">
@@ -4362,6 +4370,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T154502Z" creationid="哗啦" creationdate="20181213T154502Z">
         <seg>这很有效。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Though initially useful for clarity, many conventions of online spaces and interfaces are aging poorly.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T154003Z" creationid="哗啦" creationdate="20181215T154003Z">
+        <seg>虽然一开始的机制能让游戏规则变得清晰，但一定时间后，这些在线游戏的界面和机制都已过时。</seg>
       </tuv>
     </tu>
     <tu>
