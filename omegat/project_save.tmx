@@ -1174,6 +1174,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Drawbacks of Social Coziness</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T044236Z" creationid="哗啦" creationdate="20181215T044236Z">
+        <seg>社交舒适的缺点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Drinking steaming coffee from that strange handcrafted mug you got visiting your aunt in Maine.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T152046Z" creationid="哗啦" creationdate="20181209T152046Z">
@@ -1554,6 +1562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T154953Z" creationid="哗啦" creationdate="20181212T154953Z">
         <seg>为此，我们要在多人游戏中检验这种舒适系统。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Forcing cozy causes it to fall apart</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T044341Z" creationid="哗啦" creationdate="20181215T044341Z">
+        <seg>如果你强迫让玩家体验舒适，那么一点儿也不好玩</seg>
       </tuv>
     </tu>
     <tu>
@@ -3222,6 +3238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Remember that more isn’t always more.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T044437Z" creationid="哗啦" creationdate="20181215T044437Z">
+        <seg>记住，不是越多越好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Repeated low risk tasks allow the player to relax.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T024949Z" creationid="哗啦" creationdate="20181209T024949Z">
@@ -4712,8 +4736,8 @@
       <tuv lang="EN-US">
         <seg>Would this change the tone of your conversation?&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T044129Z" creationid="哗啦" creationdate="20181215T044129Z">
-        <seg>这会改变他们谈话的基调吗？&lt;x1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T044255Z" creationid="哗啦" creationdate="20181215T044129Z">
+        <seg>这会影响他们谈话的氛围吗？&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
