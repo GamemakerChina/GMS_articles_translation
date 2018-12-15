@@ -4232,8 +4232,8 @@
       <tuv lang="EN-US">
         <seg>Trust Heuristics and Settings&lt;x1/&gt;: Move beyond binary expressions of trust and permission, such as friend or not friend.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T042933Z" creationid="哗啦" creationdate="20181215T042933Z">
-        <seg>Trust Heuristics and Settings&lt;x1/&gt;不要认为只能把别人分为两类，例如朋友和陌生人。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T043027Z" creationid="哗啦" creationdate="20181215T042933Z">
+        <seg>Trust Heuristics and Settings&lt;x1/&gt;不要认为只能把别人分为两类，例如认为只有朋友才能相信，而陌生人一概不值得信任。</seg>
       </tuv>
     </tu>
     <tu>
