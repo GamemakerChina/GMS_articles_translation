@@ -126,6 +126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Address the low fidelity level of virtual social interaction head on.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T042725Z" creationid="哗啦" creationdate="20181215T042725Z">
+        <seg>解决虚拟社交互动中看起来不真实的东西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Admittedly, Maslow’s Hierarchy of Needs and Covey’s Time Management Grid are older motivational models, but the same key insight can be recontextualized in terms of the newer Self Determination Theory (SDT).</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T094334Z" creationid="哗啦" creationdate="20181202T094334Z">
@@ -1066,6 +1074,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T144155Z" creationid="哗啦" creationdate="20181211T144155Z">
         <seg>结局——在需求得到满足，剧情高潮部分结束后，可以选择进入什么都不做的，令人放松的地方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Design channels of feedback that help players clarify the context of situations and communications.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T042809Z" creationid="哗啦" creationdate="20181215T042809Z">
+        <seg>设计反馈渠道，让玩家能够说明他们在各个方面遇到的问题。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4214,6 +4230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Trust Heuristics and Settings&lt;x1/&gt;: Move beyond binary expressions of trust and permission, such as friend or not friend.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T042933Z" creationid="哗啦" creationdate="20181215T042933Z">
+        <seg>Trust Heuristics and Settings&lt;x1/&gt;不要认为只能把别人分为两类，例如朋友和陌生人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Two models helps us understand how coziness yields meaningful gameplay.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091720Z" creationid="哗啦" creationdate="20181202T091720Z">
@@ -4250,6 +4274,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T155453Z" creationid="哗啦" creationdate="20181207T155453Z">
         <seg>朴实无华的社区聚会和举行特定仪式的场所：农贸市场、厨房、教堂</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Use cozy feedback to make up for low social bandwidth</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T042643Z" creationid="哗啦" creationdate="20181215T042643Z">
+        <seg>用舒适的方法来弥补低社交广度</seg>
       </tuv>
     </tu>
     <tu>
