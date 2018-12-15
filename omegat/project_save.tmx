@@ -278,6 +278,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As audiences become more sophisticated, so too should the mechanics by which they interact online.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T152708Z" creationid="哗啦" creationdate="20181215T152708Z">
+        <seg>当玩家群体组成变得越来越复杂，他们在线互动的机制也应该更改。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As players form deeper relationships and tightly-knit groups, they may lose a sense of that game’s greater community as a whole.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T151901Z" creationid="哗啦" creationdate="20181215T151901Z">
@@ -746,6 +754,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T102746Z" creationid="哗啦" creationdate="20181211T102746Z">
         <seg>在紧张的故事叙述中，舒适能够为他们提供稍微休息的机会</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Coziness can be a useful evaluation lens on how a social mechanic might be upgraded or replaced.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T152752Z" creationid="哗啦" creationdate="20181215T152752Z">
+        <seg>对于如何更新社交机制，舒适性是一个很好的评估方式。</seg>
       </tuv>
     </tu>
     <tu>
