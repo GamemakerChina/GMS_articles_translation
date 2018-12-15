@@ -3542,6 +3542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Some players may simply be wary or incapable of forming cozy virtual connections with others.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T151740Z" creationid="哗啦" creationdate="20181215T151740Z">
+        <seg>有些人只是警惕不认识的人，不愿意在虚拟联系中寻找舒适感。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Some scarcity and social comparison is okay if done in moderation.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T155451Z" creationid="哗啦" creationdate="20181209T155451Z">
@@ -4438,6 +4446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Vulnerability is difficult enough to reach in the real world and it may take longer to reach that state in an online game.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T151632Z" creationid="哗啦" creationdate="20181215T151622Z">
+        <seg>在现实中有能有一个知己很难，在网络游戏中有一个知己更是难上加难。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Waterfall, rivers, rain</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T152741Z" creationid="哗啦" creationdate="20181207T152741Z">
@@ -4642,6 +4658,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T160025Z" creationid="哗啦" creationdate="20181209T160025Z">
         <seg>当《动物之森：袖珍营地》把这个模式放到整个游戏中强迫玩家体验后，就不再舒适了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>When There’s Comfort in Solitude</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T151801Z" creationid="哗啦" creationdate="20181215T151801Z">
+        <seg>当人们能从孤独中感到舒适</seg>
       </tuv>
     </tu>
     <tu>
