@@ -238,6 +238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>And on the outside are comforting moments of coziness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T155039Z" creationid="哗啦" creationdate="20181215T155019Z">
+        <seg>在“三明治”的外层玩家能放松，感到舒适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>And you could only give those gifts to a single person.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T153749Z" creationid="哗啦" creationdate="20181214T153749Z">
@@ -2920,8 +2928,8 @@
       <tuv lang="EN-US">
         <seg>On the inside are the meaty moments of action.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T154928Z" creationid="哗啦" creationdate="20181215T154707Z">
-        <seg>在这个“三明治”里层玩家可以思考下一步的行动。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T155101Z" creationid="哗啦" creationdate="20181215T154707Z">
+        <seg>在这个“三明治”里层玩家需要时刻高度紧张，思考下一步行动。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3906,6 +3914,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151507Z" creationid="哗啦" creationdate="20181213T151507Z">
         <seg>舒适的原则是给玩家带来富有感，安全感和舒缓感，以此来促进他们的团结和信任。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The cozy sandwich&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T155114Z" creationid="哗啦" creationdate="20181215T155114Z">
+        <seg>“三明治”型的舒适区&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
