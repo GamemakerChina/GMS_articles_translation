@@ -1350,6 +1350,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fishing in PvP zone Alterac Valley in World of Warcraft&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T154605Z" creationid="哗啦" creationdate="20181214T154605Z">
+        <seg>在魔兽世界的PVP区域--奥特兰山谷之中钓鱼&lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fishing with a fishing rod</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T152141Z" creationid="哗啦" creationdate="20181209T151308Z">
@@ -2514,6 +2522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T155252Z" creationid="哗啦" creationdate="20181209T155252Z">
         <seg>先减少这种人为产生的需求，然后通过制作大量能满足这种需求的产品来牟利。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>More examples</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T154610Z" creationid="哗啦" creationdate="20181214T154610Z">
+        <seg>更多例子</seg>
       </tuv>
     </tu>
     <tu>
@@ -4130,6 +4146,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091024Z" creationid="哗啦" creationdate="20181202T091024Z">
         <seg>为了最大限度地提高安全性，游戏活动应该是玩家自愿选择加入的，这样玩家就不会感受到强迫的威胁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Together, the players feel safe.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T154408Z" creationid="哗啦" creationdate="20181214T154408Z">
+        <seg>和朋友在一起，那么玩家就会感到舒适。</seg>
       </tuv>
     </tu>
     <tu>
