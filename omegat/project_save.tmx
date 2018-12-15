@@ -150,6 +150,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Alert players to how they are progressing along multiple dimensions of a potential new relationship, such as common friends, interests or skills.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T043327Z" creationid="哗啦" creationdate="20181215T043327Z">
+        <seg>告诉玩家可以在很多地方结交新的朋友，例如朋友的朋友，拥有相同兴趣或技能的人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Allow congratulating, nodding in affirmation and encouraging.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T053023Z" creationid="哗啦" creationdate="20181214T053023Z">
@@ -2810,6 +2818,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T041833Z" creationid="哗啦" creationdate="20181214T041833Z">
         <seg>可选择的沟通：&lt;x1/&gt;你不太会信任一个刚认识的人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opt-in to social risk level&lt;x1/&gt;: Allow certain levels of automatic permission based on the player’s social-risk preferences.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T043458Z" creationid="哗啦" creationdate="20181215T043458Z">
+        <seg>可选择的社会风险等级：&lt;x1/&gt;根据玩家的喜好，让玩家能在一定范围内选择社会风险程度。</seg>
       </tuv>
     </tu>
     <tu>
