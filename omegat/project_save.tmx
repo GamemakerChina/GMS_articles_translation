@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A refuge in an otherwise intense game</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T154501Z" creationid="哗啦" creationdate="20181215T154501Z">
+        <seg>在紧张的游戏中寻求放松的地方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A soothing voice, like that of Bob Ross, can put the player at ease.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T153925Z" creationid="哗啦" creationdate="20181212T153925Z">
@@ -1890,6 +1898,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T153327Z" creationid="哗啦" creationdate="20181213T153327Z">
         <seg>帮助他人：&lt;x1/&gt;一方有难，八方支援。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here are several patterns you can use to integrate coziness into your game.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T154358Z" creationid="哗啦" creationdate="20181215T154358Z">
+        <seg>同样我们有一些方法能将舒适感融入进你的游戏中。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4210,6 +4226,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T160341Z" creationid="哗啦" creationdate="20181213T160341Z">
         <seg>当不在作战时，尝试为他们创建一个温暖舒适的空间。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Think of creating a cozy sandwich for your high stress game.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T154617Z" creationid="哗啦" creationdate="20181215T154617Z">
+        <seg>考虑高度紧张的游戏流程创造一个缓冲区。</seg>
       </tuv>
     </tu>
     <tu>
