@@ -2918,6 +2918,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>On the inside are the meaty moments of action.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T154928Z" creationid="哗啦" creationdate="20181215T154707Z">
+        <seg>在这个“三明治”里层玩家可以思考下一步的行动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>On the one hand, fanciness can often create social comparison pressure, or come off as insincere, diminishing social safety.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T150132Z" creationid="哗啦" creationdate="20181203T150001Z">
@@ -4232,8 +4240,8 @@
       <tuv lang="EN-US">
         <seg>Think of creating a cozy sandwich for your high stress game.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T154617Z" creationid="哗啦" creationdate="20181215T154617Z">
-        <seg>考虑高度紧张的游戏流程创造一个缓冲区。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T154913Z" creationid="哗啦" creationdate="20181215T154617Z">
+        <seg>考虑高度紧张的游戏流程创造一个“三明治型”的舒适缓冲区。</seg>
       </tuv>
     </tu>
     <tu>
