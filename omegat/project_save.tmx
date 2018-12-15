@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cluster of traders sitting in the dangerous wilderness in Realm of the Mad God</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T042609Z" creationid="哗啦" creationdate="20181215T042609Z">
+        <seg>《Realm of the Mad God》中最危险原野上的贸易队伍</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Code of conduct&lt;x1/&gt;: Get players to agree to how you want them to behave in the game.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T154512Z" creationid="哗啦" creationdate="20181213T154456Z">
@@ -962,6 +970,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T152633Z" creationid="哗啦" creationdate="20181212T152633Z">
         <seg>舒适的关系建立在互相支持的基础上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crafting at the campfire in Don’t Starve together during the night.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T042459Z" creationid="哗啦" creationdate="20181215T042459Z">
+        <seg>在《饥荒》中的夜晚制作篝火。</seg>
       </tuv>
     </tu>
     <tu>
