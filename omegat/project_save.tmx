@@ -102,6 +102,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A very cozy move for a decidedly un-cozy game.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T153542Z" creationid="哗啦" creationdate="20181215T153542Z">
+        <seg>这也能让那些不是以舒适感为卖点的游戏的玩家感到畅快。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A walk down a familiar path.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T150549Z" creationid="哗啦" creationdate="20181209T150549Z">
@@ -2578,6 +2586,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T145033Z" creationid="哗啦" creationdate="20181214T145033Z">
         <seg>限制舒适表达：&lt;x1/&gt;如果游戏机制提倡不健康的内容，那么游戏中”好“的意思也会变。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Looking Ahead: More Sofas, Less Lobbies</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T153642Z" creationid="哗啦" creationdate="20181215T153642Z">
+        <seg>展望：</seg>
       </tuv>
     </tu>
     <tu>
