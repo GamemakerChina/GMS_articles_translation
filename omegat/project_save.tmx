@@ -326,6 +326,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>At the time, staying with the same group from match to match was a big innovation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T153336Z" creationid="哗啦" creationdate="20181215T153336Z">
+        <seg>这样，玩家想在不同的比赛中和同样的人组队几乎不可能。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>At their own discretion, the player may then opt-in to increasingly risky layers of interaction with individuals or the public one layer at a time.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T020311Z" creationid="哗啦" creationdate="20181214T020311Z">
@@ -3854,6 +3862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The developers of Halo 2 re-imagined the matchmaking lobby as a virtual sofa.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T153240Z" creationid="哗啦" creationdate="20181215T153240Z">
+        <seg>《光环2》的开发者将玩家大厅想象成一个虚拟的沙发。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The eyes at a distance make the fire feel even cozier.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T065006Z" creationid="哗啦" creationdate="20181207T065006Z">
@@ -4258,6 +4274,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T020929Z" creationid="哗啦" creationdate="20181214T020929Z">
         <seg>这是热情欢迎别人的行为，但别人也可以自主选择不参与而不用感到内疚。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is applicable to developers of cozy worlds and perhaps doubly-so for developers looking to build social retention into any type of game.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T153217Z" creationid="哗啦" creationdate="20181215T153217Z">
+        <seg>这不仅有助于增加游戏的舒适感，也适用于那些想让玩家更多参与游戏社交的游戏。</seg>
       </tuv>
     </tu>
     <tu>
