@@ -2600,8 +2600,8 @@
       <tuv lang="EN-US">
         <seg>Looking Ahead: More Sofas, Less Lobbies</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T153642Z" creationid="哗啦" creationdate="20181215T153642Z">
-        <seg>展望：</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T154133Z" creationid="哗啦" creationdate="20181215T153642Z">
+        <seg>展望：从“大厅”变为“沙发”</seg>
       </tuv>
     </tu>
     <tu>
@@ -2658,6 +2658,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T154329Z" creationid="哗啦" creationdate="20181209T154329Z">
         <seg>很多货币化的练习会削弱舒适感</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Many traditional games satisfy cozy needs by including separate, safe cozy spaces.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T154312Z" creationid="哗啦" creationdate="20181215T154312Z">
+        <seg>许多传统游戏都满足了独立，安全空间这些对舒适的要求。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4970,6 +4978,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T154411Z" creationid="哗啦" creationdate="20181213T154318Z">
         <seg>即你可以努力不被社区中的人们影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You don’t need to make your entire game uniformly cozy to gain the benefits of cozy design.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T154235Z" creationid="哗啦" creationdate="20181215T154235Z">
+        <seg>你不需要为了让游戏中某处变得舒适，而让整个游戏都变成舒适游戏。</seg>
       </tuv>
     </tu>
     <tu>
