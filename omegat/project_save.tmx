@@ -502,6 +502,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Build cozy connections with non-player characters</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T151928Z" creationid="哗啦" creationdate="20181216T151928Z">
+        <seg>和NPC建立舒适的纽带</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Bundling up in a quilt your mother made you.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T151459Z" creationid="哗啦" creationdate="20181209T151459Z">
@@ -658,6 +666,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T150740Z" creationid="哗啦" creationdate="20181214T150740Z">
         <seg>《激战》中的冠军火车（Champion Trains in Guild Wars 2）&lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Characters can also function a cozy moments in otherwise non-cozy games.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T152016Z" creationid="哗啦" creationdate="20181216T152016Z">
+        <seg>在非舒适性游戏中，NPC也能让玩家略感舒适。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4602,6 +4618,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T154003Z" creationid="哗啦" creationdate="20181215T154003Z">
         <seg>虽然一开始的机制能让游戏规则变得清晰，但一定时间后，这些在线游戏的界面和机制都已过时。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Though the game might feel inherently non-cozy, these moments of social coziness help to form lasting bonds and promote strangers to more meaningful relationships where deeper communication and social safely exists.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T151914Z" creationid="哗啦" creationdate="20181216T151914Z">
+        <seg>虽然这些游戏本来原本会让人不太舒服，但这些舒适的时刻却能让陌生人成为朋友，从而更深入地沟通，确保社会安全。</seg>
       </tuv>
     </tu>
     <tu>
