@@ -1182,6 +1182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Desire&lt;x1/&gt;: You start in a place of safety, but also suffer from scarcity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T145851Z" creationid="哗啦" creationdate="20181216T145851Z">
+        <seg>渴求&lt;x1/&gt;：虽然游戏开始的地方很安全，但资源很稀缺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Developers reap what they sow&lt;x1/&gt;: They’ll in turn use those same social norms when interacting with the developer.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T101138Z" creationid="哗啦" creationdate="20181205T101138Z">
@@ -4202,6 +4210,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T144826Z" creationid="哗啦" creationdate="20181216T144826Z">
         <seg>这些都是和&lt;x1/&gt;柔和&lt;x2/&gt; 有关的，能让玩家受到安慰，不再那么紧张，感到高压力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These cozy qualities improve pacing throughout the game, and form the basis of the central loop of the game:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T145714Z" creationid="哗啦" creationdate="20181216T145714Z">
+        <seg>这些舒适的特别之处能加快游戏的节奏，并构成了游戏重玩的基础。</seg>
       </tuv>
     </tu>
     <tu>
