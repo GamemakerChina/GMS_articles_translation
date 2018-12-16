@@ -3958,6 +3958,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The further you are from the safety of a previous bonfire (save point), the more at-risk you are for permanently losing your accumulated resources.This is not cozy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T143559Z" creationid="哗啦" creationdate="20181216T143512Z">
+        <seg>你离篝火（进度保存点）越远，你就越有可能因为未知的致命危险而丢失之前的进度。这不好玩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The game promotes social norms that promise and encourage trust.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151920Z" creationid="哗啦" creationdate="20181213T151920Z">
@@ -4994,6 +5002,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T151651Z" creationid="哗啦" creationdate="20181205T151651Z">
         <seg>当然，游戏中的许多地方都是真实的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Yet, the bonfire locations in Dark Souls manages to have several cozy qualities:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T143549Z" creationid="哗啦" creationdate="20181216T143549Z">
+        <seg>《黑魂》中篝火的摆放位置却是很讲究舒适感的。</seg>
       </tuv>
     </tu>
     <tu>
