@@ -4054,6 +4054,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The cozy qualities of this space afford the player a moment of respite from the compulsions of the other gameplay spaces.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T153750Z" creationid="哗啦" creationdate="20181216T153750Z">
+        <seg>这个空间能让玩家感到舒适的原因，是它为玩家在紧张的游戏进程中提供了一个能放松的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The cozy sandwich&lt;x1/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T155114Z" creationid="哗啦" creationdate="20181215T155114Z">
@@ -4242,6 +4250,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T155654Z" creationid="哗啦" creationdate="20181213T155521Z">
         <seg>这其中的问题有许多与性别、种族、年龄和阶级有关。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is a break in the music, signaling a shift from gameplay to rest space.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T154008Z" creationid="哗啦" creationdate="20181216T154008Z">
+        <seg>音乐中的停顿标志玩家可以暂时休息了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4642,6 +4658,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T152131Z" creationid="哗啦" creationdate="20181216T152131Z">
         <seg>这满足了玩家和别人安全交朋友的愿望。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This shares some elements with the River City Ransom shop, but this shop allows the player free movement in a safe space.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T153917Z" creationid="哗啦" creationdate="20181216T153917Z">
+        <seg>这和《热血物语》的商店有相同的元素，但是前者能让玩家在安全区域自由行动。</seg>
       </tuv>
     </tu>
     <tu>
