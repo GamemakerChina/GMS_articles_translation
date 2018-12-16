@@ -4182,6 +4182,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>These are linked to the quality of &lt;x1/&gt;softness&lt;x2/&gt; by providing comforting feedback and an opportunity of a lowered state of arousal.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T144826Z" creationid="哗啦" creationdate="20181216T144826Z">
+        <seg>这些都是和&lt;x1/&gt;柔和&lt;x2/&gt; 有关的，能让玩家受到安慰，不再那么紧张，感到高压力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>These high level principles provide direction and framing for designing a cozy or cozier game.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102445Z" creationid="哗啦" creationdate="20181205T102445Z">
