@@ -4000,8 +4000,8 @@
       <tuv lang="EN-US">
         <seg>The cities (where these often appear) are &lt;x1/&gt;safe&lt;x2/&gt; and free from opponents, and the shop itself gives a tiny window into a &lt;x3/&gt;confined&lt;x4/&gt;, cozy scene between the player and the vendor.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T153329Z" creationid="哗啦" creationdate="20181216T153329Z">
-        <seg>这些时常出现的城市是 &lt;x1/&gt;安全&lt;x2/&gt; 的，可以不被敌人骚扰的，同时这也给玩家一个了解自己和商家之间舒适互动的窗口。&lt;x3/&gt;confined&lt;x4/&gt;, cozy scene between the player and the vendor.</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T153409Z" creationid="哗啦" creationdate="20181216T153329Z">
+        <seg>这些时常出现的城市是 &lt;x1/&gt;安全&lt;x2/&gt; 的，可以不被敌人骚扰的，同时这也给玩家提供了一个&lt;x3/&gt;有限的&lt;x4/&gt;了解自己和商家之间舒适互动的窗口。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4194,6 +4194,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T151400Z" creationid="哗啦" creationdate="20181203T151343Z">
         <seg>在机器系统层面上发生的选择更多的是机械的, 而不是经过深思熟虑的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The ‘free smile’ has no gameplay progression implications other than to reinforce the safe nature of this space.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T153510Z" creationid="哗啦" creationdate="20181216T153453Z">
+        <seg>“微笑”只能让玩家知道这个地方是安全的，没有其它含义。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4658,6 +4666,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092255Z" creationid="哗啦" creationdate="20181202T092255Z">
         <seg>这把游戏和实践相关联。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This type of space (and other shops) provides a loop closure that forms the backbone of integral gameplay systems (currency acquisition, ability expansion).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T153627Z" creationid="哗啦" creationdate="20181216T153627Z">
+        <seg>这种空间（和其它商店）构成了一个循环，它们构成了完整的游戏玩法（货币流通，能力升级）。</seg>
       </tuv>
     </tu>
     <tu>
