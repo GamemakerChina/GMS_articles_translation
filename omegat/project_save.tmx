@@ -3862,6 +3862,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The bonfire also by giving you access to your storage, offering &lt;x1/&gt;abundance&lt;x2/&gt; of resources when the more frequent gameplay experience of adventuring features resource scarcity (limited pockets, stack limits).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T145028Z" creationid="哗啦" creationdate="20181216T145028Z">
+        <seg>篝火（保存点）通过提供&lt;x1/&gt;丰富的&lt;x2/&gt; 的物资，弥补玩家在游戏中冒险时的物资短缺。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The calm before the storm - Ellie’s guitar or giraffes in The Last of Us</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T143813Z" creationid="哗啦" creationdate="20181211T143813Z">
@@ -4122,6 +4130,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T145729Z" creationid="哗啦" creationdate="20181204T145729Z">
         <seg>许多有悠久历史的竞技游戏，比如国际象棋和足球，都是从零和系统中产生的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There’s a moment for tinkering and rearranging.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T145139Z" creationid="哗啦" creationdate="20181216T145139Z">
+        <seg>这可以让你有机会修复伤口，调整状态，继续前进。</seg>
       </tuv>
     </tu>
     <tu>
