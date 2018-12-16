@@ -710,6 +710,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Chef in Odin Sphere&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T154559Z" creationid="哗啦" creationdate="20181216T154559Z">
+        <seg>《奥丁领域》（Odin Sphere）中的厨师&lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Childlike&lt;x1/&gt;: In a similar vein, childlike games are often safe, but can have very high levels of stimulus and often lack the ability to focus on higher level needs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T153610Z" creationid="哗啦" creationdate="20181203T153610Z">
@@ -2798,6 +2806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Moments of character advancement are slowed down for Odin Sphere, and the focus becomes on the act of preparing and consuming food.&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T154537Z" creationid="哗啦" creationdate="20181216T154537Z">
+        <seg>《奥丁领域》中玩家提升自己能力的速度没那么快，游戏中的焦点是收集和消耗食物。&lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Monitor the density of your game’s population carefully, and be sure to facilitate new connections between players.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T152324Z" creationid="哗啦" creationdate="20181215T152324Z">
@@ -4218,6 +4234,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T151400Z" creationid="哗啦" creationdate="20181203T151343Z">
         <seg>在机器系统层面上发生的选择更多的是机械的, 而不是经过深思熟虑的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The walls are closer in than a normal screen, providing an &lt;x1/&gt;intimacy of space&lt;x2/&gt;, the colors are warm, and there are bonfires to contribute to the warmth of the space despite the low resolution of the scene.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T154353Z" creationid="哗啦" creationdate="20181216T154353Z">
+        <seg>比其它地方更相互靠近的墙壁，形成了一个 &lt;x1/&gt;亲密的空间&lt;x2/&gt;，使用暖色调的篝火也让这个空间变得更加舒适。</seg>
       </tuv>
     </tu>
     <tu>
