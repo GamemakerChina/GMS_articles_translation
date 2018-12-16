@@ -966,6 +966,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cozy NPCs are often facilitators, and can be connected to cozy locations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T152205Z" creationid="哗啦" creationdate="20181216T152205Z">
+        <seg>NPC通常是让玩家感到舒适的催化剂。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cozy audio is continuous, soft, and non-intrusive, with an element of familiarity.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T150637Z" creationid="哗啦" creationdate="20181207T150637Z">
@@ -1954,6 +1962,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T154358Z" creationid="哗啦" creationdate="20181215T154358Z">
         <seg>同样我们有一些方法能将舒适感融入进你的游戏中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Here are some examples:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T152212Z" creationid="哗啦" creationdate="20181216T152212Z">
+        <seg>这儿有一些例子：</seg>
       </tuv>
     </tu>
     <tu>
@@ -4570,6 +4586,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151942Z" creationid="哗啦" creationdate="20181213T151942Z">
         <seg>这样能减少社会环境的恶性循环。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This satisfies the need to connect with others in a safe fashion.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T152131Z" creationid="哗啦" creationdate="20181216T152131Z">
+        <seg>这满足了玩家和别人安全交朋友的愿望。</seg>
       </tuv>
     </tu>
     <tu>
