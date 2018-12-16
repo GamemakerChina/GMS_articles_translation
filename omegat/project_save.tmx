@@ -3766,6 +3766,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Spending continual time together with a set of shared goals promotes &lt;x1/&gt;familiarity&lt;x2/&gt; and &lt;x3/&gt;reliability&lt;x4/&gt; between the participants.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T150822Z" creationid="哗啦" creationdate="20181216T150822Z">
+        <seg>花时间和有共同目标的参与者一起，促进团队之间的 &lt;x1/&gt;熟悉感&lt;x2/&gt; 和 &lt;x3/&gt;可靠性&lt;x4/&gt; 。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Spry Fox ran two games with two very different communities.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T154742Z" creationid="哗啦" creationdate="20181204T154742Z">
@@ -4514,6 +4522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151942Z" creationid="哗啦" creationdate="20181213T151942Z">
         <seg>这样能减少社会环境的恶性循环。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This social structure has several cozy qualities, but the specifics of the group makeup could make that grouping feel more or less cozy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T150638Z" creationid="哗啦" creationdate="20181216T150638Z">
+        <seg>这种玩家结构有一些可取的地方，但组成团队的方式会让玩家们或多或少感到一点舒适。</seg>
       </tuv>
     </tu>
     <tu>
