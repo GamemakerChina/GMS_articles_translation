@@ -158,6 +158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Adventure&lt;x1/&gt;: Motivated by your lack of resources and a need to progress, you move further into danger, collect more vulnerable resources, and overcome a large risky obstacle.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T150023Z" creationid="哗啦" creationdate="20181216T150023Z">
+        <seg>冒险&lt;x1/&gt;：在寻找资源和渴望进展的情况下，你将步入虎穴，克服重重困难，收集那些难以获得的资源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Again, these experiments were done on highly stressed out animal subjects.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T151300Z" creationid="哗啦" creationdate="20181204T151300Z">
@@ -4442,6 +4450,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T153217Z" creationid="哗啦" creationdate="20181215T153217Z">
         <seg>这不仅有助于增加游戏的舒适感，也适用于那些想让玩家更多参与游戏社交的游戏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is the moment of coziness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T150125Z" creationid="哗啦" creationdate="20181216T150125Z">
+        <seg>这样就很舒服。</seg>
       </tuv>
     </tu>
     <tu>
