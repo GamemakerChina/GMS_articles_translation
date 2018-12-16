@@ -606,6 +606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Call of Duty (among other games) will team up the player with a small group of other player and persist that group throughout matches.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T150523Z" creationid="哗啦" creationdate="20181216T150523Z">
+        <seg>《使命召唤》（和其它游戏）将会把一些玩家组成团队，然后让他们在整场比赛中都留在该小组。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Care delivering the gift&lt;x1/&gt;: Gifts become less cozy when when they are received by a courier or heaven forbid, a utilitarian menu.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T153228Z" creationid="哗啦" creationdate="20181214T153228Z">
@@ -3198,6 +3206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Persistent small groups in multiplayer games</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T150352Z" creationid="哗啦" creationdate="20181216T150352Z">
+        <seg>多人游戏中玩家组建的团体</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Person interaction associated with the gift&lt;x1/&gt;: Direct interpersonal interactions mixed with small personal gifts are the most cozy.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T152534Z" creationid="哗啦" creationdate="20181214T152534Z">
@@ -4458,6 +4474,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T150125Z" creationid="哗啦" creationdate="20181216T150125Z">
         <seg>这样就很舒服。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This loop keeps the game digestible and the wins incremental and continuous rather than one large all-or-nothing encounter.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T150306Z" creationid="哗啦" creationdate="20181216T150306Z">
+        <seg>这种循环让游戏能慢慢地进行，一步一步走向胜利，而不是大起大落。</seg>
       </tuv>
     </tu>
     <tu>
