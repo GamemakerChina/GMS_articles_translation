@@ -3846,6 +3846,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The audio, lighting, and level design feedback is leveraged to create an intimate space with soothing qualities (the crackling of the fire, the lessening or elimination of intense sounds, the warm glow of the fire, the closeness of walls).</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T144635Z" creationid="哗啦" creationdate="20181216T144635Z">
+        <seg>可以用音频，照明系统，和关卡设计反馈来创建能让玩家感到舒适和亲密的空间。例如火的嘶嘶声，噪音的减弱或消失，火的温暖光芒，靠近墙壁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The best practice here is twofold</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T154716Z" creationid="哗啦" creationdate="20181209T154716Z">
