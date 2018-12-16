@@ -4046,6 +4046,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The matchmaking process is &lt;x1/&gt;opt-in&lt;x2/&gt;, so these connections aren’t thrust upon you in an uncomfortable way.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T150951Z" creationid="哗啦" creationdate="20181216T150951Z">
+        <seg>匹配过程是 &lt;x1/&gt;可选的&lt;x2/&gt;，它们不会被强加于你。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The opportunity to fight off attackers might not exist in a person’s day-to-day desk job, but a game lets them practice those skills safely and easily.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091946Z" creationid="哗啦" creationdate="20181202T091946Z">
@@ -5138,6 +5146,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T145251Z" creationid="哗啦" creationdate="20181207T145251Z">
         <seg>《Yoshi’s Woolly World》中的所有东西都是摸起来很舒适，很柔软，而且看起来很可爱的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You can alway opt out if the situations starts to feel emotionally unsafe.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T151019Z" creationid="哗啦" creationdate="20181216T151019Z">
+        <seg>如果你察觉到有什么不对劲，你可以选择退出。</seg>
       </tuv>
     </tu>
     <tu>
