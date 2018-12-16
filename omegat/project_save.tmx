@@ -4230,6 +4230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They remove all immediate danger (no monsters, no aggro overlap with something outside the space, no dangerous surfaces), which gives a moment of &lt;x1/&gt;safety&lt;x2/&gt; to an otherwise intense and dangerous game</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T143835Z" creationid="哗啦" creationdate="20181216T143835Z">
+        <seg>篝火周围不会有直接的威胁（例如怪物，重叠的仇恨，危险的路） &lt;x1/&gt;safety&lt;x2/&gt; to an otherwise intense and dangerous game</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They should include visible places to comfortably sit, eat, drink, and view beauty.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T155657Z" creationid="哗啦" creationdate="20181207T155657Z">
