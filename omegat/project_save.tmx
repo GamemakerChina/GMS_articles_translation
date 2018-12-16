@@ -4230,10 +4230,18 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>They provide an ability to spend your currency, lessening the risk of losing it, which also ties to &lt;x1/&gt;safety&lt;x2/&gt; (no impending loss or threat)</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T144252Z" creationid="哗啦" creationdate="20181216T144252Z">
+        <seg>这也让玩家能在适当时候使用道具，减少不必要的道具损失，这也是非常&lt;x1/&gt;安全的&lt;x2/&gt; ，没有迫在眉睫的威胁。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>They remove all immediate danger (no monsters, no aggro overlap with something outside the space, no dangerous surfaces), which gives a moment of &lt;x1/&gt;safety&lt;x2/&gt; to an otherwise intense and dangerous game</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T143835Z" creationid="哗啦" creationdate="20181216T143835Z">
-        <seg>篝火周围不会有直接的威胁（例如怪物，重叠的仇恨，危险的路） &lt;x1/&gt;safety&lt;x2/&gt; to an otherwise intense and dangerous game</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T144034Z" creationid="哗啦" creationdate="20181216T143835Z">
+        <seg>篝火周围不会有直接的威胁（例如怪物，仇恨联动，危险的路），这让玩家在紧张的前进中能得到片刻 &lt;x1/&gt;安全的&lt;x2/&gt; 歇息。</seg>
       </tuv>
     </tu>
     <tu>
