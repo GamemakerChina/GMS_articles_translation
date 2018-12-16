@@ -3998,6 +3998,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The cities (where these often appear) are &lt;x1/&gt;safe&lt;x2/&gt; and free from opponents, and the shop itself gives a tiny window into a &lt;x3/&gt;confined&lt;x4/&gt;, cozy scene between the player and the vendor.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T153329Z" creationid="哗啦" creationdate="20181216T153329Z">
+        <seg>这些时常出现的城市是 &lt;x1/&gt;安全&lt;x2/&gt; 的，可以不被敌人骚扰的，同时这也给玩家一个了解自己和商家之间舒适互动的窗口。&lt;x3/&gt;confined&lt;x4/&gt;, cozy scene between the player and the vendor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The closer coziness gets to a real world situation with real people and honest human pleasures, the stronger the impact.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T150844Z" creationid="哗啦" creationdate="20181205T150844Z">
