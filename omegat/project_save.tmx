@@ -838,6 +838,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Consider:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T152504Z" creationid="哗啦" creationdate="20181217T152504Z">
+        <seg>考虑一些这些：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Contemporary psychology is rediscovering the benefits of rich, contemplative environment that lets humans thrive.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152223Z" creationid="哗啦" creationdate="20181204T152223Z">
@@ -1766,6 +1774,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Foundations: Consent and social norms</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T152421Z" creationid="哗啦" creationdate="20181217T152421Z">
+        <seg>基础：赞同和社会规范</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>From Quantic Foundry’s motivations, creativity and completion are served well by a cozy game like Animal Crossing.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T153952Z" creationid="哗啦" creationdate="20181204T153952Z">
@@ -2062,6 +2078,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>How are they established, reinforced and signaled in your team?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T152610Z" creationid="哗啦" creationdate="20181217T152610Z">
+        <seg>这些规范是如何被建立，加强，发挥他自己的作用的？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>How can you work those into the animations and communication options for your character?</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T144911Z" creationid="哗啦" creationdate="20181214T144911Z">
@@ -2074,6 +2098,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181201T132440Z" creationid="哗啦" creationdate="20181201T132440Z">
         <seg>我们怎样才能让我们游戏更加舒适呢？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>How your development team operates depends in large part on the social norms you’ve established.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T152454Z" creationid="哗啦" creationdate="20181217T152454Z">
+        <seg>你所建立的规范将很大程度上决定你团队的工作方式。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5274,6 +5306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T144740Z" creationid="哗啦" creationdate="20181214T144740Z">
         <seg>将会发生什么社交活动？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What social norms does your team hold?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T152522Z" creationid="哗啦" creationdate="20181217T152522Z">
+        <seg>你的团队运作将基于哪些准则？</seg>
       </tuv>
     </tu>
     <tu>
