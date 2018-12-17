@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A cozy environment tends to have the following benefits:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T151549Z" creationid="哗啦" creationdate="20181217T151549Z">
+        <seg>一个舒适的环境会有以下的一些利益。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A cozy social structure can still be hostile if players want to engage in a conflicting forms of expression.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T103523Z" creationid="哗啦" creationdate="20181205T103523Z">
@@ -984,8 +992,8 @@
       <tuv lang="EN-US">
         <seg>Cozy Development Practices</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T151252Z" creationid="哗啦" creationdate="20181217T151252Z">
-        <seg>舒适发展实践</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T151451Z" creationid="哗啦" creationdate="20181217T151252Z">
+        <seg>舒适发展实战</seg>
       </tuv>
     </tu>
     <tu>
@@ -1378,6 +1386,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T145104Z" creationid="哗啦" creationdate="20181214T145104Z">
         <seg>《炉石传说》(一款PvP游戏)表面上看是玩家进行愉快、礼貌的互动。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Emotional safety leads to honest communication and genuine collaboration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T151632Z" creationid="哗啦" creationdate="20181217T151632Z">
+        <seg>良好的感情带来真诚的合作。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3162,6 +3178,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T052129Z" creationid="哗啦" creationdate="20181214T052129Z">
         <seg>否则，他们不会信任彼此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or for that matter running any company.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T151526Z" creationid="哗啦" creationdate="20181217T151526Z">
+        <seg>运营任何一家公司都是如此。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5146,6 +5170,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T070853Z" creationid="哗啦" creationdate="20181207T070853Z">
         <seg>受欢迎：&lt;x1/&gt;当玩家在游戏中受到其它NPC欢迎时，玩家就能安全和自由地表达自己。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We’ve been talking about building cozy games, but cozy practices can also be applied to the &lt;x1/&gt;process&lt;x2/&gt; of building a game.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T151444Z" creationid="哗啦" creationdate="20181217T151402Z">
+        <seg>我们已经讨论了如何设计舒适游戏，但舒适实战仍然可以被用于开发游戏的 &lt;x1/&gt;过程&lt;x2/&gt; 中。</seg>
       </tuv>
     </tu>
     <tu>
