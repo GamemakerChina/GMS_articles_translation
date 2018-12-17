@@ -118,6 +118,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A space for each type of task&lt;x1/&gt;: Collaborative design work can be held more effectively in smaller or enclosed spaces.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T153638Z" creationid="哗啦" creationdate="20181217T153638Z">
+        <seg>每种任务有自己的空间&lt;x1/&gt;：协作设计的工作在一个相对封闭的小房间里能更有效地进行。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A very cozy move for a decidedly un-cozy game.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T153542Z" creationid="哗啦" creationdate="20181215T153542Z">
