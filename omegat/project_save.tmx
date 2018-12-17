@@ -2542,6 +2542,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In the back of the shop is a quiet area with a warm, bright fireplace.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T155132Z" creationid="哗啦" creationdate="20181217T155132Z">
+        <seg>商店后面是一个安静的区域，有一个温暖而明亮的壁炉。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In the cozy fantasy, we help each other because it is the &lt;x1/&gt;nice&lt;x2/&gt; thing to do.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T153241Z" creationid="哗啦" creationdate="20181211T153241Z">
@@ -3398,6 +3406,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Outside, it is often raining gently.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T155206Z" creationid="哗啦" creationdate="20181217T155206Z">
+        <seg>外面，淅淅沥沥地下着小雨。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Over decades of living, an adult builds a rich history with otherwise mundane objects and environments, storing away personal and cultural meaning.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181206T151045Z" creationid="哗啦" creationdate="20181206T151045Z">
@@ -4214,6 +4230,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The baristas know his name and (most of them) smile when he walks in.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T155043Z" creationid="哗啦" creationdate="20181217T155043Z">
+        <seg>咖啡师们都认识Daniel Cook，会向他打招呼。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The best practice here is twofold</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T154716Z" creationid="哗啦" creationdate="20181209T154716Z">
@@ -4330,6 +4354,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T151219Z" creationid="哗啦" creationdate="20181213T151219Z">
         <seg>目前大多数游戏用有限的资源和高度危险的世界来迫使玩家相互竞争。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The decor is dark wood and stone with light music trickling in from the front room.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T155149Z" creationid="哗啦" creationdate="20181217T155149Z">
+        <seg>房间的装饰是深色的木头和石头，前厅飘来轻音乐。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4530,6 +4562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T154008Z" creationid="哗啦" creationdate="20181216T154008Z">
         <seg>音乐中的停顿标志玩家可以暂时休息了。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There is food and coffee which removes any hunger or thirst.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T154916Z" creationid="哗啦" creationdate="20181217T154916Z">
+        <seg>咖啡馆中的饮料和事物能让解渴和填饱肚子。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4866,6 +4906,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181216T152825Z" creationid="哗啦" creationdate="20181216T152825Z">
         <seg>这种互动的特点是 &lt;x1/&gt;柔和&lt;x2/&gt;，让你在探索和战斗之中得到片刻的休息。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is a space of safe social connection.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T155100Z" creationid="哗啦" creationdate="20181217T155100Z">
+        <seg>这就是安全的社交。</seg>
       </tuv>
     </tu>
     <tu>
