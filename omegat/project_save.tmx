@@ -134,6 +134,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Abundance leads to a willingness to experiment without fear of loss.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T152131Z" creationid="哗啦" creationdate="20181217T152131Z">
+        <seg>富有能让人们大胆尝试，不用害怕失败。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Abundance&lt;x1/&gt;: A cozy game has a sense of abundance.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091111Z" creationid="哗啦" creationdate="20181202T091111Z">
@@ -2798,6 +2806,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Many developers prefer being in a cozy space, or having access to one.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T152240Z" creationid="哗啦" creationdate="20181217T152240Z">
+        <seg>大多数开发者希望留在舒适的地方，或至少能方便地从工作地点到达这些舒适的地方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Many standard monetization practices damage coziness.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T154329Z" creationid="哗啦" creationdate="20181209T154329Z">
@@ -3106,6 +3122,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T152406Z" creationid="哗啦" creationdate="20181205T152406Z">
         <seg>当我们大致了解设计舒适感的方法后，我们就会发现不同的游戏设计领域有不同的游戏设计模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Once you’ve experienced a cozy workplace, it is hard to leave.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T152314Z" creationid="哗啦" creationdate="20181217T152314Z">
+        <seg>一旦你到了舒适的地方，你就不那么想离开了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3586,6 +3610,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145957Z" creationid="哗啦" creationdate="20181202T145957Z">
         <seg>责任：&lt;x1/&gt;责任需要脑力劳动：努力制定计划，思考并执行计划来解决问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Retention of key personnel.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T152141Z" creationid="哗啦" creationdate="20181217T152141Z">
+        <seg>核心人物的留存。</seg>
       </tuv>
     </tu>
     <tu>
