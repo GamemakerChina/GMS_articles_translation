@@ -1726,6 +1726,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For example, Daniel Cook has a coffee shop he escapes to whenever he needs to do writing.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T154831Z" creationid="哗啦" creationdate="20181217T154831Z">
+        <seg>例如，每当作家Daniel Cook需要写作时，他都会去一个咖啡厅。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For example, a dog or cat that is soundly asleep or a guardian character that is relaxing indicates no danger is present, even outside the player’s senses.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T061047Z" creationid="哗啦" creationdate="20181207T061047Z">
@@ -2750,6 +2758,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It may also be unwelcome if the designer is not yet ready for higher-level work and needs to pursue needs for safety, hunger, thirst, and/or sleep.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T154300Z" creationid="哗啦" creationdate="20181217T154300Z">
+        <seg>如果游戏的设计师还在为食物和水发愁，那么他也不太可能创造出高水平的东西。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It occupies the hands, but frees the mind to work on other more subtle concerns.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T150803Z" creationid="哗啦" creationdate="20181209T025345Z">
@@ -3274,6 +3290,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T151741Z" creationid="哗啦" creationdate="20181205T151741Z">
         <seg>自我反省的机会让你能接触到你的内心。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Opportunities to escape to a cozy spot&lt;x1/&gt;: Allowing individuals to choose to go to a cozy environment when desired -- say, for brainstorming on an interesting new possibility -- can help people offer, develop, and exchange ideas when they otherwise might be drowned out.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T154649Z" creationid="哗啦" creationdate="20181217T154649Z">
+        <seg>来到舒适场所的机会&lt;x1/&gt;：允许人们到他们想要的方式——就像，为一个新想法而头脑风暴——可以让人们互相交流和发展想法，否则这些想法就会消失。</seg>
       </tuv>
     </tu>
     <tu>
