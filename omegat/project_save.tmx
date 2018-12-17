@@ -1198,6 +1198,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cozy spaces and environments</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T153255Z" creationid="哗啦" creationdate="20181217T153255Z">
+        <seg>舒适空间和环境</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crafting at the campfire in Don’t Starve together during the night.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T042459Z" creationid="哗啦" creationdate="20181215T042459Z">
@@ -3710,6 +3718,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Safe consent&lt;x1/&gt;: How can employees opt-in (or opt-out) of risky opportunities?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T153140Z" creationid="哗啦" creationdate="20181217T153140Z">
+        <seg>安全准许&lt;x1/&gt;：员工是怎样选择性地加入或退出有风险的项目？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Safe&lt;x1/&gt;: The activity is known to be safe and will not cause stress or danger.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T025043Z" creationid="哗啦" creationdate="20181209T025043Z">
@@ -3930,6 +3946,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T091312Z" creationid="哗啦" creationdate="20181202T091312Z">
         <seg>轻柔：&lt;x1/&gt;舒适游戏使用强烈的审美信号，来告诉玩家他们在一个低压力的，富有且安全的环境中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Softness&lt;x1/&gt;: How do you create quiet spaces for social connection and self improvement?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T153245Z" creationid="哗啦" creationdate="20181217T153245Z">
+        <seg>柔和&lt;x1/&gt;：如何让玩家能在不受无关事物打扰的地方社交或提升自我？</seg>
       </tuv>
     </tu>
     <tu>
