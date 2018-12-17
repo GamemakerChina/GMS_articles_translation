@@ -942,6 +942,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coziness can be tricky to implement in a workspace, however.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T154055Z" creationid="哗啦" creationdate="20181217T154055Z">
+        <seg>然而，让工作地点变得舒适需要一些技巧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coziness can be weaponized.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T153518Z" creationid="哗啦" creationdate="20181209T153457Z">
@@ -5026,6 +5034,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T155829Z" creationid="哗啦" creationdate="20181209T155829Z">
         <seg>Tom Nook在《动物之森：新叶》中讲述了资本主义的大部分阴暗之处。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Too small a space can be intimidating or claustrophobic, and dim lights can just make it hard to function.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T154136Z" creationid="哗啦" creationdate="20181217T154136Z">
+        <seg>空间面积过小可能会让人感到恐惧或幽闭，昏暗的灯光会让人无法集中注意力来工作。</seg>
       </tuv>
     </tu>
     <tu>
