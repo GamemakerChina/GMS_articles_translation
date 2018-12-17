@@ -3102,6 +3102,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>No one tells him to go.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T155348Z" creationid="哗啦" creationdate="20181217T155315Z">
+        <seg>没有人要催促他干别的事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>No one tells him to leave.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T155335Z" creationid="哗啦" creationdate="20181217T155335Z">
+        <seg>没有人要他离开这儿。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Non-consensual social presence&lt;x1/&gt;: Anything non-consensual removes a player’s feeling of safety, but this is especially relevant in social situations.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T151658Z" creationid="哗啦" creationdate="20181202T151658Z">
@@ -3350,10 +3366,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Or it is gloriously sunny.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T155513Z" creationid="哗啦" creationdate="20181217T155237Z">
+        <seg>或阳光洒落下来。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Or sewing a quilt for a child you love.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T151522Z" creationid="哗啦" creationdate="20181209T151522Z">
         <seg>或是为你喜欢的小孩缝被子</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Or the fall leaves just take your breath away.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T155259Z" creationid="哗啦" creationdate="20181217T155259Z">
+        <seg>或是美得窒息的秋叶。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3408,8 +3440,8 @@
       <tuv lang="EN-US">
         <seg>Outside, it is often raining gently.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T155206Z" creationid="哗啦" creationdate="20181217T155206Z">
-        <seg>外面，淅淅沥沥地下着小雨。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T155519Z" creationid="哗啦" creationdate="20181217T155206Z">
+        <seg>外面，要不是淅淅沥沥地下着小雨。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5618,6 +5650,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T044255Z" creationid="哗啦" creationdate="20181215T044129Z">
         <seg>这会影响他们谈话的氛围吗？&lt;x1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Writing in the cafe is both a opt-in choice and a comforting ritual he’s been doing for years.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T155457Z" creationid="哗啦" creationdate="20181217T155457Z">
+        <seg>他多年来都选择在这个咖啡馆写作，这能让他感到放松。</seg>
       </tuv>
     </tu>
     <tu>
