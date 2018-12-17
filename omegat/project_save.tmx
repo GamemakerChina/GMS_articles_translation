@@ -334,6 +334,22 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Are teams able to take conversations to separate areas where there is less outside noise or bother?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T153924Z" creationid="哗啦" creationdate="20181217T153924Z">
+        <seg>是否能把团队讨论的地方转移到不受外部噪音干扰的地方？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Are your 1:1s held in rooms where both participants feel comfortable and can trust that their conversation is private?</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T153826Z" creationid="哗啦" creationdate="20181217T153826Z">
+        <seg>你和别人的一对一谈话是否能让双方感到放松，能否让对方觉得谈话是私密的？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a community we will try to mend things when we get upset.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T154138Z" creationid="哗啦" creationdate="20181213T154138Z">
