@@ -1166,6 +1166,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cozy feedback</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T152559Z" creationid="哗啦" creationdate="20181218T152559Z">
+        <seg>舒适反馈</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cozy games are designed to focus the player on Not Urgent yet Important tasks that are unfortunately deprioritized.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T094053Z" creationid="哗啦" creationdate="20181202T094053Z">
@@ -2438,6 +2446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you can do so earnestly, consider these guidelines for maximally cozy feedback:</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T152826Z" creationid="哗啦" creationdate="20181218T152826Z">
+        <seg>如果你能认真做到这一点，请考虑一下方法：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If you can, sell products within the game that address real existing player needs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T154956Z" creationid="哗啦" creationdate="20181209T154956Z">
@@ -3386,6 +3402,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T154903Z" creationid="哗啦" creationdate="20181212T154903Z">
         <seg>更高层次需求的关键是和别人建立情感联系。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One of the most fruitful avenues for encouraging more coziness in design practice is by cozifying feedback processes, because it makes people feel safe and increases trust.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T152745Z" creationid="哗啦" creationdate="20181218T152745Z">
+        <seg>促进更加舒适的工作环境的一种非常有效的方式就是，让反馈方式变得舒适，这样能让人们感到安全，更加信任对方。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5362,6 +5386,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T043027Z" creationid="哗啦" creationdate="20181215T042933Z">
         <seg>Trust Heuristics and Settings&lt;x1/&gt;不要认为只能把别人分为两类，例如认为只有朋友才能相信，而陌生人一概不值得信任。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Trust is built upon relationships that form via repeat, positive interactions.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T152555Z" creationid="哗啦" creationdate="20181218T152555Z">
+        <seg>信任是建立在多次的，积极的互动之上的。</seg>
       </tuv>
     </tu>
     <tu>
