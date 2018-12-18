@@ -510,6 +510,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Be timely&lt;x1/&gt;: Providing processes for &lt;x2/&gt;\*immediate&lt;x3/&gt;* repair can restore a positive tone and return control to the person receiving feedback.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T153911Z" creationid="哗啦" creationdate="20181218T153911Z">
+        <seg>及时&lt;x1/&gt;：为 &lt;x2/&gt;\*immediate&lt;x3/&gt;* repair ca  n restore a positive tone and return control to the person receiving feedback.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Because it establishes intimacy and vulnerability, it can be used to lower barriers to purchase.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T153641Z" creationid="哗啦" creationdate="20181209T153641Z">
@@ -2098,6 +2106,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T160410Z" creationid="哗啦" creationdate="20181213T160410Z">
         <seg>让他们有机会能加深他们之间的感情。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Giving feedback cozily would also, presumably, lead to longer-lasting behavioral changes, as the motivation is intrinsic.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T154029Z" creationid="哗啦" creationdate="20181218T154029Z">
+        <seg>因为成员反馈的方式是能让他们感到舒适的，所以他们反馈的动机都是内在的，这样能导致时间更长的行为变化。</seg>
       </tuv>
     </tu>
     <tu>
