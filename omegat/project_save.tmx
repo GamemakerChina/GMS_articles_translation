@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>A conflict-driven culture may reach a successful local maxima, but there is a cost.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T154402Z" creationid="哗啦" creationdate="20181218T154402Z">
+        <seg>人们互相冲突的文化可能会让工作室成功，但这也是有代价的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A cozy environment tends to have the following benefits:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T151549Z" creationid="哗啦" creationdate="20181217T151549Z">
@@ -1918,6 +1926,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>For more information, see the previous PH report &lt;x1/&gt;Creating Emotionally Safe Workplaces in Game Development&lt;x2/&gt; .</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T154144Z" creationid="哗啦" creationdate="20181218T154144Z">
+        <seg>更多信息，请参考之前的PH报告&lt;x1/&gt;创建舒服的游戏开发工作场所&lt;x2/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>For more information, see the previous Project Horseshoe report  &lt;x1/&gt;Game design patterns that facilitate strangers becoming “friends”&lt;x2/&gt;</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T052614Z" creationid="哗啦" creationdate="20181214T052614Z">
@@ -2506,6 +2522,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T054631Z" creationid="哗啦" creationdate="20181214T054631Z">
         <seg>如果你开始讲话，其它角色可能会听你讲。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your working environment thrives on interpersonal conflict, anti-cozy patterns will predominate, and it may be very difficult to create a space, much less a culture, that can be reliably cozy.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T154411Z" creationid="哗啦" creationdate="20181218T154319Z">
+        <seg>如果人们在工作时或讨论时老是吵架拌嘴，那么工作环境显而易见一点也不舒适，更不用说营造一种舒适的文化了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4506,6 +4530,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T143813Z" creationid="哗啦" creationdate="20181211T143813Z">
         <seg>暴风雨之前的的宁静——《美国末日》中Ellie的吉他和长颈鹿。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The challenge of conflict</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T154150Z" creationid="哗啦" creationdate="20181218T154150Z">
+        <seg>冲突的变化</seg>
       </tuv>
     </tu>
     <tu>
