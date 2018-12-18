@@ -1310,6 +1310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create opportunities for groups from different cliques to spend repeatedly time with one another.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T152523Z" creationid="哗啦" creationdate="20181218T152523Z">
+        <seg>给属于不同团体的人创造机会，让他们能聚在一起互相交流。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create ways for players to kindly invite another person to a space or activity.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T020842Z" creationid="哗啦" creationdate="20181214T020842Z">
@@ -1554,6 +1562,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T102016Z" creationid="哗啦" creationdate="20181211T102016Z">
         <seg>强调仪式——季节，假日，白天黑夜，播种收获。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Encourage those that share unpleasant facts.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T152424Z" creationid="哗啦" creationdate="20181218T152424Z">
+        <seg>鼓励那些分享不开心事实的人。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4002,6 +4018,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T152817Z" creationid="哗啦" creationdate="20181204T152817Z">
         <seg>Self determination Theory&lt;x1/&gt;: 正如我们上面所介绍的，人们有内在的动力去追求自主、能力提升和与别人的练习。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Separate the role of manager and mentor (a senior developer not in the direct chain of management) to introduce a confidant who can be trusted and to remove strange power dynamics</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T152336Z" creationid="哗啦" creationdate="20181218T152336Z">
+        <seg>将经理和指导员（不是高层管理人员）分开，让指导员变成可以被成员信任知己，从而消除奇怪的权力制度。</seg>
       </tuv>
     </tu>
     <tu>
