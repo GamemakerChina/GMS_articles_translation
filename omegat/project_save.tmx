@@ -550,6 +550,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Both still contribute to burnout, increased bug counts, and frustration.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T151039Z" creationid="哗啦" creationdate="20181218T151039Z">
+        <seg>但两者都会让成员倦怠，甚至泄气，不可避免地增加bug的数量，</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Breadth of optional activities</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181208T160819Z" creationid="哗啦" creationdate="20181208T160819Z">
@@ -1306,6 +1314,22 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T020842Z" creationid="哗啦" creationdate="20181214T020842Z">
         <seg>设计师需要为玩家提供能让他们邀请别人参加活动的方式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crunch can result from extrinsic social pressure.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T151101Z" creationid="哗啦" creationdate="20181218T151101Z">
+        <seg>加班可能是由外部社会因素引起的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Crunch is not cozy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T151114Z" creationid="哗啦" creationdate="20181218T151114Z">
+        <seg>加班一点儿也不舒适</seg>
       </tuv>
     </tu>
     <tu>
@@ -3550,10 +3574,26 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>People who can work from home (often a safe, quiet space) or within a flexible range of hours report less stress, higher job satisfaction and higher productivity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T151233Z" creationid="哗啦" creationdate="20181218T151233Z">
+        <seg>在家工作（家通常是安全安静的）或那些能自由安排工作时间的人压力较小，工作满意度和效率都较高。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Permission setting is perhaps the most important tool for prevent a social coziness calamity.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T160829Z" creationid="哗啦" creationdate="20181213T160829Z">
         <seg>让玩家可以选择加入某些交互的设置能让舒适感不被削弱。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permit opt-in work schedules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T151240Z" creationid="哗啦" creationdate="20181218T151126Z">
+        <seg>允许自由安排工作计划表。</seg>
       </tuv>
     </tu>
     <tu>
