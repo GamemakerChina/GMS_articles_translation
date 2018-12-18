@@ -32,8 +32,8 @@
       <tuv lang="EN-US">
         <seg>A conflict-driven culture may reach a successful local maxima, but there is a cost.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T154448Z" creationid="哗啦" creationdate="20181218T154402Z">
-        <seg>人们互相抵触的文化可能会让工作室成功，但这也是有代价的。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T154757Z" creationid="哗啦" creationdate="20181218T154402Z">
+        <seg>人们互相争论拌嘴的文化可能会让工作室成功，但这也是有代价的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2528,8 +2528,8 @@
       <tuv lang="EN-US">
         <seg>If your working environment thrives on interpersonal conflict, anti-cozy patterns will predominate, and it may be very difficult to create a space, much less a culture, that can be reliably cozy.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T154411Z" creationid="哗啦" creationdate="20181218T154319Z">
-        <seg>如果人们在工作时或讨论时老是吵架拌嘴，那么工作环境显而易见一点也不舒适，更不用说营造一种舒适的文化了。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T154801Z" creationid="哗啦" creationdate="20181218T154319Z">
+        <seg>如果人们在工作时或讨论时老是争论拌嘴，那么工作环境显而易见一点也不舒适，更不用说营造一种舒适的文化了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3706,6 +3706,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T154830Z" creationid="哗啦" creationdate="20181212T154830Z">
         <seg>舒适社会机制的模式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>People who are unable to function in this kind of environment will either fail to perform (“He was quiet and didn’t volunteer many ideas”) or leave.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T154727Z" creationid="哗啦" creationdate="20181218T154727Z">
+        <seg>不适应这种环境的人要么表现不佳(“他很安静，提出不了太多想法”)，要么干脆离开。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5352,8 +5360,8 @@
       <tuv lang="EN-US">
         <seg>Though fans of conflict may find this surprising, openness actually suffers as non-combative people put up protective walls.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T154616Z" creationid="哗啦" creationdate="20181218T154616Z">
-        <seg>喜欢互相抵触的人可能会发现，当那些低调的人把自己的内心变得坚硬时，工作环境就没那么开放了。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T154912Z" creationid="哗啦" creationdate="20181218T154616Z">
+        <seg>喜欢互相争吵的人可能会发现，当那些不太喜欢争论的人不再表达自己的想法时，思想碰撞就没那么有效了。</seg>
       </tuv>
     </tu>
     <tu>
