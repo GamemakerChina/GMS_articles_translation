@@ -494,6 +494,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Be clear&lt;x1/&gt;: Ambiguity creates more pressure, and a generalized threat.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T153010Z" creationid="哗啦" creationdate="20181218T153010Z">
+        <seg>清晰&lt;x1/&gt;歧义会造成错误和损失。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Be sure to include the following cozy concepts:</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T152852Z" creationid="哗啦" creationdate="20181217T152852Z">
@@ -2370,6 +2378,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T152725Z" creationid="哗啦" creationdate="20181207T152725Z">
         <seg>所有的声音都应该有清晰可辨的自然的声源。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Identifying specific behaviors, instead of identities, is similarly less threatening.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T153047Z" creationid="哗啦" creationdate="20181218T153047Z">
+        <seg>对事不对人，可以减少失误。</seg>
       </tuv>
     </tu>
     <tu>
