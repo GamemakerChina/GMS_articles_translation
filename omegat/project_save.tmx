@@ -1238,6 +1238,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cozy time&lt;x1/&gt;: Time can also carry aspects of coziness.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T155622Z" creationid="哗啦" creationdate="20181217T155622Z">
+        <seg>舒适时光&lt;x1/&gt;：某个时光也可能是令人舒适的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crafting at the campfire in Don’t Starve together during the night.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T042459Z" creationid="哗啦" creationdate="20181215T042459Z">
@@ -3368,8 +3376,8 @@
       <tuv lang="EN-US">
         <seg>Or it is gloriously sunny.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T155513Z" creationid="哗啦" creationdate="20181217T155237Z">
-        <seg>或阳光洒落下来。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T155551Z" creationid="哗啦" creationdate="20181217T155237Z">
+        <seg>或是洒落下来的阳光。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3440,8 +3448,8 @@
       <tuv lang="EN-US">
         <seg>Outside, it is often raining gently.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T155519Z" creationid="哗啦" creationdate="20181217T155206Z">
-        <seg>外面，要不是淅淅沥沥地下着小雨。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T155543Z" creationid="哗啦" creationdate="20181217T155206Z">
+        <seg>外面，或是是淅淅沥沥地下着小雨。</seg>
       </tuv>
     </tu>
     <tu>
