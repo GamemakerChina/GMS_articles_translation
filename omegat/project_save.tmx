@@ -1446,6 +1446,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Don’t make impossible schedules that force overtime.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T151427Z" creationid="哗啦" creationdate="20181218T151427Z">
+        <seg>不要制定那些肯定会超时的工作任务。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Down-to-earth - Humble and grounded.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T101844Z" creationid="哗啦" creationdate="20181211T101844Z">
@@ -1626,6 +1634,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T042050Z" creationid="哗啦" creationdate="20181212T042050Z">
         <seg>例子：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Explicitly offer sabbaticals, “mental health days”, and even the ability to take a break or pause a meeting can help reinforce the value of consensual participation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T151401Z" creationid="哗啦" creationdate="20181218T151401Z">
+        <seg>明确为成员提供休假的计划，“心理健康日”服务，甚至让他们在开会时有权暂停会议都能增强他们参与的程度。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5082,6 +5098,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T151542Z" creationid="哗啦" creationdate="20181214T151542Z">
         <seg>这种能被接受者感知到的真诚，就像推动引擎的飞机燃料，能让友谊的飞机飞得更高更远。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This reduces developer agency and long term leads to bad decisions and team churn.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T151542Z" creationid="哗啦" creationdate="20181218T151542Z">
+        <seg>这会降低开发者的积极性，长时期这样会使团队走向错误的方向，甚至让团队陷入混乱。</seg>
       </tuv>
     </tu>
     <tu>
