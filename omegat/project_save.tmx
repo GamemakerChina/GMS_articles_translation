@@ -2286,6 +2286,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>However, the social dynamics of secrecy can result in decidedly anti-cozy patterns.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T151901Z" creationid="哗啦" creationdate="20181218T151901Z">
+        <seg>但是这种互相保密的模式可能会让办公室变得极为尴尬。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>However, the space felt cozy since you were together with other player who you knew would leap to your mutual defense at the appearance of danger.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T154350Z" creationid="哗啦" creationdate="20181214T154350Z">
@@ -2802,6 +2810,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T153128Z" creationid="哗啦" creationdate="20181212T153128Z">
         <seg>让人欣慰的是，在社区中，生活和玩家的任务是分开的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is crucial to have people you can confide in about doubts or concerns.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T151734Z" creationid="哗啦" creationdate="20181218T151734Z">
+        <seg>拥有一个可以吐露心声的知己是非常重要的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3962,6 +3978,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T092033Z" creationid="哗啦" creationdate="20181202T092033Z">
         <seg>其次, 我们认为游戏是满足人们需求的一种&lt;/x1&gt;方法：人类作为一种动物有满足各种需求的动力。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Secrecy and trust are complicated issues in an office.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T151658Z" creationid="哗啦" creationdate="20181218T151658Z">
+        <seg>办公室里一个复杂的问题就是信任对方并互相保密。</seg>
       </tuv>
     </tu>
     <tu>
