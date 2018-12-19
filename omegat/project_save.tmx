@@ -3262,6 +3262,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>It is highly likely that “interior” spaces in early role-playing games eliminated exteriors for technological restrictions, but this focus continues to be used in modern cozy games, from &lt;x2/&gt;Animal Crossing&lt;x3/&gt; to &lt;x4/&gt;Terraria&lt;x5/&gt;.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T143246Z" creationid="哗啦" creationdate="20181219T143246Z">
+        <seg>早期的角色扮演游戏由于技术限制而只有室内空间，没有室外空间，但现在虽然没了技术限制，但只有室内空间这点因为可以带来舒适感而被保留了下来，像 &lt;x2/&gt;《动物之森》&lt;x3/&gt; 和 &lt;x4/&gt;《泰勒瑞拉》&lt;x5/&gt;。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>It is impossible to have a quiet conversation on a difficult subject while being attacked by a bear.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T093012Z" creationid="哗啦" creationdate="20181202T093012Z">
