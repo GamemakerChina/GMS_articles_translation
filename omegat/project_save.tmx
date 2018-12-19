@@ -310,6 +310,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>An anecdote shreds some light.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T071338Z" creationid="哗啦" creationdate="20181219T071338Z">
+        <seg>一件轶闻解释了原因。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>An employee may not wish to report an issue to their boss for fear of the messenger being shot.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T065939Z" creationid="哗啦" creationdate="20181219T065939Z">
@@ -1624,8 +1632,8 @@
       <tuv lang="EN-US">
         <seg>Developers reap what they sow&lt;x1/&gt;: They’ll in turn use those same social norms when interacting with the developer.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T101138Z" creationid="哗啦" creationdate="20181205T101138Z">
-        <seg>一分耕耘一分收获：&lt;x1/&gt;: They’ll in turn use those same social norms when interacting with the developer.</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T071442Z" creationid="哗啦" creationdate="20181205T101138Z">
+        <seg>一分耕耘一分收获&lt;x1/&gt;当他们和开发者交流时，他们也会受到开发者的影响，进而采用相同的社会规范。</seg>
       </tuv>
     </tu>
     <tu>
