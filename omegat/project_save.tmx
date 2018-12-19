@@ -662,6 +662,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Blue ocean products for unmet player motivations</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T071249Z" creationid="哗啦" creationdate="20181219T071249Z">
+        <seg>用来满足玩家需求的蓝海产品</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Both still contribute to burnout, increased bug counts, and frustration.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T151039Z" creationid="哗啦" creationdate="20181218T151039Z">
@@ -1286,6 +1294,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cozy activities are harvesting and cooking are never required to progress.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T071201Z" creationid="哗啦" creationdate="20181219T071201Z">
+        <seg>例如收获和烹饪这样的舒适的活动，我们并不被要求取得进步。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cozy audio is continuous, soft, and non-intrusive, with an element of familiarity.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T150637Z" creationid="哗啦" creationdate="20181207T150637Z">
@@ -1770,6 +1786,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T152424Z" creationid="哗啦" creationdate="20181218T152424Z">
         <seg>鼓励那些分享不开心事实的人。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Ensemble - Stories of a “chosen one” that emphasize the exceptionalism of the player are at odds with authenticity.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T071112Z" creationid="哗啦" creationdate="20181219T071112Z">
+        <seg>总体效果——老是让玩家“二选一”的故事在逻辑上很奇怪</seg>
       </tuv>
     </tu>
     <tu>
@@ -6570,6 +6594,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T150219Z" creationid="哗啦" creationdate="20181211T150219Z">
         <seg>“诚实劳动” - 对辛勤劳动的庆祝</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“Immigrant’s Story” - Starting a new life in a new place with a fresh start</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T070947Z" creationid="哗啦" creationdate="20181219T070947Z">
+        <seg>“移民的故事” - 以新的开始在新的地方开始新的生活</seg>
       </tuv>
     </tu>
     <tu>
