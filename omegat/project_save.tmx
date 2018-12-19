@@ -534,6 +534,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Automatically color a chat room based on how many players are present, or how intimate the chat is.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T070703Z" creationid="哗啦" creationdate="20181219T070703Z">
+        <seg>根据聊天的人数和聊天方式，自动更换聊天室的颜色。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Autumn and winter are especially rich in potential, with a good harvest and refuge from cold weather causing potential any interior space to become cozy.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T072233Z" creationid="哗啦" creationdate="20181207T072233Z">
@@ -4422,6 +4430,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Safety in numbers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T070931Z" creationid="哗啦" creationdate="20181219T070931Z">
+        <seg>和朋友在一起</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Safety in the storm - Dark Souls campfire</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T102857Z" creationid="哗啦" creationdate="20181211T102857Z">
@@ -4962,6 +4978,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T153943Z" creationid="哗啦" creationdate="20181213T153943Z">
         <seg>大家都会鼓励和他人友好相处的行为。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The comradery of fishing together in the PvP areas of World of Warcraft</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T070854Z" creationid="哗啦" creationdate="20181219T070854Z">
+        <seg>《魔兽争霸》中在PVP战场一起捕鱼的伙伴</seg>
       </tuv>
     </tu>
     <tu>
@@ -5856,8 +5880,8 @@
       <tuv lang="EN-US">
         <seg>Trust Heuristics and Settings&lt;x1/&gt;: Move beyond binary expressions of trust and permission, such as friend or not friend.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T043027Z" creationid="哗啦" creationdate="20181215T042933Z">
-        <seg>Trust Heuristics and Settings&lt;x1/&gt;不要认为只能把别人分为两类，例如认为只有朋友才能相信，而陌生人一概不值得信任。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T070757Z" creationid="哗啦" creationdate="20181215T042933Z">
+        <seg>探索信任&lt;x1/&gt;：不要认为只能把别人分为两类，例如认为只有朋友才能相信，而陌生人一概不值得信任。</seg>
       </tuv>
     </tu>
     <tu>
