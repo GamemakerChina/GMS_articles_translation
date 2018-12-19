@@ -398,6 +398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>As a colleague, I want you to feel safe to express your inner self, to take creative risks in your craft.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T063613Z" creationid="哗啦" creationdate="20181219T063613Z">
+        <seg>作为同事，我希望您在表达内心深处的自我时不要感到害怕，只需要尽情发挥。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>As a community we will try to mend things when we get upset.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T154138Z" creationid="哗啦" creationdate="20181213T154138Z">
@@ -2506,6 +2514,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T152334Z" creationid="哗啦" creationdate="20181207T152334Z">
         <seg>如果要想音乐变得更接近真实，更有人性味，那么你可以在音乐中加入一些细微的瑕疵，例如多余的音，或弹奏错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I take joy from the games you make, and I hope you feel fulfilled when you make them.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T063439Z" creationid="哗啦" creationdate="20181219T063439Z">
+        <seg>我游玩您的游戏时感到很愉快，想必您在制作这些游戏时也是很充实的。</seg>
       </tuv>
     </tu>
     <tu>
