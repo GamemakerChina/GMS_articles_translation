@@ -2526,6 +2526,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>I invite you to make a game that offers moments for players to reflect and be at ease.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T064101Z" creationid="哗啦" creationdate="20181219T064101Z">
+        <seg>我想邀请你制作一款游戏，能让玩家远离世俗喧嚣，进入一个宁静是世界，放松和反思。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>I take joy from the games you make, and I hope you feel fulfilled when you make them.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T063439Z" creationid="哗啦" creationdate="20181219T063439Z">
@@ -6330,6 +6338,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T154335Z" creationid="哗啦" creationdate="20181213T154335Z">
         <seg>而反过来影响他们。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You don’t have to show it to me; you don’t have to share it with anyone.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T064123Z" creationid="哗啦" creationdate="20181219T064123Z">
+        <seg>你不必向我展示；你也不必向其他人展示。</seg>
       </tuv>
     </tu>
     <tu>
