@@ -1486,6 +1486,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cozy-Adjacent: Overlapping But Not-Cozy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T071729Z" creationid="哗啦" creationdate="20181219T071729Z">
+        <seg>看起来是舒适的但实际上不是</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Crafting at the campfire in Don’t Starve together during the night.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T042459Z" creationid="哗啦" creationdate="20181215T042459Z">
@@ -2146,6 +2154,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T151211Z" creationid="哗啦" creationdate="20181209T151211Z">
         <seg>对某些玩家来说，如果他们在做自己给自己规定的任务——例如收获或重新种植庄稼——也可以在这种安全，柔和，令人满意的方式中放松。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For this year's  &lt;x1/&gt;Project Horseshoe,&lt;x2/&gt; an annual game designer think tank, our workgroup dug deep into how to design cozy games.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T071612Z" creationid="哗啦" creationdate="20181219T071612Z">
+        <seg>在今年的&lt;x1/&gt;Project Horseshoe,&lt;x2/&gt; ，一个年度的游戏设计师智库，我们工作组深入研究了如何设计出一款舒适的游戏。</seg>
       </tuv>
     </tu>
     <tu>
@@ -3078,6 +3094,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Increase retention by reducing churn triggers</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T071817Z" creationid="哗啦" creationdate="20181219T071817Z">
+        <seg>通过不踩雷区来减少玩家的流失</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Indistinct chatter</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T152942Z" creationid="哗啦" creationdate="20181207T152942Z">
@@ -3338,6 +3362,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T020148Z" creationid="哗啦" creationdate="20181214T020148Z">
         <seg>关系层次：&lt;x1/&gt;在多层次的社会模型中（类似洋葱），人与人之间的关系是从没有互动开始的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let conversations ramble</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T071925Z" creationid="哗啦" creationdate="20181219T071925Z">
+        <seg>谈天论地</seg>
       </tuv>
     </tu>
     <tu>
@@ -4034,6 +4066,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T152351Z" creationid="哗啦" creationdate="20181213T152351Z">
         <seg>随着时间推移，在舒适空间中生活的人们会产生更牢固的友谊。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Overview</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T071633Z" creationid="哗啦" creationdate="20181219T071633Z">
+        <seg>概览</seg>
       </tuv>
     </tu>
     <tu>
