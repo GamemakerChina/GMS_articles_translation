@@ -30,6 +30,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&lt;x2/&gt;Hedonic&lt;x3/&gt; coziness is a lesser state that lacks the psychological safety necessary for open and honest conversations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T011820Z" creationid="哗啦" creationdate="20181219T011820Z">
+        <seg>只顾追求舒适地&lt;x2/&gt;享乐&lt;x3/&gt;会导致人们缺乏必要的真诚和心理上的信任。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>A conflict-driven culture may reach a successful local maxima, but there is a cost.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T154757Z" creationid="哗啦" creationdate="20181218T154402Z">
@@ -3010,6 +3018,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181209T025204Z" creationid="哗啦" creationdate="20181209T025057Z">
         <seg>熟知：&lt;x1/&gt;:活动开展是必须符合条件的。 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Lack of dissent&lt;x1/&gt;: There can be an escape into coziness where people are not willing to address difficult topics for fear of upsetting a pleasure situation.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T011634Z" creationid="哗啦" creationdate="20181219T011634Z">
+        <seg>缺乏进取精神&lt;x1/&gt;：当人们不太想去克服困难，而想尽情地玩乐时，他们就会来到让他们感到舒适的地方。</seg>
       </tuv>
     </tu>
     <tu>
