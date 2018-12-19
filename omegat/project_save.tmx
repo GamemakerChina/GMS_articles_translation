@@ -1974,6 +1974,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Forcing Intimacy&lt;x1/&gt;: Intimacy requires both parties to feel comfortable, and pressure is inimical to it.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T011403Z" creationid="哗啦" creationdate="20181219T011403Z">
+        <seg>推动亲密感&lt;x1/&gt;：亲密的人应该让彼此感到舒适，有压力显然是不好的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Forcing cozy causes it to fall apart</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T044341Z" creationid="哗啦" creationdate="20181215T044341Z">
@@ -4018,6 +4026,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T044437Z" creationid="哗啦" creationdate="20181215T044437Z">
         <seg>记住，不是越多越好。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Remember that social cues such as call-and-response can help gauge willingness to proceed, and ensure that opting-out of coziness is low-pressure too.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T011247Z" creationid="哗啦" creationdate="20181219T011247Z">
+        <seg>请记住，诸如“请求和响应”和相应之类的社交信号能让你察觉对方是否愿意继续进行某项活动，并确保对方想退出时能舒适地退出，而不用感到任何压力。</seg>
       </tuv>
     </tu>
     <tu>
