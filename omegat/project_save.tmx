@@ -272,8 +272,8 @@
       <tuv lang="EN-US">
         <seg>Although elements of welcoming and pleasantness can help mitigate other discomforts, coziness shouldn’t be used to manipulate and lull candidates into a false trust.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T061050Z" creationid="哗啦" creationdate="20181219T061050Z">
-        <seg>虽然令人欢乐和愉快的事物能让人舒缓情绪，但不应该用这种方式欺骗别人，让他们来建立起错误的信任</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T061225Z" creationid="哗啦" creationdate="20181219T061050Z">
+        <seg>虽然令人欢乐和愉快的事物能让人舒缓情绪，但不应该用这种方式欺骗别人，让他们觉得超出自己能力范围之外的任务很轻松。</seg>
       </tuv>
     </tu>
     <tu>
@@ -306,6 +306,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T151756Z" creationid="哗啦" creationdate="20181202T151756Z">
         <seg>突然遇到的事可能会让人感到被威胁，但也可能只是暗示了一种期待，期待互动、回报或责任.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>And on a purely pragmatic level, broadening your game’s appeal means more sales for the same effort.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T061437Z" creationid="哗啦" creationdate="20181219T061437Z">
+        <seg>务实一点来说，游戏的吸引力越大，销量越大。</seg>
       </tuv>
     </tu>
     <tu>
@@ -906,6 +914,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181208T155224Z" creationid="哗啦" creationdate="20181208T155224Z">
         <seg>强制机制会降低游戏的舒适性</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Conclusions</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T061229Z" creationid="哗啦" creationdate="20181219T061229Z">
+        <seg>结论</seg>
       </tuv>
     </tu>
     <tu>
@@ -2590,6 +2606,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If you’ve made it this far, you’ve seen there is a deep well of emotionally resonant design patterns you can use to make almost any game cozier.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T061355Z" creationid="哗啦" creationdate="20181219T061355Z">
+        <seg>如果你已经做到了这一点，你可以在任何你所制作的游戏中，加入令玩家印象深刻的情感共鸣设计模式。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ignis in Final Fantasy XV taking pride and pleasure in cooking for the party</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T042228Z" creationid="哗啦" creationdate="20181212T042228Z">
@@ -3400,8 +3424,8 @@
       <tuv lang="EN-US">
         <seg>Not being honest about the stakes or impact of a power differential&lt;x1/&gt;: Consider the impossibility of hosting a truly cozy job interviews.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T060843Z" creationid="哗啦" creationdate="20181219T060843Z">
-        <seg>不能因材施教&lt;x1/&gt;：不可能让面试过程变得真正舒适。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T061157Z" creationid="哗啦" creationdate="20181219T060843Z">
+        <seg>不能合适地以能力划分成员&lt;x1/&gt;：不可能让面试过程变得真正舒适。</seg>
       </tuv>
     </tu>
     <tu>
@@ -5794,6 +5818,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181212T155428Z" creationid="哗啦" creationdate="20181212T155428Z">
         <seg>我们不大可能轻易相信他们，所以我们一般都是谨慎地行事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We encourage developers to build cozy games.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T061244Z" creationid="哗啦" creationdate="20181219T061244Z">
+        <seg>我们鼓励开发者们设计舒适游戏。</seg>
       </tuv>
     </tu>
     <tu>
