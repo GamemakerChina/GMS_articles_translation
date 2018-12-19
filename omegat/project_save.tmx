@@ -680,8 +680,8 @@
       <tuv lang="EN-US">
         <seg>But I would like to be a companion in the journey towards cozier games, and I think others would, too, if you would have us.It’s difficult and slow and I’m probably asking a lot from you.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T064429Z" creationid="哗啦" creationdate="20181219T064429Z">
-        <seg>我只是想和你成为开发舒适游戏道路上的伙伴。我想如果你愿意的话，其他人也会同意的。尽管这条路非常崎岖，前进的速度也很慢，我知道目前这样对你的要求过高了。，</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T065152Z" creationid="哗啦" creationdate="20181219T064429Z">
+        <seg>我只是想和你成为开发舒适游戏道路上的伙伴。我想如果你愿意的话，其他人也会同意的。尽管这条路非常崎岖，前进的速度也很慢，我知道目前这样对你的要求过高了。</seg>
       </tuv>
     </tu>
     <tu>
@@ -704,8 +704,8 @@
       <tuv lang="EN-US">
         <seg>But if you try and fall short of your expectations, please know that I will still support and celebrate you.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T064724Z" creationid="哗啦" creationdate="20181219T064724Z">
-        <seg>但如果你尝试过了，就算没有到达自己的期望，我也会为你欢呼，为你喝彩。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T065208Z" creationid="哗啦" creationdate="20181219T064724Z">
+        <seg>但如果你能勇于尝试，就算没有到达自己的期望，我也会为你欢呼，为你喝彩。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1506,6 +1506,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T145700Z" creationid="哗啦" creationdate="20181202T145700Z">
         <seg>危险、恐惧、威胁：&lt;x1/&gt;任何迫在眉睫的危险都会触发玩家的生物反应。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Dear designer whom I care for,I wish for you that game-making be a refuge from the storm.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T065059Z" creationid="哗啦" creationdate="20181219T065059Z">
+        <seg>我所关心的亲爱的设计师，我祝福你的游戏设计过程能成为远离喧嚣的世外桃源。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2544,16 +2552,16 @@
       <tuv lang="EN-US">
         <seg>I care about you, and your work is but a small part of what makes you wonderful.Good luck, if and when you’re ready,-- (your signature)&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T064918Z" creationid="哗啦" creationdate="20181219T064918Z">
-        <seg>我很关心你，你的工作只是让你的人生变得丰富多彩的一小部分。如果你已经准备好了，那么我就先祝你好运。--（你的签名）&lt;x1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T065236Z" creationid="哗啦" creationdate="20181219T064918Z">
+        <seg>我很关心你，你所做的只是让你的人生变得丰富多彩的一小部分。如果你已经准备好了，那么我就先祝你好运。--（你的签名）&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
       <tuv lang="EN-US">
         <seg>I invite you to make a game that offers moments for players to reflect and be at ease.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T064101Z" creationid="哗啦" creationdate="20181219T064101Z">
-        <seg>我想邀请你制作一款游戏，能让玩家远离世俗喧嚣，进入一个宁静是世界，放松和反思。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T065133Z" creationid="哗啦" creationdate="20181219T064101Z">
+        <seg>我想邀请你制作一款游戏，能让玩家远离世俗喧嚣，进入一个宁静的世界，放松和反思。</seg>
       </tuv>
     </tu>
     <tu>
