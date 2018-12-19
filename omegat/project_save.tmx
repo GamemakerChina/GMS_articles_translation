@@ -648,8 +648,8 @@
       <tuv lang="EN-US">
         <seg>Beneath the aesthetics of a game, its underlying mechanics may seem at first neutral or benign with regard to coziness.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181208T154203Z" creationid="哗啦" creationdate="20181208T154203Z">
-        <seg>按照游戏审美的观点来看，虽然一款游戏的游戏机制并不让人感到舒适或不舒适，但他可能也会让人感到舒适。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T072049Z" creationid="哗啦" creationdate="20181208T154203Z">
+        <seg>按照游戏审美的观点来看，虽然一款游戏的游戏机制并不让人感觉怎么样，但这款游戏也可能也会让人感到舒适。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2016,8 +2016,8 @@
       <tuv lang="EN-US">
         <seg>Focus:&lt;x1/&gt; Elimination of interruptions, pressures or sources of unwanted distraction, allows the player to feel a place is knowable and thereby becomes familiar and comfortable.</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T063053Z" creationid="哗啦" creationdate="20181207T063053Z">
-        <seg>Focus:&lt;x1/&gt;去掉那些会令人分心或感到有压力的元素，让玩家觉得某个地方不是未知的，而是熟悉和舒适的。</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T072115Z" creationid="哗啦" creationdate="20181207T063053Z">
+        <seg>集中注意力：&lt;x1/&gt;去掉那些会令人分心或感到有压力的元素，让玩家觉得某个地方不是未知的，而是熟悉和舒适的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -4322,6 +4322,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T043803Z" creationid="哗啦" creationdate="20181215T043803Z">
         <seg>能保护玩家隐私的反馈渠道能让玩家更愉快地反馈。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Protection &amp; Support:&lt;x1/&gt; Clear signals of strong safety and comfort, from the environment and characters around the player, signal that this is a safe place in which to explore higher-order needs.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T072231Z" creationid="哗啦" creationdate="20181219T072231Z">
+        <seg>保护和支持：&lt;x1/&gt; 用周围环境和角色所发出来的清晰信号向角色表面，这儿是安全的，可以探索自己更高阶段需求。</seg>
       </tuv>
     </tu>
     <tu>
