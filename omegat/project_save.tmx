@@ -206,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Actively police interactions were people are punished for being open and trusting.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T070323Z" creationid="哗啦" creationdate="20181219T070323Z">
+        <seg>让管理层和普通成员积极互动，让那些被粗暴对待的人也能变得开放和互相信任。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Address the low fidelity level of virtual social interaction head on.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181215T042725Z" creationid="哗啦" creationdate="20181215T042725Z">
@@ -506,6 +514,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181203T154902Z" creationid="哗啦" creationdate="20181203T154902Z">
         <seg>吸引到一个更好的社区</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Augmenting Non-cozy Games</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T070542Z" creationid="哗啦" creationdate="20181219T070542Z">
+        <seg>增强非舒适性游戏中的舒适感</seg>
       </tuv>
     </tu>
     <tu>
@@ -4338,6 +4354,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T153259Z" creationid="哗啦" creationdate="20181218T153259Z">
         <seg>尊重意愿&lt;x1/&gt;尊重别人的隐私，秘密，拥有足够的耐心，能让大家更加信任彼此。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Respite&lt;x1/&gt;: Finally, you set your burden down to reset the loop and save your progress.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T070514Z" creationid="哗啦" creationdate="20181219T070514Z">
+        <seg>休息&lt;x1/&gt;：最后，你完成了任务，心中的石头落了地，你就可以保持你的进度，以待下一次冒险。</seg>
       </tuv>
     </tu>
     <tu>
