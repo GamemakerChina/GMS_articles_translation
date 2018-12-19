@@ -1126,6 +1126,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Coziness is healing, validating, collaborative, and kind.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T062705Z" creationid="哗啦" creationdate="20181219T062705Z">
+        <seg>舒适感是治愈的，健康的，协作的，善意的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Coziness is player dependent</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181205T102919Z" creationid="哗啦" creationdate="20181205T102919Z">
@@ -2806,6 +2814,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>In that coziness creates spaces of plenty, it provides focus amongst chaos and allows us to embrace our highest level and most human pursuits.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T062432Z" creationid="哗啦" creationdate="20181219T062432Z">
+        <seg>是因为舒适感让我们的精神变得富有，它让我们知道在混乱中应该怎样做，让我们追求更高品质的生活，更人性化的生活。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>In that coziness elevates the softer, gentler aspects of life, it calms a threat-weary population and brings relief from fear.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T062335Z" creationid="哗啦" creationdate="20181219T062335Z">
@@ -2826,6 +2842,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T062242Z" creationid="哗啦" creationdate="20181219T062242Z">
         <seg>是因为舒适感鼓励我们用积极方法去解决冲突，这样能有力地消除社会分歧。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In that coziness offers us spaces of choice and support, it allows us to explore our underlying, intrinsic motivations.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T062528Z" creationid="哗啦" creationdate="20181219T062528Z">
+        <seg>是因为舒适感给我们提供了选择的空间，它会支持我们探索我们内心。</seg>
       </tuv>
     </tu>
     <tu>
