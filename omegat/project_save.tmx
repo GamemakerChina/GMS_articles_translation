@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_10_r10436" segtype="sentence" srclang="EN-US"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="OmegaT-4.1.5" segtype="sentence" srclang="EN-US"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -4002,6 +4002,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T151941Z" creationid="哗啦" creationdate="20181218T151941Z">
         <seg>或者一小股觉得被别人冷落的人会形成小团队。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Original: http://www.lostgarden.com/2018/01/cozy-games.html</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="deciia" changedate="20181117T094051Z" creationid="deciia" creationdate="20181117T094051Z">
+        <seg>原文：http://www.lostgarden.com/2018/01/cozy-games.html</seg>
       </tuv>
     </tu>
     <tu>
