@@ -1432,8 +1432,8 @@
       <tuv lang="EN-US">
         <seg>Cozy moments in any game can help reset or reframe the player’s mindset, as exemplified by the visuals and music of the game resume sequence in &lt;x1/&gt;Stardew Valley&lt;x2/&gt; (argued by Jeff Ramos of Polygon to be a key element in the game’s pastoral fantasy).</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181206T151457Z" creationid="哗啦" creationdate="20181206T151457Z">
-        <seg>游戏中的舒适舒适时刻可以帮助玩家调整心态。例如游戏 &lt;x1/&gt;《星露谷物语》&lt;x2/&gt;中所使用的视觉和音乐播放序列 (argued by Jeff Ramos of Polygon to be a key element in the game’s pastoral fantasy).</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T143730Z" creationid="哗啦" creationdate="20181206T151457Z">
+        <seg>游戏中的舒适舒适时刻可以帮助玩家调整心态。例如游戏 &lt;x1/&gt;《星露谷物语》&lt;x2/&gt;中所使用的视觉和音乐播放序列 (???)（这被Ploygon工作室的Jeff Ramos认为是理想中田园生活中的关键因素）。</seg>
       </tuv>
     </tu>
     <tu>
@@ -2010,6 +2010,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181213T153037Z" creationid="哗啦" creationdate="20181213T153037Z">
         <seg>关注那些你可以做的积极的事，不去做那些你不能做的事。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Focus on their strengths.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T143743Z" creationid="哗啦" creationdate="20181219T143743Z">
+        <seg>专注于自己的优势。</seg>
       </tuv>
     </tu>
     <tu>
