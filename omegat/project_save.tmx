@@ -270,6 +270,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Although elements of welcoming and pleasantness can help mitigate other discomforts, coziness shouldn’t be used to manipulate and lull candidates into a false trust.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T061050Z" creationid="哗啦" creationdate="20181219T061050Z">
+        <seg>虽然令人欢乐和愉快的事物能让人舒缓情绪，但不应该用这种方式欺骗别人，让他们来建立起错误的信任</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Ambient Narratives</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181211T100835Z" creationid="哗啦" creationdate="20181211T100835Z">
@@ -3390,6 +3398,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Not being honest about the stakes or impact of a power differential&lt;x1/&gt;: Consider the impossibility of hosting a truly cozy job interviews.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T060843Z" creationid="哗啦" creationdate="20181219T060843Z">
+        <seg>不能因材施教&lt;x1/&gt;：不可能让面试过程变得真正舒适。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Not surprisingly, many of the factors identified by Maslow and Covey are powerful extrinsic motivators that disrupt a player’s healthy prioritization of needs.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181202T094514Z" creationid="哗啦" creationdate="20181202T094514Z">
@@ -3538,6 +3554,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T152745Z" creationid="哗啦" creationdate="20181218T152745Z">
         <seg>促进更加舒适的工作环境的一种非常有效的方式就是，让反馈方式变得舒适，这样能让人们感到安全，更加信任对方。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One participant (the interviewee) cannot feel safe when the course of their life is at stake.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T060912Z" creationid="哗啦" creationdate="20181219T060912Z">
+        <seg>当某个参与者感到生命受到威胁时，他们就不会感到安全。</seg>
       </tuv>
     </tu>
     <tu>
