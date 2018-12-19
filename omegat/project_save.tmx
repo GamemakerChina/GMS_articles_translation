@@ -56,8 +56,8 @@
       <tuv lang="EN-US">
         <seg>A cozy invitation</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T063102Z" creationid="哗啦" creationdate="20181219T063102Z">
-        <seg>一个舒适的邀请</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T065721Z" creationid="哗啦" creationdate="20181219T063102Z">
+        <seg>欣慰的邀请</seg>
       </tuv>
     </tu>
     <tu>
@@ -298,6 +298,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T151722Z" creationid="哗啦" creationdate="20181207T151722Z">
         <seg>这应该是环境音效，是动态的或是会突然出现无法预料的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An employee may not wish to report an issue to their boss for fear of the messenger being shot.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T065939Z" creationid="哗啦" creationdate="20181219T065939Z">
+        <seg>成员可能不敢向老板反映问题，因为害怕被别人攻击。</seg>
       </tuv>
     </tu>
     <tu>
@@ -1418,6 +1426,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181217T155622Z" creationid="哗啦" creationdate="20181217T155622Z">
         <seg>舒适时光&lt;x1/&gt;：某个时光也可能是令人舒适的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cozy trust and secrecy</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T065759Z" creationid="哗啦" creationdate="20181219T065759Z">
+        <seg>信任和保密中的舒适</seg>
       </tuv>
     </tu>
     <tu>
@@ -2552,8 +2568,8 @@
       <tuv lang="EN-US">
         <seg>I care about you, and your work is but a small part of what makes you wonderful.Good luck, if and when you’re ready,-- (your signature)&lt;x1/&gt;</seg>
       </tuv>
-      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T065236Z" creationid="哗啦" creationdate="20181219T064918Z">
-        <seg>我很关心你，你所做的只是让你的人生变得丰富多彩的一小部分。如果你已经准备好了，那么我就先祝你好运。--（你的签名）&lt;x1/&gt;</seg>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T065700Z" creationid="哗啦" creationdate="20181219T064918Z">
+        <seg>我很关心您，您所做的只是让您的人生变得丰富多彩的一小部分。如果您已经准备好了，那么我就先祝您好运。--（你的签名）&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
@@ -3870,6 +3886,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Or they may prefer to communicate only through gossip.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T065848Z" creationid="哗啦" creationdate="20181219T065848Z">
+        <seg>或者他们只愿意谈论八卦。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Or they might form cliques where others feel left out.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181218T151941Z" creationid="哗啦" creationdate="20181218T151941Z">
@@ -4250,6 +4274,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181204T155124Z" creationid="哗啦" creationdate="20181204T155124Z">
         <seg>《狂神国度》是一款永恒的MMO游戏，而《阿尔法熊》则是一款舒适、可爱的文字游戏。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>References</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T065733Z" creationid="哗啦" creationdate="20181219T065733Z">
+        <seg>参考</seg>
       </tuv>
     </tu>
     <tu>
