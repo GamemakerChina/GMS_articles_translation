@@ -702,6 +702,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>But if you try and fall short of your expectations, please know that I will still support and celebrate you.</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T064724Z" creationid="哗啦" creationdate="20181219T064724Z">
+        <seg>但如果你尝试过了，就算没有到达自己的期望，我也会为你欢呼，为你喝彩。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>But it would be preferable to avoid disruptions to the player’s experience altogether.</seg>
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181214T052308Z" creationid="哗啦" creationdate="20181214T052308Z">
@@ -2530,6 +2538,14 @@
       </tuv>
       <tuv lang="ZH-CN" changeid="哗啦" changedate="20181207T152334Z" creationid="哗啦" creationdate="20181207T152334Z">
         <seg>如果要想音乐变得更接近真实，更有人性味，那么你可以在音乐中加入一些细微的瑕疵，例如多余的音，或弹奏错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>I care about you, and your work is but a small part of what makes you wonderful.Good luck, if and when you’re ready,-- (your signature)&lt;x1/&gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN" changeid="哗啦" changedate="20181219T064918Z" creationid="哗啦" creationdate="20181219T064918Z">
+        <seg>我很关心你，你的工作只是让你的人生变得丰富多彩的一小部分。如果你已经准备好了，那么我就先祝你好运。--（你的签名）&lt;x1/&gt;</seg>
       </tuv>
     </tu>
     <tu>
